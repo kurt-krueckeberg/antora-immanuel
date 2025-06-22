@@ -5,70 +5,55 @@ image::47.jpg[align=left,title='Image 47, Page 78 (Click to enlarge)',link=self]
 
 == Translation
 
-[role="literal-narrow"]
-....
+[cols="a,a", options="header"]
+|===
+| Transliteration | Translation
 
-  7.   Johann Heinrich
+a|
+[arabic,start="7"]
+. [+11/6/33] Johann Heinrich +
+born the 17th February and baptized the 25th February 1855 +
+Parents:
+** Christian Fridrich Bleeke 
+** Louise born Valsing
 
-[+11/6/33]
-
-       born the 17th February and baptized the 25th February 1855
-
-               Christian Fridrich Bleeke 
-       Parents:
-               Louise born Valsing
-
-       Sponsors: Johann Heinrich Bleeke and Fridrich Valsing
++
+Sponsors: Johann Heinrich Bleeke and Fridrich Valsing
    
-  8.   Caroline Christine Sophie
+. Caroline Christine Sophie +
+[Mrs. Robt. Lee] born the 9th April and baptized the 29th April 1855 +
+Parents:
+**  Johann Heinrich Wilhelm Carl Grote 
+** Carolina Philippina Dorothee née: Krückeberg.
 
-       born the 9th April and baptized the 29th April 1855
++
+Sponsors: Caroline Grote, Philippine Krückeberg and Leonore Bleeke. 
 
-[Mrs. Robt. Lee]
+. [+5/31/39] Friedrich Wilhelm +
+born the 13th April und getauft the 29th April 1855 +
+Parents:
+** Carl Friedrich Wilhelm Bleeke 
+** Maria geboren Bibelheimer
 
-              Johann Heinrich Wilhelm Carl Grote 
-      Parents: 
-              Carolina Philippina Dorothee née: Krückeberg.
++
+Sponsors: Johann Heinrich Bleeke, Christian Fridrich Bleeke und Wilhelm Heckmann
+. [+10/25/03] Heinrich Christian Wilhelm +
+born the 18th February and baptized the 2th March 1856. +
+Parents:
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore geb. Bleeke
+Sponsors: Wilhelm Reinking, Johann Heinrich Bleeke und Christian Fridrich Bleeke.
+. Caroline Christine +
+[+] born 11 September and baptized 4 October 1857. +
+Parents: 
+** [+] Johann Heinrich Wilhelm Carl Grote 
+** Carolina Philippina Dorothee née: Krückeberg.
 
-      Sponsors: Caroline Grote, Philippine Krückeberg and Leonore Bleeke. 
++
+Sponsors: Christine Krückeberg and Philippine Schamerloh.
 
-      9.   Friedrich Wilhelm
-
-[+5/31/39]
-
-           born the 13th April und getauft the 29th April 1855
-
-                   Carl Friedrich Wilhelm Bleeke 
-           Parents:
-                   Maria geboren Bibelheimer
-
-           Sponsors: Johann Heinrich Bleeke, Christian Fridrich Bleeke und Wilhelm Heckmann
-
-      10.   Heinrich Christian Wilhelm
-
-[+10/25/03]
-            born the 18th February and baptized the 2th March 1856.
-
-                   Conrad Dietrich Ferdinand Reinking
-            Parents:
-                   Maria Louise Eleonore geb. Bleeke
-
-            Sponsors: Wilhelm Reinking, Johann Heinrich Bleeke und Chri-
-            stian Fridrich Bleeke.
-
-      11.   Caroline Christine
-
-[+]         born 11 September and baptized 4 October 1857.
-
-[+]                 Johann Heinrich Wilhelm Carl Grote 
-            Parents: 
-                    Carolina Philippina Dorothee née: Krückeberg.
-
-            Sponsors: Christine Krückeberg and Philippine Schamerloh.
-
-      12.
-....
-
+.
+|===
 
 [bibliography]
 == Citation

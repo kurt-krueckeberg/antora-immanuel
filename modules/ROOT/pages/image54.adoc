@@ -3,41 +3,39 @@
 
 image::54.jpg[align="left",title="Page 85, image 54 (Click to enlarge)",link=self]
 
-[role="literal-narrower"]
-....
-49. Louise Sophie Wilhelmine
+[arabic,start="49"]
+. Louise Sophie Wilhelmine
 geboren den 10ten Juli und getauft den 17 ten Juli 1864.
 Carl Heinrich Wilhelm Krückeberg
 Eltern
 Caroline Wilhelmine geb. Kleinschmielt.
 Pathen: Caroline Schamerloh u. Emma Belz.
-50. Heinrich Wilhelm
+. Heinrich Wilhelm
 geboren den 19 ten März und getauft den 26ten März 1865.
 Carl Dietrich Wilhelm Schamerloh.
 Eltern
 Caroline Philippine geb. Krückeberg.
 Pathen: Heinrich Krückeberg und Wilhelm Weiland.
-51. Wilhelmine Christine
+. Wilhelmine Christine
 geboren den 12ten März, und getauft den 20ten März 1865.
 Johann Heinrich Wilhelm Carl Grote
 Eltern
 Caroline Philippine Dorathea geb: Krückeberg.
 Pathen: Caroline Weiland u. Wilhelmine Schamerloh.
-52. Johann Martin
+. Johann Martin
 geboren den 27ten Juli und getauft den 13ten September 1865.
 Christian Fridrich Bleeke
 ElternAnna Maria geb. Rup.
 Pathen: Wilhelm Fells u. Wilhelm Heckmann.
-53. Caroline Philippine
+. Caroline Philippine
 geboren den 29ten October und getauft den 29 October 1865.
 Johann Andreas Thieme
 Eltern
 Christine Sophie Eleonove geb: Krückeberg.
 Pathen: Philippine Weiland u. Philippe Christine Koldeweÿ
-54. Henriette Helene
+. Henriette Helene
 geboren den 29ten October und getauft den 12ten November 1865
 Carl Fridrich Wilhelm Bleeke
 Eltern
 Maria geb: Bibelheimer
 Pathen: Maria Eleonore Reinking u. Henriette Schnellenberger
-....

@@ -3,42 +3,39 @@
 
 image::52.jpg[align="left",title="Page 82, image 52 (Click to enlarge)",link=self]
 
-[role="literal-narrower"]
-....
-37. Carl Wilhelm Christian
+[arabic,start="37"]
+. Carl Wilhelm Christian
 geboren den 15ten September und getauft den 6ten October 1860.
 Johann Heinrich Wilhelm Carl Grote
 Eltern
 Caroline Philippine Dorathea geb. Krückeberg.
 Pathen: Carl Nürge und Christian Schamerloh.
-38. Wilhelmine Louise
+. Wilhelmine Louise
 geboren den 23ten September und getauft den 12ten October 1862.
 Johann Heinrich Wilhelm Carl Grote
 Eltern Caroline Philippine Dorathea geb. Krückeberg
 Pathen: Wilhelmine Nürge und Wilhelmine Weiland.
-39. Caroline Christine Elisabeth
+. Caroline Christine Elisabeth
 geboren den 13ten Januar und getauft den 25ten Ianuar 1863
 Eltern Conrad Dietrich Ferdinand Reinking.
 Maria Louise Elevnere geb. Bleeke.
 Pathen: Caroline Grote und Elisabeth Bibelheimer.
-40. Heinrich Christian Wilhelm
+. Heinrich Christian Wilhelm
 geboren den 26ten September und getauft den 4ten October 1863.
 Christian Dietrich Schamerlih.
 Eltern
 Caroline Philippine Sophie geb. Krückeberg.
 Pathen: Heinrich Krückeberg und Wilhelm Weiland.
 I den 16. April 1895
-41. Fridrich Wilhelm
+. Fridrich Wilhelm
 geboren den 2ten October und getauft den 9ten October 1863.
 Christian Fridrich Blecke
 Eltern
 Anna Maria geb. Rup.
 Pathen: Christian Fridrich Wilhelm Bleeke u. Ferdinand Reinking
-42. Christian Eduard
+. Christian Eduard
 geboren den 5ten November und getauft den 29ten November 1863.
 Carl Fridrich Wilhelm Bleeke
 Eltern
 Maria geb. Bibelheimer.
 Pathen: Christian Fridrich Bleeke u. David Bibelheimer.
-
-....

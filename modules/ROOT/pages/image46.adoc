@@ -25,10 +25,10 @@ Eltern:
 
 +
 Pathen: Wilhelmine Zwick und Sophie Herkmann.
-. Christian Fridrich +
+. Christian Fridrich [+10/21/08] +
 geboren den 12t Januar und getauft den 16t Februar 1851. +
 Eltern:
-** Heinrich Wilhelm Weyland    [+10/21/08]  
+** Heinrich Wilhelm Weyland 
 ** Sophie Wilhelmine geb. Piehl. 
 
 +
@@ -49,7 +49,7 @@ Eltern:
 
 +
 Pathen: Heinrich Krüskeberg und Christian Bleeke.
-. Sophie Louise  [+5/4/34] +
+. Sophie Louise [+5/4/34] +
 geboren den 27t März und getauft den 28t Mörz 1853. +
 Eltern:
 ** Christian Fridrich Bleeke
@@ -77,10 +77,10 @@ Parents:
 
 +
 Godparents: Wilhelmine Zwick and Sophie Herkmann.
-. Christian Fridrich +
+. Christian Fridrich [+10/21/08] +
 born on January 12th and baptized on February 16th, 1851. +
 Parents:
-** Heinrich Wilhelm Weyland [+10/21/08]
+** Heinrich Wilhelm Weyland
 ** Sophie Wilhelmine, née Piehl.
 
 +
@@ -101,10 +101,10 @@ Parents:
 
 +
 Godparents: Heinrich Krüskeberg and Christian Bleeke.
-. Sophie Louise +
+. Sophie Louise [+5/4/34] +
 born on March 27th and baptized on March 28th, 1853. +
 Parents:
-** Christian Fridrich Bleeke [+5/4/34]
+** Christian Fridrich Bleeke
 ** Louise née Valsing.
 
 +

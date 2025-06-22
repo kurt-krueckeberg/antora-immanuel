@@ -7,7 +7,64 @@ image::50.jpg[align="left",title="Page 81, image 50 (Click to enlarge)",link=sel
 
 NOTE: *Hebr.* below refers to Hebron, Nebraska, where the Andreas Thieme and other families
 moved in 1877.
+[cols="a,a", options="header"]
+|===
+| Transliteration | Translation
 
+a|
+[arabic,start="25"]
+. Heinrich +
+geboren den 2ten Mai und getauft am selben Tage 1861. +
+Eltern
+** Christian Dietrich Schamerloh
+** Caroline Philippe Sophie geb. Krückeberg.
+
++
+Dieses Kind empfing die Nothtaufe u starb am 4. Mai 1861.
+. Wilhelmine Christine +
+geboren den 20 April und getauft den 5 Mai 1861. +
+Eltern
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore geb: Bleeke.
+
++
+Pathen: Wilhelmine Reinking Sophie Herkmann und Maria Bleeke.
+. a) Christine Emilie +
+geboren den 8ten September und getauft den 89ten Sept. 1861. +
+Eltern
+** Carl Fridrich Wilhelm Bleeke.
+** Maria geb. Bibelheimer.
+
++
+Pathen: Christine Heckmann und Caroline Scheumann. +
+(das nächste Kind siehe folgende Seite No 35)
+. Elisabetha. +
+geboren den 14ten Juli und getauft den 18ten Juli 1861. +
+Eltern
+** Heinrich Jakob Rücklos
+** Friderike geboren Dauer.
+
++
+Pathen: Jakob Stöhr u. dessen Ehefrau Elisabeth.
+. Maria Margaretha Elisabeth +
+geboren den 20ten Januar und getauft den [day missing] 1862 +
+Eltern
+** Christian Wilhelm Fells.
+** Elisabeth geborene Ruß.
+
++
+Pathen: Maria Blecke und Margaretha Christiäner +
+moved to me with father, 1877
+. Caroline Sophie Louise +
+geboren den 18ten Februar und getauft den 2ten März 1862. +
+Eltern 
+** Johann Andreas Thieme
+** Christine Sophie Eleonore geb. Krückeberg.
+
++
+Pathen: Caroline Grote und Sophie Thieme
+
+a|
 [arabic,start="25"]
 . Heinrich [+5/4/61] +
 born on May 2nd and baptized on the same day 1861. +
@@ -42,7 +99,7 @@ Parents
 
 +
 Godparents: Jakob Stöhr and his wife Elisabeth.
-. Maria Margaretha Elisabeth   [Moved to Hebr. with a ????? 1877] +
+. Maria Margaretha Elisabeth   [Moved to Hebr. with father, 1877] +
 Born on January 20 and baptized 1862 +
 Parents
 ** Christian Wilhelm Fells
@@ -59,3 +116,4 @@ Parents
 
 +
 Godparents: Caroline Grote and Sophie Thieme
+|===

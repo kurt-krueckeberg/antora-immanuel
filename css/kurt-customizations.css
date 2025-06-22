@@ -3,6 +3,11 @@ body.doc-width .doc
    max-width: 80rem;  /* Changing this to 'none' widens the page */
 }
 
+.tauf-width {
+
+    max-width: 85ch;
+}
+
 .literal-narrow {
     max-width: 95ch;
     border-left: 3px solid #ccc; /* A visual separator */ 
@@ -18,7 +23,6 @@ body.doc-width .doc
 .section-narrow {
     max-width: 95ch;
 }
-
 
 .section-narrower {
     max-width: 90ch;

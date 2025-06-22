@@ -1,5 +1,7 @@
 = Entries 153-157
+:page-role: doc-width
 
+[role="tauf-width"]
 == Transliteration
 
 === Taufregister.

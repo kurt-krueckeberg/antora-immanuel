@@ -3,100 +3,65 @@
 
 image::48.jpg[align="left",title="Page 79, image 48 (Click to enlarge),link=self]
 
-== Translation
+== Transliteration and Translation
 
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+a|
 [arabic,start="13"]
-. Maria Louise
-geboren den 4ten März und getauft den 28t März 1858.
-Bleeke
-Carl Fridrich Wilhelm
+. Maria Louise [+] +
+geboren den 4ten März und getauft den 28t März 1858. +
 Eltern:
-Maria geborene Bibelheimer
+** Carl Fridrich Wilhelm Bleeke
+** Maria geborene Bibelheimer
+
++
 Pathen: Maria Bibelheimer und Sophie Heckmann.
-. Christine Emilie
-geboren den 7ten März und getauft den 28t März 1858.
-Conrad Dietrich Ferdinand Reinking
+. Christine Emilie +
+geboren den 7ten März und getauft den 28t März 1858. +
 Eltern:
-Maria Louise Eleonore geb. Bleeke.
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore geb. Bleeke.
+
++
 Pathen:
-. Johann Fridrich
-geboren den 1ten October und getauft den 10t October 1858
-Johann Andreas Thieme
+. Johann Fridrich +
+geboren den 1ten October und getauft den 10t October 1858 +
 Eltern:
-Christine Sophie Eleonore geb. Krückeberg
+** Johann Andreas Thieme [+5/15/20]
+** Christine Sophie Eleonore geb. Krückeberg
+
++
 Pathen: Johann Gottlieb Thieme u. Johann Heinrich Krückeberg
-. Christine Elise
-geboren den 10t Februar und getauft den 27t Febuar 1859.
-Christian Fridrich Bleeke.
+. Christine Elise +
+geboren den 10t Februar und getauft den 27t Febuar 1859. +
 Eltern:
-Anna Maria geborene Ruß-
+** Christian Fridrich Bleeke.
+** Anna Maria geborene Ru[s/p]
+
++
 Pathen: Elisabeth Rup und Christine Herkmann
-. Carl Wilhelm Christian
-geboren den 28ten April und getauft den 8ten May 1859.
-Carl Districh Wilhelm Schamerloh.
+. Carl Wilhelm Christian +
+geboren den 28ten April und getauft den 8ten May 1859. +
 Eltern:
-Caroline Philippine geb. Krückeberg.
+** Carl Districh Wilhelm Schamerloh.
+** Caroline Philippine geb. Krückeberg.
+
++
 Pathen: Christian Schamerloh u. Carl Krückeberg.
-. Christine Marie
-geboren den 5t May und getauft den 24t May 1859.
+. Christine Marie +
+geboren den 5t May und getauft den 24t May 1859. +
 Eltern:
-Conrad Dietrich Ferdinand Reinking
-Maria Louise Eleonore geb. Bleeke.
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore geb. Bleeke.
+
++
 Pathen Maria Bleeke und Christine Heckmann.
 
-
-[role="literal-narrow"]
-....
-13.     Maria Louise                [+]
-
-     born the 4th of March and baptized the 28th of March 1858.
-
-           Carl Fridrich Wilhelm Bleeke
-     Parents:
-           Maria née Bibelheimer
-
-     Godparents: Maria Bibelheimer and Sophie Heckmann.
-
-15.     Johann Fridrich
-
-      born October 1st and baptized October 10th 1858
-
-          Johann Andreas Thieme [+5/15/20]
-       Parents:
-          Christine Sophie Eleonore née Krückeberg
-
-       Godparents: Johann Gottlieb Thieme and Johann Heinrich Krückelerg
-
-16.      Christine Elise
-
-      born on February 10th and baptized on February 27th 1859.
-                                                     [+4/6/61]
-             Christian Fridrich Bleeke
-        Parents:
-             Anna Maria née Ruß
-      Godparents: Elisabeth Rup and Christine Heckmann
-
-17.      Carl Wilhelm Christian
-
-      born April 25th and baptized May 8th 1859. [+5/13/59]
-
-            Carl Dietrich Wilhelm Schamerloh.
-      Parents:
-            Caroline Philippine née Krückeberg.
-
-      Godparents: Christian Schamerloh and Carl Krückeberg.
-
-
-18.      Christine Marie
-
-      born the 5th May and baptized the 24th May 1859.
-
-           Conrad Dietrich Ferdinand Reinking
-      Eltern
-           Maria Louise Eleonore née Bleeke.
-
-      Pathen: Maria Bleeke und Christine Heckmann.
-....
+a|
+|===
 
 [bibliography]
 == Citation

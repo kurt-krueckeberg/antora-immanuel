@@ -5,13 +5,19 @@ image::46.jpg[align=left,title='Image 46, page 77 (Click to enlarge)',link=self]
 
 == Transliteration
 
+[NOTE]
+====
+All the death dates, which are preceded by `+`, are written in pencil, as is
+"Mrs Hy Heier" in entry #3.
+====
+
 === Taufregister
 
 [arabic,start="1"]
 . Marie Louise +
-geboren den 14te November und getauft den 8t December 1850. +
+geboren den 14ten November und getauft den 8ten December 1850. +
 Eltern:
-** Christian Fridrich Bleeke.
+** Christian Fridrich Bleeke. [+7/28/21]  
 ** Louise geborene Valsing.
 
 +
@@ -19,7 +25,7 @@ Pathen: Wilhelmine Zwick und Sophie Herkmann.
 . Christian Fridrich +
 geboren den 12t Januar und getauft den 16t Februar 1851. +
 Eltern:
-** Heinrich Wilhelm Weyland 
+** Heinrich Wilhelm Weyland    [+10/21/02]  
 ** Sophie Wilhelmine geb. Piehl. 
 
 +
@@ -27,7 +33,7 @@ Pathen: Fridrich Bleeke und Christian Bleeke.
 . Isabella +
 geboren den 21t Februar und getauft den 1t März 1851. +
 Eltern:
-** David Daniel Bibelheimer
+** David Daniel Bibelheimer  [Mrs. Hy Heier] 
 ** Maria geborene Zähner.
 
 +
@@ -35,7 +41,7 @@ Pathen: Louise Bleeke und Maria Bleeke
 . Carl Heinrich Christian +
 geboren den 26t Februar und getauft den 12t März 1853. +
 Eltern:
-** Johann Heinrich Wilhelm Carl Gravte
+** Johann Heinrich Wilhelm Carl Gravte [+11/14/28] 
 ** Caroline Philippine Dorathee geb. Krückeberg
 
 +
@@ -43,7 +49,7 @@ Pathen: Heinrich Krüskeberg und Christian Bleeke.
 . Sophie Louise +
 geboren den 27t März und getauft den 28t Mörz 1853. +
 Eltern:
-** Christian Fridrich Bleeke
+** Christian Fridrich Bleeke [+5/4/34] 
 ** Louise geborene: Valsing.
 
 +
@@ -51,87 +57,61 @@ Pathen: Christine Bleeke und Louise Valsing.
 . Mathilde Christine Louise +
 geboren den 5te Oktober und getauft den 5t November 1854. +
 Eltern:
-** Conrad Dietrich Ferdinand Reinking
+** Conrad Dietrich Ferdinand Reinking [+4/12/01] 
 ** Maria Louise Eleonore geb. Bleeke
 
 +  
 Pathen: Christine Blecke u.  Louise Reinking
 
 == Translation
- 
-[NOTE]
-====
-All the death dates, which are preceded by `+`, are written in pencil, as is
-"Mrs Hy Heier" in entry #3.
-====
 
-[role="literal-narrow"]
-....
-1.         Marie Louise
+=== Baptism Register
 
-    born 14 November and baptized 8 December 1850
+Marie Louise +
+born on November 14th and baptized on December 8th, 1850. +
+Parents:
+** Christian Fridrich Bleeke. [+7/28/21]
+** Louise, née Valsing.
 
-                   Christian Fridrich Bleeke         [+7/28/21]  
-           Parents
-                   Louise born Valsing
++
+Godparents: Wilhelmine Zwick and Sophie Herkmann.
+Christian Fridrich +
+born on January 12th and baptized on February 16th, 1851. +
+Parents:
+** Heinrich Wilhelm Weyland [+10/21/02]
+** Sophie Wilhelmine, née Piehl.
 
-           Godparents: Wilhelmine T[wick/eick] and Sophie Heckmann.
++
+Godparents: Fridrich Bleeke and Christian Bleeke.
+Isabella +
+born on February 21st and baptized on March 1st, 1851. +
+Parents:
+** David Daniel Bibelheimer [Mrs. Hy Heier]
+** Maria, née Zähner.
 
++
+Godparents: Louise Bleeke and Maria Bleeke
+. Carl Heinrich Christian +
+born on February 26th and baptized on March 12th, 1853. +
+Parents:
+** Johann Heinrich Wilhelm Carl Gravte [+11/14/28]
+** Caroline Philippine Dorathee née Krückeberg
 
++
+Godparents: Heinrich Krüskeberg and Christian Bleeke.
+. Sophie Louise +
+born on March 27th and baptized on March 28th, 1853. +
+Parents:
+** Christian Fridrich Bleeke [+5/4/34]
+** Louise née Valsing.
 
-2.         Christian Fridrich
++
+Godparents: Christine Bleeke and Louise Valsing.
+. Mathilde Christine Louise +
+born on October 5th and baptized on November 5th, 1854. +
+Parents:
+** Conrad Dietrich Ferdinand Reinking [+4/12/01]
+** Maria Louise Eleonore née Bleeke
 
-    born 12 January and baptized 16 February 1851
-
-                   Heinrich Wilhelm Weÿland          [+10/21/02]  
-           Parents
-                   Sophie Wilhelmine née Piehl
-
-           Godparents: Fridrich Bleeke and Christian Bleeke
-
-3.         Isabella
-
-    born 21 February and baptized 1 March 1851
-
-                  David Daniel Bibelheimer           [Mrs. Hy Heier] 
-           Parents
-                  Maria born Jähner
-
-           Godparents: Louise Bleeke and Maria Bleeke
-
-4.         Carl Heinrich Christian
-
-   born 26 February and baptized 12 March 1853
-
-                  Johann Heinrich Wilhelm Carl Gr[?]ote [+11/14/28] 
-           Parents
-                  Caroline Philippine Dorothee née Krückeberg
-
-           Godparents: Heinrich Krückeberg and Christian Bleeke
-
-5.          Sophie Louise
-
-   born: 27 March and baptized 28 March 1853
-
-                  Christian Fridrich Bleeke +5/4/34 
-           Parents
-                  Louise born Valsing
-
-           Godparents: Christine Bleeke and Louise Valsing
-
-6.         Mathilde Christine Louise
-
-   born 5 October and baptized 5 November 1854
-
-                   Conrad Dietrich Ferdinand Reinking    [+4/12/01] 
-            Parents
-                   Maria Louise Eleonore née Bleeke
-
-            Godparents: Christine Bleeke and Louise Reinking
-....
-
-
-[bibliography]
-== Citation
-
-* [[[image46]]] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the church, Image 46 of 242
++
+Godparents: Christine Blecke and Louise Reinking

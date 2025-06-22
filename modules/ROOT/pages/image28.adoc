@@ -1,7 +1,11 @@
 = Jakob Stöhr
 
+image::28.jpg[title="Jakob Stöhr bio (Click to Enlarge)",link=self]
+
 == Transliteration from old German script
 
+[role="literal-narrow"]
+....
 No. ?
 
 ehelicher Sohn von Fridrich Jakob Stöhr und Margaretha neé Kern geboren
@@ -18,6 +22,7 @@ selben Monat , confirmiert [empty]
 
 Im Jahre 1845 wanderte sie mit ihren Eltern aus nach den Vereinigten
 Staaten von Nord-Amerika.
+....
 
 == English Translation
 

@@ -22,7 +22,7 @@
 ** xref:image25.adoc[]
 ** xref:image26.adoc[]
 ** xref:image27.adoc[]
-** xref:bios/jakob-stöhr.adoc[]
+** xref:image28.adoc[]
 ** xref:bios/christian-dietrich-schamerloh.adoc[]
 ** xref:bios/jacob-fridrich-höriger.adoc[]
 ** xref:bios/heinrich-jacob-rücklos.adoc[]

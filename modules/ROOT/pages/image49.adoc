@@ -11,7 +11,7 @@ image::49.jpg[align=left,title='Page 80, image 49 (Click to enlarge)',link=self]
 
 a|
 [arabic,start=19]
-. Carl Fridrich Wilhelm +
+. [+5/18/32] Carl Fridrich Wilhelm +
 geboren den 19ten September und getauft den 1t October 1859. +
 Eltern:
 ** Christian Dietrich Schamerloh
@@ -19,7 +19,8 @@ Eltern:
 
 +
 Pathen: Carl Dietrich Wilhelm Schamerich u. Carl Heinrich Wilh. Kruckeberg.
-. Caroline Elisabeth +
+. [+?] Caroline Elisabeth +
+[E.C. Gallmeier] +
 geboren den 1ten November und getauft den 20t Novemb. 1859. +
 Eltern:
 ** Carl Fridrich Wilhelm Bleeke.
@@ -29,7 +30,7 @@ Eltern:
 Pathen: Elisabeth Bibelheimer und Maria Bleeke. +
 (Dies nächste Kind siehe No 33.)
 . Maria Elise
-geboren den 23ten Juni und getauft den 8t Juli 1860. +
+[+3/10/95] geboren den 23ten Juni und getauft den 8t Juli 1860. +
 Eltern:
 ** Christian Fridrich Bleekc
 ** Anna Maria geborene Rup.
@@ -37,7 +38,7 @@ Eltern:
 +
 Pathen: Maria Reinking und Sahra Rup.
 . Fridrich Wilhelm +
-geboren den 16ten Juli und getauft den 29den Juli 1860. +
+[+] geboren den 16ten Juli und getauft den 29den Juli 1860. +
 Eltern:
 ** Johann Andreas Thieme
 ** Christine Sophie Eleonore geb. Krückeberg.
@@ -45,6 +46,7 @@ Eltern:
 +
 Pathen: Wilhelm Weiland und Carl Krüskeberg.
 . Fridrich Christian Wilhelm +
+[+2/1/40] +
 geboren den 30ten September und getauft den 6t October 1860 +
 Eltern:
 ** Carl Heinrich Wilhelm Kräckeberg
@@ -53,6 +55,7 @@ Eltern:
 +
 Pathen: Wilhelm Schamerloh Christian Kleinschmidt.
 . Carl Wilhelm Christian +
+[+1/2/62] +
 geboren den 15ten September und getauft den 6 October 1860 +
 Eltern:
 ** Johann Heinrich Wilhelm Carl Grote

@@ -11,21 +11,23 @@ image::47.jpg[align=left,title='Image 47, Page 78 (Click to enlarge)',link=self]
 
 a|
 [arabic,start="7"]
-.  Johann Heinrich +
+. [+11/6/33] Johann Heinrich +
 geboren den 17t. Februar und getauft den 25 Febuar 1855 +
 Eltern:
 ** Christian Fridrich Bleeke
 ** Louise geborene: Valsing.
+
++
 Pathen: Johann Heinrich Bleeke u. Fridrich Valsing
 . Caroline Christine Sophie +
-geboren den 9t April und getaust den 29t April 1855. +
+[Mrs. Robt. Lee] geboren den 9t April und getaust den 29t April 1855. +
 Eltern:
 ** Johann Heinrich Wilhelm Carl Grote
 ** Caroline Philippine Derathee geb. Krückeberg.
 
 +
 Pathen: Caroline Grote, Philippine Krückeberg u. Leonore Bleeke.
-. Fridrich Wilhelm +
+. [+5/31/39] Friedrich Wilhelm +
 geboren den 13t April und getauft den 29t April 1855. +
 Eltern:
 ** Carl Fridrich Wilhelm Bleeke
@@ -33,7 +35,7 @@ Eltern:
 
 +
 Pathen: Johann Heinrich Bleeke, Christian Fridrich Bleeke und Wilhelm Heckmann.
-. Heinrich Christian Wilhelm +
+. [+10/25/03] Heinrich Christian Wilhelm +
 geboren den 18ten Februar und getauft den 2t März 1856. +
 Eltern:
 ** Conrad Dietrich Ferdinand Reinking
@@ -42,7 +44,7 @@ Eltern:
 +
 Pathen: Wilhelm Reinking, Johann Heinrich Bleeke und Christian Fridrich Bleeke.
 . Caroline Christine +
-geboren den 11t September und getauft den 4t October 1857. +
+[+] geboren den 11t September und getauft den 4t October 1857. +
 Eltern:
 ** Johann Heinrich Wilhelm Carl Grote
 ** Caroline Philippine Derathee geb. Krückeberg
@@ -61,7 +63,6 @@ Parents:
 
 +
 Sponsors: Johann Heinrich Bleeke and Fridrich Valsing
-   
 . Caroline Christine Sophie +
 [Mrs. Robt. Lee] born the 9th April and baptized the 29th April 1855 +
 Parents:
@@ -70,7 +71,6 @@ Parents:
 
 +
 Sponsors: Caroline Grote, Philippine Krückeberg and Leonore Bleeke. 
-
 . [+5/31/39] Friedrich Wilhelm +
 born the 13th April und getauft the 29th April 1855 +
 Parents:
@@ -84,6 +84,8 @@ born the 18th February and baptized the 2th March 1856. +
 Parents:
 ** Conrad Dietrich Ferdinand Reinking
 ** Maria Louise Eleonore geb. Bleeke
+
++
 Sponsors: Wilhelm Reinking, Johann Heinrich Bleeke und Christian Fridrich Bleeke.
 . Caroline Christine +
 [+] born 11 September and baptized 4 October 1857. +

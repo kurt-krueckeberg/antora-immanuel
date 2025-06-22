@@ -1,4 +1,5 @@
 = Jakob Stöhr
+:page-role: doc-width
 
 image::28.jpg[title="Jakob Stöhr bio (Click to Enlarge)",link=self]
 
@@ -24,6 +25,7 @@ Im Jahre 1845 wanderte sie mit ihren Eltern aus nach den Vereinigten
 Staaten von Nord-Amerika.
 ....
 
+[role="section-narrow"]
 == English Translation
 
 No. ?

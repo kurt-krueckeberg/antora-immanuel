@@ -49,7 +49,7 @@ Eltern:
 
 +
 Pathen: Christine Krückeberg und Philippine Schamerloh
-. 
+. [empty] 
 
 a|
 [arabic,start="7"]
@@ -93,7 +93,7 @@ Parents:
 
 +
 Sponsors: Christine Krückeberg and Philippine Schamerloh.
-. 
+. [empty] 
 |===
 
 [bibliography]

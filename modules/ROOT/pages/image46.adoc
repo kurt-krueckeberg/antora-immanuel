@@ -116,3 +116,63 @@ Parents:
 
 +
 Godparents: Christine Blecke and Louise Reinking
+
+== Test
+
+[cols="a,a", options="header"]
+|===
+| Original | English Translation
+
+a|
+[arabic,start="1"]
+. Marie Louise +
+geboren den 14ten November und getauft den 8ten December 1850. +
+Eltern:
+** Christian Fridrich Bleeke. [+7/28/21]  
+** Louise geborene Valsing.
+
++
+Pathen: Wilhelmine Zwick und Sophie Herkmann.
+
+. Christian Fridrich +
+geboren den 12t Januar und getauft den 16t Februar 1851. +
+Eltern:
+** Heinrich Wilhelm Weyland    [+10/21/02]  
+** Sophie Wilhelmine geb. Piehl. 
+
++
+Pathen: Fridrich Bleeke und Christian Bleeke.
+
+. Isabella +
+geboren den 21t Februar und getauft den 1t März 1851. +
+Eltern:
+** David Daniel Bibelheimer  [Mrs. Hy Heier] 
+** Maria geborene Zähner.
+
+a|
+[arabic,start="1"]
+. Marie Louise +
+born on November 14 and baptized on December 8, 1850. +
+Parents:
+** Christian Fridrich Bleeke. [+7/28/21]  
+** Louise née Valsing.
+
++
+Godparents: Wilhelmine Zwick and Sophie Herkmann.
+
+. Christian Fridrich +
+born on January 12 and baptized on February 16, 1851. +
+Parents:
+** Heinrich Wilhelm Weyland    [+10/21/02]  
+** Sophie Wilhelmine née Piehl. 
+
++
+Godparents: Fridrich Bleeke and Christian Bleeke.
+
+. Isabella +
+born on February 21 and baptized on March 1, 1851. +
+Parents:
+** David Daniel Bibelheimer  [Mrs. Hy Heier] 
+** Maria née Zähner.
+|===
+

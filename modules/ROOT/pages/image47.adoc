@@ -11,6 +11,47 @@ image::47.jpg[align=left,title='Image 47, Page 78 (Click to enlarge)',link=self]
 
 a|
 [arabic,start="7"]
+.  Johann Heinrich +
+geboren den 17t. Februar und getauft den 25 Febuar 1855 +
+Eltern:
+** Christian Fridrich Bleeke
+** Louise geborene: Valsing.
+Pathen: Johann Heinrich Bleeke u. Fridrich Valsing
+. Caroline Christine Sophie +
+geboren den 9t April und getaust den 29t April 1855. +
+Eltern:
+** Johann Heinrich Wilhelm Carl Grote
+** Caroline Philippine Derathee geb. Krückeberg.
+
++
+Pathen: Caroline Grote, Philippine Krückeberg u. Leonore Bleeke.
+. Fridrich Wilhelm +
+geboren den 13t April und getauft den 29t April 1855. +
+Eltern:
+** Carl Fridrich Wilhelm Bleeke
+** Maria geborene Bibelheimer
+
++
+Pathen: Johann Heinrich Bleeke, Christian Fridrich Bleeke und Wilhelm Herkmann.
+. Heinrich Christian Wilhelm +
+geboren den 18ten Februar und getauft den 2t März 1856. +
+Eltern:
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore geb. Bleeke
+
++
+Pathen: Wilhelm Reinking, Johann Heinrich Bleeke und Christian Fridrich Bleeke.
+. Caroline Christine +
+geboren den 11t September und getauft den 4t October 1857. +
+Eltern:
+** Johann Heinrich Wilhelm Carl Grote
+** Caroline Philippine Derathee geb. Krückeberg
+
++
+Pathen: Christine Krückeberg und Philippine Schamerloh
+
+a|
+[arabic,start="7"]
 . [+11/6/33] Johann Heinrich +
 born the 17th February and baptized the 25th February 1855 +
 Parents:
@@ -52,7 +93,7 @@ Parents:
 +
 Sponsors: Christine Krückeberg and Philippine Schamerloh.
 
-.
+. [empty]
 |===
 
 [bibliography]

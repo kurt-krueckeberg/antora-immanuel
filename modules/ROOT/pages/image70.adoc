@@ -1,19 +1,14 @@
 = Entries 146-152
- 
-166.
-2.
-2/13/5
-167.
-1013.
-168.
-Taufregister.
-.
-1880.
-6.
-Peter Christian Gottfried,
-geboren der 10t November 1880, gesucht den 25te November 1880.
-Heinrich Bleete
-E. Eere
+
+image::71.jpg[]
+
+== Transliteration
+
+=== Taufregister
+
+. Peter Christian Gottfried, geboren der 10t November 1880, gesucht den 25te November 1880.
+      Heinrich Bleeke
+Eltern
 Emilie.
 Hierme
 g. 3

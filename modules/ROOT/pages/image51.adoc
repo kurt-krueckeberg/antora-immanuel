@@ -3,43 +3,52 @@
 
 image::51.jpg[align="left",title="Page 82, image 51 (Click to enlarge)",link=self]
 
-[role="literal-narrower"]
-....
-31. Caroline Wilhelmine Louise
-geboren den 18ten März und getauft den 23ten März 1862
-Christian Dietrich Schamerloh
-Eltern
-Caroline Philippine Sophie geb. Krückeborg
-Pathen-Caroline Philippine Schamerloh und Caroline Wilhelmine Krückeberg.
-32. Fridrich Heinrich
-geboren den 9ten Januar und getauft den 19ten Januar 1862.
-Carl Heinrich Ludwig Koldeweÿ
-Eltern
-Sophie Louise geb. Winkelmann
+[arabic,start="31"]
+. Caroline Wilhelmine Louise +
+geboren den 18ten März und getauft den 23ten März 1862 +
+Eltern:
+** Christian Dietrich Schamerloh
+** Caroline Philippine Sophie geb. Krückeborg
+
++
+Pathen: Caroline Philippine Schamerloh und Caroline Wilhelmine Krückeberg.
+. Fridrich Heinrich +
+geboren den 9ten Januar und getauft den 19ten Januar 1862. +
+Eltern:
+** Carl Heinrich Ludwig Koldeweÿ
+** Sophie Louise geb. Winkelmann
+
++
 Pathen: Johann Heinrich Bleeke, Fridrich Koldeweÿ
-33. Louise Sophie Caroline
-geboren den 10ten April und getauft den 15ten April 1860
-Carl Dietrich Wilhelm Schamerloh.
-Eltern
-Caroline Philippine geb. Krückeberg
+. Louise Sophie Caroline +
+geboren den 10ten April und getauft den 15ten April 1860 +
+Eltern:
+** Carl Dietrich Wilhelm Schamerloh.
+** Caroline Philippine geb. Krückeberg
+
++
 Pathen: Caroline Schamerloh u. Caroline Krückeberg.
-34. Caroline Wilhelmin
-geboren den 12ten Januar und getauft den 20ten Januaar 1862
-Carl Dietrich Wilhelm Schamerloh
-Eltern
-Caroline Philippe geb. Krückeberg.
+. Caroline Wilhelmin +
+geboren den 12ten Januar und getauft den 20ten Januaar 1862 +
+Eltern:
+** Carl Dietrich Wilhelm Schamerloh
+** Caroline Philippe geb. Krückeberg.
+
++
 Pathen: Wilhelmine Weiland u Caroline Grote.
-35.  [27 b]
-Carl Friedrich
-geboren den 1ten October und getauft den 9ten October 1861.
-Christian Fridrich Blecke
-Eltern
-Anna Maria geb. Rup.
+.  [27 b] Carl Friedrich +
+geboren den 1ten October und getauft den 9ten October 1861. +
+Eltern:
+** Christian Fridrich Blecke
+** Anna Maria geb. Rup.
+
++
 Pathen Carl Zwick und Carl Heckmann.
-36. Sophie (Louise) Philippeine
-geboren den 2ten Juli und getauft den 14ten Juli 1862.
-Carl Heinrich Wilhelm Krückeberg
-Eltern
-Caroline Wilhelmine geb. Kleinschmidt
-Pathen Phelippine Schamerloh u. Sophie Buuck.
-....
+. Sophie (Louise) Philippeine +
+geboren den 2ten Juli und getauft den 14ten Juli 1862. +
+Eltern:
+** Carl Heinrich Wilhelm Krückeberg
+** Caroline Wilhelmine geb. Kleinschmidt
+
++
+Pathen: Phelippine Schamerloh u. Sophie Buuck.

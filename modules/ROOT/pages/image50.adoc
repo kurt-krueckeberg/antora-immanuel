@@ -15,7 +15,7 @@ a|
 [arabic,start="25"]
 . Heinrich +
 geboren den 2ten Mai und getauft am selben Tage 1861. +
-Eltern
+Eltern:
 ** Christian Dietrich Schamerloh
 ** Caroline Philippe Sophie geb. Krückeberg.
 
@@ -23,7 +23,7 @@ Eltern
 Dieses Kind empfing die Nothtaufe u starb am 4. Mai 1861.
 . Wilhelmine Christine +
 geboren den 20 April und getauft den 5 Mai 1861. +
-Eltern
+Eltern:
 ** Conrad Dietrich Ferdinand Reinking
 ** Maria Louise Eleonore geb: Bleeke.
 
@@ -31,7 +31,7 @@ Eltern
 Pathen: Wilhelmine Reinking Sophie Herkmann und Maria Bleeke.
 . a) Christine Emilie +
 geboren den 8ten September und getauft den 89ten Sept. 1861. +
-Eltern
+Eltern:
 ** Carl Fridrich Wilhelm Bleeke.
 ** Maria geb. Bibelheimer.
 
@@ -40,7 +40,7 @@ Pathen: Christine Heckmann und Caroline Scheumann. +
 (das nächste Kind siehe folgende Seite No 35)
 . Elisabetha. +
 geboren den 14ten Juli und getauft den 18ten Juli 1861. +
-Eltern
+Eltern:
 ** Heinrich Jakob Rücklos
 ** Friderike geboren Dauer.
 
@@ -48,7 +48,7 @@ Eltern
 Pathen: Jakob Stöhr u. dessen Ehefrau Elisabeth.
 . Maria Margaretha Elisabeth +
 geboren den 20ten Januar und getauft den [day missing] 1862 +
-Eltern
+Eltern:
 ** Christian Wilhelm Fells.
 ** Elisabeth geborene Ruß.
 
@@ -57,7 +57,7 @@ Pathen: Maria Blecke und Margaretha Christiäner +
 moved to me with father, 1877
 . Caroline Sophie Louise +
 geboren den 18ten Februar und getauft den 2ten März 1862. +
-Eltern 
+Eltern: 
 ** Johann Andreas Thieme
 ** Christine Sophie Eleonore geb. Krückeberg.
 
@@ -68,7 +68,7 @@ a|
 [arabic,start="25"]
 . Heinrich [+5/4/61] +
 born on May 2nd and baptized on the same day 1861. +
-Parents
+Parents:
 ** Christian Dietrich Schamerloh
 ** Caroline Philippe Sophie, née Krückeberg.
 
@@ -76,7 +76,7 @@ Parents
 This child received emergency basptism and died on May 4th, 1861.
 . Wilhelmine Christine +
 born on April 20th and baptized on May 5th, 1861. [+1/26/97] +
-Parents
+Parents:
 ** Conrad Dietrich Ferdinand Reinking
 ** Maria Louise Eleonore, née Bleeke.
 
@@ -84,7 +84,7 @@ Parents
 Godparents: Wilhelmine Reinking, Sophie Heckmann and Maria Bleeke.
 . a) Christine Emilie +
 born on September 8th and baptized on September 29th, 1861. [+4/16/98] +
-Parents
+Parents:
 ** Carl Fridrich Wilhelm Bleeke.
 ** Maria née Bibelheimer.
 
@@ -93,7 +93,7 @@ Godparents: Christine Heckmann and Caroline Scheumann. +
 (For the next child, see the following page 35)
 . Elisabetha +
 Born on July 14 and baptized on July 18, 1861. +
-Parents
+Parents:
 ** Heinrich Jakob Rücklos
 ** Friderike née Dauer.
 
@@ -101,7 +101,7 @@ Parents
 Godparents: Jakob Stöhr and his wife Elisabeth.
 . Maria Margaretha Elisabeth   [Moved to Hebr. with father, 1877] +
 Born on January 20 and baptized 1862 +
-Parents
+Parents:
 ** Christian Wilhelm Fells
 ** Elisabeth née Ru[ß/p
 
@@ -110,7 +110,7 @@ Godparents: Maria Blecke and Margaretha Christiäner
 
 . Caroline Sophie Louise +
 Born on February 18 and baptized on March 2, 1862. +
-Parents
+Parents:
 ** Johann Andreas Thieme
 ** Christine Sophie Eleonore née Krückeberg.
 

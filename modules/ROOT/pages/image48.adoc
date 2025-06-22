@@ -5,6 +5,46 @@ image::48.jpg[align="left",title="Page 79, image 48 (Click to enlarge),link=self
 
 == Translation
 
+[arabic,start="13"]
+. Maria Louise
+geboren den 4ten März und getauft den 28t März 1858.
+Bleeke
+Carl Fridrich Wilhelm
+Eltern:
+Maria geborene Bibelheimer
+Pathen: Maria Bibelheimer und Sophie Heckmann.
+. Christine Emilie
+geboren den 7ten März und getauft den 28t März 1858.
+Conrad Dietrich Ferdinand Reinking
+Eltern:
+Maria Louise Eleonore geb. Bleeke.
+Pathen:
+. Johann Fridrich
+geboren den 1ten October und getauft den 10t October 1858
+Johann Andreas Thieme
+Eltern:
+Christine Sophie Eleonore geb. Krückeberg
+Pathen: Johann Gottlieb Thieme u. Johann Heinrich Krückeberg
+. Christine Elise
+geboren den 10t Februar und getauft den 27t Febuar 1859.
+Christian Fridrich Bleeke.
+Eltern:
+Anna Maria geborene Ruß-
+Pathen: Elisabeth Rup und Christine Herkmann
+. Carl Wilhelm Christian
+geboren den 28ten April und getauft den 8ten May 1859.
+Carl Districh Wilhelm Schamerloh.
+Eltern:
+Caroline Philippine geb. Krückeberg.
+Pathen: Christian Schamerloh u. Carl Krückeberg.
+. Christine Marie
+geboren den 5t May und getauft den 24t May 1859.
+Eltern:
+Conrad Dietrich Ferdinand Reinking
+Maria Louise Eleonore geb. Bleeke.
+Pathen Maria Bleeke und Christine Heckmann.
+
+
 [role="literal-narrow"]
 ....
 13.     Maria Louise                [+]

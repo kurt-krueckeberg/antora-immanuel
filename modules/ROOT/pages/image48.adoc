@@ -62,8 +62,8 @@ Pathen Maria Bleeke und Christine Heckmann.
 
 a|
 [arabic,start="13"]
-. Maria Louise [+]
-born on March 4th and baptized on March 28th, 1858.
+. Maria Louise [+] +
+born on March 4th and baptized on March 28th, 1858. +
 Parents:
 ** Carl Friedrich Wilhelm Bleeke
 ** Maria, née Bibelheimer

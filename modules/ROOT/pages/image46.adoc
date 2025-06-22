@@ -3,6 +3,60 @@
 
 image::46.jpg[align=left,title='Image 46, page 77 (Click to enlarge)',link=self]
 
+== Transliteration
+
+=== Taufregister
+
+[arabic,start="1"]
+. Marie Louise +
+geboren den 14te November und getauft den 8t December 1850. +
+Eltern:
+** Christian Fridrich Bleeke.
+** Louise geborene Valsing.
+
++
+Pathen: Wilhelmine Zwick und Sophie Herkmann.
+. Christian Fridrich +
+geboren den 12t Januar und getauft den 16t Februar 1851. +
+Eltern:
+** Heinrich Wilhelm Weyland 
+** Sophie Wilhelmine geb. Piehl. 
+
++
+Pathen: Fridrich Bleeke und Christian Bleeke.
+. Isabella +
+geboren den 21t Februar und getauft den 1t März 1851. +
+Eltern:
+** David Daniel Bibelheimer
+** Maria geborene Zähner.
+
++
+Pathen: Louise Bleeke und Maria Bleeke
+. Carl Heinrich Christian +
+geboren den 26t Februar und getauft den 12t März 1853. +
+Eltern:
+** Johann Heinrich Wilhelm Carl Gravte
+** Caroline Philippine Dorathee geb. Krückeberg
+
++
+Pathen: Heinrich Krüskeberg und Christian Bleeke.
+. Sophie Louise +
+geboren den 27t März und getauft den 28t Mörz 1853. +
+Eltern:
+** Christian Fridrich Bleeke
+** Louise geborene: Valsing.
+
++
+Pathen: Christine Bleeke und Louise Valsing.
+. Mathilde Christine Louise +
+geboren den 5te Oktober und getauft den 5t November 1854. +
+Eltern:
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore geb. Bleeke
+
++  
+Pathen: Christine Blecke u.  Louise Reinking
+
 == Translation
  
 [NOTE]

@@ -1,7 +1,7 @@
 = Entries 153-157
 :page-role: doc-width
 
-image:71.jpg
+image::71.jpg[]
 
 [role="tauf-width"]
 == Transliteration

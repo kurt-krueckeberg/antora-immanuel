@@ -19,7 +19,7 @@ Eltern:
 
 +
 Pathen: Maria Bibelheimer und Sophie Heckmann.
-. Christine Emilie +
+. Christine Emilie [+4/14/58] +
 geboren den 7ten März und getauft den 28t März 1858. +
 Eltern:
 ** Conrad Dietrich Ferdinand Reinking
@@ -28,15 +28,15 @@ Eltern:
 +
 Pathen:
 . Johann Fridrich +
-geboren den 1ten October und getauft den 10t October 1858 +
+geboren den 1ten October und getauft den 10t October 1858  [+5/15/20] +
 Eltern:
-** Johann Andreas Thieme [+5/15/20]
+** Johann Andreas Thieme
 ** Christine Sophie Eleonore geb. Krückeberg
 
 +
 Pathen: Johann Gottlieb Thieme u. Johann Heinrich Krückeberg
 . Christine Elise +
-geboren den 10t Februar und getauft den 27t Febuar 1859. +
+geboren den 10t Februar und getauft den 27t Febuar 1859. [+4/6/61] +
 Eltern:
 ** Christian Fridrich Bleeke.
 ** Anna Maria geborene Ru[s/p]
@@ -44,7 +44,7 @@ Eltern:
 +
 Pathen: Elisabeth Rup und Christine Herkmann
 . Carl Wilhelm Christian +
-geboren den 28ten April und getauft den 8ten May 1859. +
+geboren den 28ten April und getauft den 8ten May 1859. [+5/13/59] +
 Eltern:
 ** Carl Districh Wilhelm Schamerloh.
 ** Caroline Philippine geb. Krückeberg.
@@ -52,7 +52,7 @@ Eltern:
 +
 Pathen: Christian Schamerloh u. Carl Krückeberg.
 . Christine Marie +
-geboren den 5t May und getauft den 24t May 1859. +
+geboren den 5t May und getauft den 24t May 1859. [+11/2/92] +
 Eltern:
 ** Conrad Dietrich Ferdinand Reinking
 ** Maria Louise Eleonore geb. Bleeke.

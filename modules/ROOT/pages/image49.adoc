@@ -32,38 +32,34 @@ Parents:
    
 +      
 Godparents: Maria Reinking and Sahra Rup.
-. Fridrich Wilhelm
+. Fridrich Wilhelm +
+[+] born on July 16th and baptized on July 29th, 1860. +
+Parents:
+** Johann Andreas Thieme
+** Christine Sophie Eleonore née Krückeberg
+
++
+Godparents: Wilhelm Weiland and Carl Krückeberg.
       
-[+]      born on July 16th and baptized on July 29th, 1860.
-        
-               Johann Andreas Thieme
-         Parents:
-               Christine Sophie Eleonore née Krückeberg.
-         
-         Godparents: Wilhelm Weiland and Carl Krückeberg.
-      
-. Fridrich Christian Wilhelm
-      
-[+2/1/40] 
-          born on September 30th and baptized on October 6th, 1860
-          
-                Carl Heinrich Wilhelm Krückeberg
-          Parents:
-                Caroline Wilhelmine née Kleinschmidt.
+. Fridrich Christian Wilhelm +
+[+2/1/40] +
+born on September 30th and baptized on October 6th, 1860 +
+Parents:
+** Carl Heinrich Wilhelm Krückeberg
+** Caroline Wilhelmine née Kleinschmidt.
        
-          Godparents: Wilhelm Schamerloh Christian Kleinschmidt.
++
+Godparents: Wilhelm Schamerloh Christian Kleinschmidt.
        
-. Carl Wilhelm Christian
-      
-[+1/2/62] 
-          born on September 15th and baptized on October 6th, 1860
+. Carl Wilhelm Christian +
+[+1/2/62] +
+born on September 15th and baptized on October 6th, 1860 +
+Parents: +
+** Johann Heinrich Wilhelm Carl Grote
+** Caroline Philippine Dorathea née Krückeberg
                  
-                 Johann Heinrich Wilhelm Carl Grote
-          Parents:
-                 Caroline Philippine Dorathea née Krückeberg
-                 
-          Godparents: Carl Nürge and Christian Schamerloh.
-....
++
+Godparents: Carl Nürge and Christian Schamerloh.
                  
 
 [bibliography]

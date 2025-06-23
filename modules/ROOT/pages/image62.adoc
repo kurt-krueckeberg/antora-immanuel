@@ -3,6 +3,11 @@
 
 image::62.jpg[link=self]
 
+[cols="a,a"]
+|===
+|Transliteration|Translation
+
+|
 [arabic,start="97"]
 . Anna Pauline Elisabeth +
 geboren den 18ten Januar und getauft den 1ten Februar 1870. +
@@ -53,3 +58,56 @@ Eltern:
 
 +
 Pathen: Lauisa Reinking u. Sophia Grote.
+
+|
+[arabic,start="97"]
+. Anna Pauline Elisabeth +
+born on January 18th and baptized on February 1st, 1870. +
+Parents:
+** Carl Fridrich Martin Scharbade.
+** Christine Friderike née Meile
+
++
+Godparents: Mrs. Maria Bleeke and Maid: Sara, Belz.
+. Scharlotta Paulina. +
+born on October 27th and baptized on November 6th, 1869. +
+Parents:
+** Andreas Thieme
+** Sophia née Klein
+
++
+Godparents: Dares Haugh and Charlotte Rupprecht
+[Baptized by Pastor H. Steger up to this point]
+. Carl Friedrich Martin
+born on May 16th and baptized on May 22nd, 1870.
+Parents:
+** Carl Grote
+** Caroline née Krückeberg
+
++
+Godparents: Andreas Thieme and Christian Kohlmeyer.
+. Maria Elisabeth +
+born on April 18th and baptized on June 19th, 1870. +
+Parents:
+** Johannes Hoeuzer
+** Elisabeth, née Sallmann
+
++
+Godparents: Jacob Friedrich Haeriger and his wife Maria.
+. Sophia Louise Amanda +
+born on July 20th and baptized on July 31st, 1870. +
+Parents:
+** Friedrich Bleeke
+** Maria, née Bibilhamer.
+
++
+Godparents: Sophia Blecke, Louise Reinking, and Amanda Meier.
+. Karolina Louisa Sophia +
+born on September 8th and died on September 18th, 1870. +
+Parents:
+** Christian Schamerloh
+** Karolina, née Krükeberg
+
++
+Godparents: Lauisa Reinking and Sophia Grote.
+|===

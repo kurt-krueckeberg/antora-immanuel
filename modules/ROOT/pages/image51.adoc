@@ -5,6 +5,11 @@ image::51.jpg[align="left",title="Page 82, image 51 (Click to enlarge)",link=sel
 
 TODO: add Nachträge
 
+[cols="a,a", options="header"]
+|===
+| Transliteration | Translation
+
+a|
 [arabic,start="31"]
 . Caroline Wilhelmine Louise +
 geboren den 18ten März und getauft den 23ten März 1862 +
@@ -53,4 +58,56 @@ Eltern:
 ** Caroline Wilhelmine geb. Kleinschmidt
 
 +
-Pathen: Phelippine Schamerloh u. Sophie Buuck.
+Pathen: Philippine Schamerloh u. Sophie Buuck.
+
+a|
+[arabic,start="31"]
+. Caroline Wilhelmine Louise +
+born on March 18 and baptized on March 23, 1862 +
+Parents:
+** Christian Dietrich Schamerloh
+** Caroline Philippine Sophie née Krückeberg
+
++
+Godparents: Caroline Philippine Schamerloh and Caroline Wilhelmine Krückeberg.
+. Friedrich Heinrich +
+born on January 9 and baptized on January 19, 1862. +
+Parents:
+** Carl Heinrich Ludwig Koldeweÿ
+** Sophie Louise née Winkelmann
+
++
+Godparents: Johann Heinrich Bleeke, Friedrich Koldeweÿ
+. Louise Sophie Caroline +
+born on April 10 and baptized on April 15, 1860 +
+Parents:
+** Carl Dietrich Wilhelm Schamerloh.
+** Caroline Philippine née Krückeberg
+
++
+Godparents: Caroline Schamerloh and Caroline Krückeberg.
+. Caroline Wilhelmin +
+born on January 12th and baptized on January 20th, 1862 +
+Parents:
+** Carl Dietrich Wilhelm Schamerloh
+** Caroline Philippe née Krückeberg.
+
++
+Godparents: Wilhelmine Weiland and Caroline Grote.
+. [27 b] Carl Friedrich +
+born on October 1st and baptized on October 9th, 1861. +
+Parents:
+** Christian Fridrich Blecke
+** Anna Maria née Rup.
+
++
+Godparents: Carl Zwick and Carl Heckmann.
+. Sophie (Louise) Philippeine +
+born on July 2nd and baptized on July 14th, 1862. +
+Parents:
+** Carl Heinrich Wilhelm Krückeberg
+** Caroline Wilhelmine née Kleinschmidt
+
++
+Godparents: Philippine Schamerloh and Sophie Buuck.
+|===

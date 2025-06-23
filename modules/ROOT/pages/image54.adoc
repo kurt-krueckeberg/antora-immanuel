@@ -3,6 +3,11 @@
 
 image::54.jpg[align="left",title="Page 85, image 54 (Click to enlarge)",link=self]
 
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+a|
 [arabic,start="49"]
 . Louise Sophie Wilhelmine + 
 geboren den 10ten Juli und getauft den 17 ten Juli 1864. +
@@ -49,3 +54,52 @@ Eltern:
 
 +
 Pathen: Maria Eleonore Reinking u. Henriette Schnellenberger
+
+a|
+[arabic,start="49"]
+. Louise Sophie Wilhelmine +
+born on July 10th and baptized on July 17th, 1864. +
+Parents:
+** Carl Heinrich Wilhelm Krückeberg
+** Caroline Wilhelmine née Kleinschmielt.
+
++
+Godparents: Caroline Schamerloh and Emma Belz.
+. Heinrich Wilhelm +
+born on March 19th and baptized on March 26th, 1865. +
+Parents:
+** Carl Dietrich Wilhelm Schamerloh.
+** Caroline Philippine née Krückeberg.
+
++
+Godparents: Heinrich Krückeberg and Wilhelm Weiland.
+. Wilhelmine Christine +
+born on March 12th and baptized on March 20th, 1865. +
+Parents:
+** Johann Heinrich Wilhelm Carl Grote
+** Caroline Philippine Dorathea née Krückeberg.
+
++
+Godparents: Caroline Weiland and Wilhelmine Schamerloh.
+Johann Martin +
+born on July 27th and baptized on September 13th, 1865. +
+Parents:
+** Christian Fridrich Bleeke
+** Anna Maria née Rup.
+
++
+Godparents: Wilhelm Fells and Wilhelm Heckmann.
+Caroline Philippine +
+born on October 29th and baptized on October 29th, 1865. +
+** Johann Andreas Thieme
+** Christine Sophie Eleonove née Krückeberg.
+Godparents: Philippine Weiland and Philippe Christine Koldeweÿ
+. Henriette Helene +
+born on October 29th and baptized on November 12th, 1865 +
+Parents:
+** Carl Fridrich Wilhelm Bleeke
+** Maria née Bibelheimer
+
++
+Godparents: Maria Eleonore Reinking and Henriette Schnellenberger
+|===

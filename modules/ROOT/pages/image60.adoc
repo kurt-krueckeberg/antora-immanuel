@@ -1,4 +1,5 @@
 = Page 91
+:page-role: doc-width
 
 image::60.jpg[link=self]
 

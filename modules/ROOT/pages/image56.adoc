@@ -3,6 +3,12 @@
 
 image::56.jpg[align="left",title="Page 87, image 56 (Click to enlarge)",link=self]
 
+
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+|
 [arabic,start="61"]
 . Conrad Christian Wilhelm +
 geboren den 25ten Februar und getauft den 4ten März 1866. +
@@ -50,3 +56,52 @@ Eltern:
 
 +
 Pathen: Abraham Steudler und dessen Ehefrau Maria.
+
+|
+[arabic,start="61"]
+. Conrad Christian Wilhelm +
+born on February 25th and baptized on March 4th, 1866. +
+Parents:
+** Christian Wilhelm Fells
+** Elisabeth née Rup.
+
++
+Godparents: Christine Sophie Eleonore Thieme and Sara Bup.
+. Auguste Maria Johanne +
+born on August 28th and baptized on September 2nd, 1866. +
+Parents:
+** Heinrich Steger
+** Maria Elise née Stoppenhagen.
+
++
+Godparents: Auguste Stoppenhagen, Maria Bleeke and Johanne Steger.
+. Ferdinand Carl Fridrich. +
+born on November 11th and baptized on November 25th, 1866 +
+Parents:
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore née Bleeke
+
++
+Godparents: Fridrich Reinking, Carl Heckmann and Fridrich Bleeke. Emma Carolina +
+born on November 16th and baptized on December 2nd, 1866 +
+Parents:
+** Heinrich Jakob Rücklos
+** Friderike née Dauer.
+
++
+Godparents: Emeline Rabenalt and Caroline Schamerloh.
+. Hermann Fridrich Wilhelm +
+born on November 24th and baptized on November 26th, 1866. +
+Parents:
+** Conrad Christian Wilhelm Reinking.
+** Ernestine Bertha née Busch.
+Godparents: Fridrich Busch and Georg Conrad Wilhelm Reinking.
+. Abraham Heinrich +
+born on September 16th, 1866, baptized on January 1st, 1867. +
+Parents:
+** Michael Bräuner
+** Johanna née Belz.
+
++
+Godparents: Abraham Steudler and his wife Maria.
+|===

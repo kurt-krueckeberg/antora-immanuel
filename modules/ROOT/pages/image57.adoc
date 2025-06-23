@@ -3,6 +3,11 @@
 
 image::57.jpg[align="left",title="Page 88, image 57 (Click to enlarge)",link=self]
 
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+|
 [arabic,start="67"]
 . Christian Wilhelm +
 geboren den 28ten Januar und getauft den 10 Februar 1867. +
@@ -53,3 +58,54 @@ Eltern:
 +
 Taufzeugen: Jakob Stöhr und dessen Ehefrau Elisabeth
 
+|
+[arabic,start="67"]
+. Christian Wilhelm +
+born on January 28th and baptized on February 10th, 1867. +
+Parents:
+** Christian Fridrich Bleeke
+** Anna Maria née Ru[ß/p]
+
++
+Godparents: Wilhelm Bleeke and Christian Schamerloh.
+. Auguste Caroline Christine +
+born on May 7th, St. Mary's, 2:30 a.m., baptized on May 19th.
+Parents:
+** Carl Dietrich Wilhelm Schamerloh.
+** Caroline Philippine née Krückeberg. S.
+
++
+Godparents: Caroline Heckmann and Christine Thieme.
+. Amas Albert +
+born on March 5th and baptized on July 14th, 1867. +
+Parents:
+** Samuel Schade
+** Elisabeth née Bibelheimer
+
++
+Godparents: David Bibelheimer and Christian Bleeke.
+. Caroline Elisabeth +
+born on July 24th at 7:30 a.m., baptized on +
+Parents:
+** Johan Heinrich Conrad Falls
+** Caroline née Feldner
+
++
+Godparents: Elisabeth Falls and Caroline Bischoff.
+. Maria Emma +
+born on August 28th at 4:00 p.m., baptized on September 8th, 1867 +
+Parents:
+** Johan Heinrich Wilhelm Carl Grote
+** Caroline Philippine Dorathea née Krückeberg
+
++
+Godparents: Sophie Nürge and Maria Bleeke.
+. Caroline Elisabeth +
+born on March 19th, 1857, baptized on January 23rd, 1868 +
+Parents:
+** Fridrich Schönstedt
+** Agnese née Mitteldorp
+
++
+Witnesses: Jakob Stöhr and his wife Elisabeth
+|===

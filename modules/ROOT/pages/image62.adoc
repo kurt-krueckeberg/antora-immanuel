@@ -5,7 +5,7 @@ image::62.jpg[link=self]
 
 [arabic,start="97"]
 . Anna Pauline Elisabeth +
-. geboren den 18ten Januar und getauft den 1ten Februar 1870. +
+geboren den 18ten Januar und getauft den 1ten Februar 1870. +
 Eltern:
 ** Carl Fridrich Martin Scharbade.
 ** Christine Friderike geb. Meile 

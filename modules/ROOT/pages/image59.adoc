@@ -1,39 +1,113 @@
 = Page 90, Entriesd== 79-84
+
+image::image59.jpg[link=self]
+
+
+== Transliteration and Translation
+
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+a|
 [arabic,start="79"]
-. Conrad Christian Wilhelm
-geboren den 29ten Februar Vormittags 11 Uhr getauft den 1ten März 1868.
-Christian Wilhelm Fells.
-Eltern
-Elisabeth geb. Rup
+. Conrad Christian Wilhelm +
+geboren den 29ten Februar Vormittags 11 Uhr getauft den 1ten März 1868. +
+Eltern:
+** Christian Wilhelm Fells.
+** Elisabeth geb. Rup
+
++
 Pathen: Christian Bleeke, und Conrad Fells.
-. Caroline Wilhelmine Bernhardine
-geboren den 2ten May 1868 getauft den 10ten May 1668
-Carl Heinrich Ludwig Koldewey
-Eltern.
-Louise Sophie geb: Winkelmann.
+. Caroline Wilhelmine Bernhardine +
+geboren den 2ten May 1868 getauft den 10ten May 1668 +
+Eltern.:
+** Carl Heinrich Ludwig Koldewey
+** Louise Sophie geb: Winkelmann.
+
++
 Pathen: Bernhardine Koldewey u. Wilhelmine Schamerloh.
-. Martin Andreas Wilhelm
-geboren den 3ten Mar Morgens 1 1/2 Uhr getauft den 10ten May 1868.
-Conrad Dietrich Ferdinand Reinking
-Eltern.
-Maria Louise Eleonore geb. Bleeke.
+. Martin Andreas Wilhelm +
+geboren den 3ten Mar Morgens 1 1/2 Uhr getauft den 10ten May 1868. +
+Eltern.:
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore geb. Bleeke.
+
++
 Pathen: Wilhelm Heckmann, Andreas Thieme u. Wilhelm Reinking
-. Sahra Isabella
-geboren den 10 April 1868, getauft den 4ten Octobr 1868
-Levi Baron
-Eltern
-Wilhelmine geb. Höreger.
+. Sahra Isabella +
+geboren den 10 April 1868, getauft den 4ten Octobr 1868 +
+Eltern:
+** Levi Baron
+** Wilhelmine geb. Höreger.
+
++
 Pathen: Jacob Fridrich Höreger u. dessen Ehefrau Maria.
-. Sahra Catharine Sophie
-geboren den 13ten October 1868. u. getauft den 25ten Oktober 1868
-Heinrich Jakob Rücklos
-Eltern
-Friderike geb. Dauer.
+. Sahra Catharine Sophie +
+geboren den 13ten October 1868. u. getauft den 25ten Oktober 1868 +
+Eltern:
+** Heinrich Jakob Rücklos
+** Friderike geb. Dauer.
+
++
 Pathen: Jungfr. Sahra Belz u. Jungfr: Sophie Bleeke.
-. [no name is present]
-geboren den 17ten October 1868 u. getauft den 12 November 1868
-Georg Blum
-Eltern
-Catharina geb. Feldner
+. [no name is present] +
+geboren den 17ten October 1868 u. getauft den 12 November 1868 +
+Eltern:
+** Georg Blum
+** Catharina geb. Feldner
+
++
 Pathen: Conrad Fells und Jakob Stöhr
 
+a|
+[arabic,start="79"]
+. Conrad Christian Wilhelm +
+born on February 29th at 11 a.m., baptized on March 1st, 1868. +
+Parents:
+** Christian Wilhelm Fells.
+** Elisabeth née Rup
+
++
+Godparents: Christian Bleeke and Conrad Fells.
+. Caroline Wilhelmine Bernhardine +
+born on May 2nd, 1868, baptized on May 10th, 1868 +
+Parents:
+** Carl Heinrich Ludwig Koldewey
+** Louise Sophie née Winkelmann
+
++
+Godparents: Bernhardine Koldewey and Wilhelmine Schamerloh
+. Martin Andreas Wilhelm +
+born on March 3rd at 1:30 a.m., baptized on May 10th, 1868 +
+Parents:
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore née Bleeke
+
++
+Godparents: Wilhelm Heckmann, Andreas Thieme, and Wilhelm Reinking
+. Sahra Isabella +
+born April 10, 1868, baptized October 4, 1868 +
+Parents:
+** Levi Baron
+** Wilhelmine, née Höreger.
+
++
+Godparents: Jacob Fridrich Höreger and his wife Maria.
+. Sahra Catharine Sophie +
+born October 13, 1868, and baptized October 25, 1868 +
+Parents:
+** Heinrich Jakob Rücklos
+** Friderike, née Dauer.
+
++
+Godparents: Virgin Sahra Belz and Virgin Sophie Bleeke.
+. [no name is present] +
+born October 17, 1868, and baptized November 12, 1868 +
+Parents:
+** Georg Blum
+** Catharina, née Feldner
+
++
+Godparents: Conrad Fells and Jakob Stöhr
+|===

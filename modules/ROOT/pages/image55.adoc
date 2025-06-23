@@ -3,6 +3,10 @@
 
 image::55.jpg[align="left",title="Page 86, image 55 (Click to enlarge)",link=self]
 
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
 [arabic,start="55"]
 . Maria Catharina Elisabeth +
 geboren den 30 September getauft den 10 November 1865. +
@@ -52,3 +56,55 @@ Eltern:
 
 +
 Pathen: Abraham Stendler u. Heinrich Rücklos.
+
+[arabic,start="55"]
+a|
+. Maria Catharina Elisabeth +
+born on September 30, baptized on November 10, 1865. +
+Parents:
+** Conrad Johann Heinrich Fells.
+** Caroline née Feldner.
+
++
+Godparents: Catharina Blum and Elisabeth Rücklos.
+. Joseph Anton +
+born on November 26, 1865, baptized on January 9, 1866 +
+Parents:
+** Adam Höriger
+** Charlotte Anna née Braun
+
++
+Godparents: Jakob Friedrich Höriger and his wife Maria.
+. Allise Allass. +
+born on November 29, 1865, baptized on January 9, 1866. +
+Parents:
+** Levi Baron
+** Wilhelmine née Höriger.
+
++
+Godparents: Jakob Fridrich Höriger and his wife Maria.
+. Fridrich Christian +
+Parents:
+** Christian Dietrich Schamerloh
+** Caroline Philippine Sophie née Krückeberg
+
++
+Godparents: Carl Grote
+born on January 17, baptized on January 18, 1866.
+. Louise Maria +
+born on January 22 and baptized on January 28, 1866 +
+Parents:
+** Carl Heinrich Ludwig Koldeweÿ
+** Louise Sophie née Winkelmann.
+
++
+Godparents: Louise Wittfeld and Maria Tiele.
+. Theodor Emilius +
+born on February 12 and baptized on February 25, 1866 +
+Parents:
+** Jakob Heinrich Rücklos
+** Anna Elisabeth née Hoffmann
+
++
+Godparents: Abraham Stendler and Heinrich Rücklos.
+|===

@@ -4,7 +4,7 @@
 image::57.jpg[align="left",title="Page 88, image 57 (Click to enlarge)",link=self]
 
 [arabic,start="67"]
-67. Christian Wilhelm +
+. Christian Wilhelm +
 geboren den 28ten Januar und getauft den 10 Februar 1867. +
 Eltern:
 ** Christian Fridrich Bleeke
@@ -12,16 +12,15 @@ Eltern:
 
 +
 Pathen: Wilhelm Bleeke und Christian Schamerloh.
-65. Auguste Caroline Christine +
+. Auguste Caroline Christine +
 geboren den 7ten May St. M. 2 1/2 Uhr getauft den 19ten May
-1867. +
 Eltern:
 ** Carl Dietrich Wilhelm Schamerlok.
 ** Caroline Philippine geb. Krückeberg. S. 
 
 +
 Pathen: Caroline Heckmann und Christine Thieme.
-69. Amas Albert +
+. Amas Albert +
 geboren den 5ten März und getauft den 14ten July 1867. +
 Eltern:
 ** Samuel Schade
@@ -29,7 +28,7 @@ Eltern:
 
 +
 Pather: David Bibelheimer und Christian Bleeke.
-70. Caroline Elisabeth +
+. Caroline Elisabeth +
 geboren den 24ten July Morgens 7 1/2 Uhr getauft den +
 Eltern:
 ** Johan Heinrich Conrad Falls
@@ -37,7 +36,7 @@ Eltern:
 
 +
 Pathen: Elisabeth Falls und Caroline Bischoff.
-71. Maria Emma +
+. Maria Emma +
 geboren den 28ten August Nachmittags 4 Uhr getauft den 8te September 1867 +
 Eltern:
 ** Johan Heinrich Wilhelm Carl Grote
@@ -45,7 +44,7 @@ Eltern:
 
 +
 Pathen: Sophie Nürge und Maria Bleeke.
-72. Caroline Elisabeth +
+. Caroline Elisabeth +
 geboren den 19ten März 1857. getauft den 23ten Januar 1868 +
 Eltern:
 ** Fridrich Schönstedt

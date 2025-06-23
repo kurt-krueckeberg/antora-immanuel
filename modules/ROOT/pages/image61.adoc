@@ -9,7 +9,7 @@ image::61.jpg[link=self]
 
 |
 [arabic,start="91"]
-. Gottfried Heinrich +
+. +[8/11/47]  Gottfried Heinrich +
 geboren den 9tn Juni Vormittag 11 Uhr getauft den 20ten Juni 1869 +
 Eltern:
 ** Friedrich August Haugk
@@ -17,17 +17,16 @@ Eltern:
 
 +
 Pathen: Gottfried Thieme und Heinrich Büttner.
-. Anna Maria Caroline +
+. [+] Anna Maria Caroline +
 geboren den 17t Juni 7 1/2 Uhr Morgens getauft den 20ten Juni 1869 +
 Eltern:
 ** Heinrich Steger
 ** Maria Elise geb. Stoppenhagen
 
 +
-Pathen: Anna Maria Stoppenhagen, Maria Reinking und Frau
+Pathen: Anna Maria Stoppenhagen, Maria Reinking und Frau +
 Pastorin Caroline Fritze
-.
-. Wilhelm Theodor +
+. [+4/23/44] Wilhelm Theodor +
 geboren den 16 ten Juni. Morgens 2 Uhr getauft den 26ten Juni 1869. +
 Eltern.:
 Christian Fridrich Bleeke
@@ -51,7 +50,7 @@ Eltern:
 
 +
 Pathen: J. Maria Blecke und Frau Pastorin Caroline Fritze
-. Heinrich Christian +
+. [Cleveland?] Heinrich Christian +
 geboren den 16.ten Januar und getauft den 23ten Januer 1870. +
 Eltern:
 ** Conrad Dietrich Ferdinand Reinking.
@@ -62,7 +61,7 @@ Pathen: Heinrich Steger, Christian Schamerloh, Heinrich Heier
 
 |
 [arabic,start="91"]
-. Gottfried Heinrich +
+. +[8/11/47]  Gottfried Heinrich +
 born 9th June morning 11 o'clock baptized 20th June 1869 +
 Parents:
 ** Friedrich August Haugk
@@ -70,17 +69,16 @@ Parents:
 
 +
 Godparents: Gottfried Thieme and Heinrich Büttner.
-. Anna Maria Caroline +
+. [+] Anna Maria Caroline [+] +
 born June 17, 7 1/2 o'clock in the morning baptized June 20, 1869 +
 Parents:
 ** Heinrich Steger
 ** Maria Elise née Stoppenhagen
 
 +
-Godparents: Anna Maria Stoppenhagen, Maria Reinking and Mrs.
+Godparents: Anna Maria Stoppenhagen, Maria Reinking and Mrs. +
 Pastor Caroline Fritze
-.
-. Wilhelm Theodor +
+. [+4/23/44] Wilhelm Theodor +
 born June 16th. Baptized at 2 o'clock in the morning on 26 June 1869. +
 Parents:
 Christian Fridrich Bleeke

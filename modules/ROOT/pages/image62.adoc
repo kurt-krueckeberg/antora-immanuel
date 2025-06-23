@@ -1,4 +1,4 @@
-= Entries 97-102
+= Page 93, Entries 97-102
 :page-role: doc-width
 
 image::62.jpg[link=self]

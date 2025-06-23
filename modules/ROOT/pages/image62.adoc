@@ -1,4 +1,6 @@
-= Entries 79-84
+= Entries 97-102
+
+image::62.jpg[link=self]
 
 [arabic,start="97"]
 . Anna Pauline Elisabeth +

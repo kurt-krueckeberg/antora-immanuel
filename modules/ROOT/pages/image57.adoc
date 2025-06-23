@@ -3,50 +3,54 @@
 
 image::57.jpg[align="left",title="Page 88, image 57 (Click to enlarge)",link=self]
 
-[role="literal-narrower"]
-....
-67. Christian Wilhelm
-geboren den 28ten Januar und getauft den 10 Februar 1867.
-Christian Fridrich Bleeke
-Eltern
-Anna Maria geborene Ru[ß/p]
+[arabic,start="67"]
+67. Christian Wilhelm +
+geboren den 28ten Januar und getauft den 10 Februar 1867. +
+Eltern:
+** Christian Fridrich Bleeke
+** Anna Maria geborene Ru[ß/p] 
+
++
 Pathen: Wilhelm Bleeke und Christian Schamerloh.
-65. Auguste Caroline Christine
-
+65. Auguste Caroline Christine +
 geboren den 7ten May St. M. 2 1/2 Uhr getauft den 19ten May
-1867.
-Carl Dietrich Wilhelm Schamerlok.
-Eltern
-Caroline Philippine geb. Krückeberg.
-S.
+1867. +
+Eltern:
+** Carl Dietrich Wilhelm Schamerlok.
+** Caroline Philippine geb. Krückeberg. S. 
+
++
 Pathen: Caroline Heckmann und Christine Thieme.
-69. Amas Albert
+69. Amas Albert +
+geboren den 5ten März und getauft den 14ten July 1867. +
+Eltern:
+** Samuel Schade
+** Elisabeth geb. Bibelheimer
 
-geboren den 5ten März und getauft den 14ten July 1867.
-Samuel Schade
-Eltern
-Elisabeth geb. Bibelheimer
++
 Pather: David Bibelheimer und Christian Bleeke.
-70. Caroline Elisabeth
+70. Caroline Elisabeth +
+geboren den 24ten July Morgens 7 1/2 Uhr getauft den +
+Eltern:
+** Johan Heinrich Conrad Falls
+** Caroline geborene Feldner 
 
-geboren den 24ten July Morgens 7 1/2 Uhr getauft den
-Johan Heinrich Conrad Falls
-Eltern
-Caroline geborene Feldner
++
 Pathen: Elisabeth Falls und Caroline Bischoff.
-71. Maria Emma
+71. Maria Emma +
+geboren den 28ten August Nachmittags 4 Uhr getauft den 8te September 1867 +
+Eltern:
+** Johan Heinrich Wilhelm Carl Grote
+** Caroline Philippine Dorathea geb Krückeberg
 
-geboren den 28ten August Nachmittags 4 Uhr getauft den 8te September 1867
-Johan Heinrich Wilhelm Carl Grote
-Eltern.
-Caroline Philippine Dorathea geb Krückeberg
++
 Pathen: Sophie Nürge und Maria Bleeke.
-72. Caroline Elisabeth
+72. Caroline Elisabeth +
+geboren den 19ten März 1857. getauft den 23ten Januar 1868 +
+Eltern:
+** Fridrich Schönstedt
+** Agnese geb. Mitteldorp 
 
-geboren den 19ten März 1857. getauft den 23ten Januar 1868
-
-Fridrich Schönstedt
-Eltern
-Agnese geb. Mitteldorp
++
 Taufzeugen: Jakob Stöhr und dessen Ehefrau Elisabeth
-....
+

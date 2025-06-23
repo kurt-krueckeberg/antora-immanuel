@@ -3,49 +3,54 @@
 
 image::58.jpg[align="left",title="Page 89, image 58 (Click to enlarge)",link=self]
 
-[role="literal-narrower"]
-....
-73. Louise Rosete
+[arabic,start="73"]
+73. Louise Rosete +
+geboren den 19ten December 1858, getauft den 23ten Januar 1868. +
+Eltern:
+** Fridrich Schönstedt
+** Agnese geb. Mitteldorp.
 
-geboren den 19ten December 1858, getauft den 23ten Januar 1868.
-Fridrich Schönstedt
-Eltern
-Agnese geb. Mitteldorp.
++
 Taufzeugen: Jakob Stöhr und dessen Ehefrau Elisabeth
-74. Rufus Chancey
+74. Rufus Chancey +
+geboren den 3ten Dezember 1863, getauft den 23ten Januar 1868. +
+Eltern:
+** Fridrich Schönstedt
+** Agnese geb. Mitteldorp 
 
-geboren den 3ten Dezember 1863, getauft den 23ten Januar 1868.
-Fridrich Schönstedt
-Eltern.
-Agnese geb. Mitteldorp
++
 Pathen: Jakob Stöhr und dessen Ehefrau Elisbeth.
-75. Franziska Emeline
- geb. d. 20 Nov. 1865, get. den 28 Jun. 1868
+75. Franziska Emeline +
+geb. d. 20 Nov. 1865, get. den 28 Jun. 1868 +
+Eltern:
+** Friedrich Schönstedt
+** Agnese geb. Mitteldorp.
 
-Friedrich Schönstedt
-
-Eltern
-Agnese geb. Mitteldorp.
++
 Pathen Jakob Stöhr und dessen Ehefrau Elisabeth.
-76. Sophie Christine Wilhelmine
+76. Sophie Christine Wilhelmine +
+geboren den 25ten Januar 1868, getauft den 2ten Februar 1866. +
+Eltern:
+** Christian Dietrich Schamerloh
+** Caroline Philippine Sophie geb. Krückeberg 
 
-geboren den 25ten Januar 1868, getauft den 2ten Februar 1866.
-Christian Dietrich Schamerloh
-Eltern.
-Caroline Philippine Sophie geb. Krückeberg
++
 Pathen: Frau Caroline Heckmann u. Frau Wilhelmine Weiland.
-77. Heinrich Theodor
-geboren den 13ten Februar Morg. 2 Uhr geb. den 21t Febuar 1868.
-Johann Andreas Thieme
-Eltern.
-Christine Sophie Eleoncze geb. Krückeberg.
+77. Heinrich Theodor +
+geboren den 13ten Februar Morg. 2 Uhr geb. den 21t Febuar 1868. +
+Eltern:
+** Johann Andreas Thieme
+** Christine Sophie Eleoncze geb. Krückeberg.
+
++
 Pathen: Gottfried Thieme und Carl Grote
-78. Maria Isabella
+78. Maria Isabella +
 
-geboren den 17t Februar u. getauft den 23t Febuar 1868.
+geboren den 17t Februar u. getauft den 23t Febuar 1868. +
+Eltern:
+** Carl Fridrigs Wilhelm Blocke
+** Maria geb. Bibelheimer 
 
-Carl Fridrigs Wilhelm Blocke
-Eltern
-Maria geb. Bibelheimer
++
 Pathen Jungfrau Maria Blecke, u. Jungfr. Isabella Bibelheimer.
-....
+

@@ -4,38 +4,48 @@
 image::54.jpg[align="left",title="Page 85, image 54 (Click to enlarge)",link=self]
 
 [arabic,start="49"]
-. Louise Sophie Wilhelmine
-geboren den 10ten Juli und getauft den 17 ten Juli 1864.
-Carl Heinrich Wilhelm Krückeberg
-Eltern
-Caroline Wilhelmine geb. Kleinschmielt.
+. Louise Sophie Wilhelmine + 
+geboren den 10ten Juli und getauft den 17 ten Juli 1864. +
+Eltern:
+** Carl Heinrich Wilhelm Krückeberg
+** Caroline Wilhelmine geb. Kleinschmielt.
+
++
 Pathen: Caroline Schamerloh u. Emma Belz.
-. Heinrich Wilhelm
-geboren den 19 ten März und getauft den 26ten März 1865.
-Carl Dietrich Wilhelm Schamerloh.
-Eltern
-Caroline Philippine geb. Krückeberg.
-Pathen: Heinrich Krückeberg und Wilhelm Weiland.
-. Wilhelmine Christine
-geboren den 12ten März, und getauft den 20ten März 1865.
-Johann Heinrich Wilhelm Carl Grote
-Eltern
-Caroline Philippine Dorathea geb: Krückeberg.
+. Heinrich Wilhelm +
+geboren den 19 ten März und getauft den 26ten März 1865. +
+Eltern:
+** Carl Dietrich Wilhelm Schamerloh.
+** Caroline Philippine geb. Krückeberg.
+
++
+Pathen: Heinrich Krückeberg und Wilhelm Weiland. 
+. Wilhelmine Christine +
+geboren den 12ten März, und getauft den 20ten März 1865. +
+Eltern:
+** Johann Heinrich Wilhelm Carl Grote
+** Caroline Philippine Dorathea geb: Krückeberg.
+
++
 Pathen: Caroline Weiland u. Wilhelmine Schamerloh.
-. Johann Martin
-geboren den 27ten Juli und getauft den 13ten September 1865.
-Christian Fridrich Bleeke
-ElternAnna Maria geb. Rup.
+. Johann Martin +
+geboren den 27ten Juli und getauft den 13ten September 1865. +
+Eltern:
+** Christian Fridrich Bleeke
+** Anna Maria geb. Rup.
+
++
 Pathen: Wilhelm Fells u. Wilhelm Heckmann.
-. Caroline Philippine
-geboren den 29ten October und getauft den 29 October 1865.
-Johann Andreas Thieme
-Eltern
-Christine Sophie Eleonove geb: Krückeberg.
+. Caroline Philippine +
+geboren den 29ten October und getauft den 29 October 1865. +
+** Johann Andreas Thieme
+** Christine Sophie Eleonove geb: Krückeberg.
 Pathen: Philippine Weiland u. Philippe Christine Koldeweÿ
-. Henriette Helene
-geboren den 29ten October und getauft den 12ten November 1865
-Carl Fridrich Wilhelm Bleeke
-Eltern
-Maria geb: Bibelheimer
+. Henriette Helene +
+geboren den 29ten October und getauft den 12ten November 1865 +
+Eltern:
+** Carl Fridrich Wilhelm Bleeke
+** Maria geb: Bibelheimer
+
++
 Pathen: Maria Eleonore Reinking u. Henriette Schnellenberger

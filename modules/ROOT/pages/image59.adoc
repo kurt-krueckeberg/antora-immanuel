@@ -1,15 +1,15 @@
 = Entries 79-84
 
-Anna Pauline Elisabeth
-geboren den 18ten Januar und getauft den 1ten Februar 1870.
-Carl Fridrich Martin Scharbade.
-Eltern
-Christine Friderike geb. Meile
+Anna Pauline Elisabeth +
+geboren den 18ten Januar und getauft den 1ten Februar 1870. +
+Eltern:
+** Carl Fridrich Martin Scharbade.
+** Christine Friderike geb. Meile 
+
++
 Pathen: Frau Maria Bleeke u. Jungfa: Sara, Belz.
-Scharlotte
-Paulina
-.
-geb. den 27 Oct. u. get. den 6 November 1869.
+charlotte Paulina. +
+geb. den 27 Oct. u. get. den 6 November 1869. +
 Andreas Thieme
 Sophia, arb. Klein
 Pathen:  Dares Haugh u. Charlotte Rupprecht

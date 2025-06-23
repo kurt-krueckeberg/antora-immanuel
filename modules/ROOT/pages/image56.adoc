@@ -4,38 +4,49 @@
 image::56.jpg[align="left",title="Page 87, image 56 (Click to enlarge)",link=self]
 
 [arabic,start="61"]
-. Conrad Christian Wilhelm
-geboren den 25ten Februar und getauft den 4ten März 1866.
-Christian Wilhelm Fells
-Eltern
-Elisabeth geb: Rup.
+. Conrad Christian Wilhelm +
+geboren den 25ten Februar und getauft den 4ten März 1866. +
+Eltern:
+** Christian Wilhelm Fells
+** Elisabeth geb: Rup.
+
++
 Pathen: Christine Sophie Eleonore Thieme u. Sara Bup.
-. Auguste Maria Johanne
-geboren den 28ten August und getauft den 2ten September 1866.
-Heinrich Steger
-Eltern
-Maria Elise geb. Stoppenhagen.
+. Auguste Maria Johanne +
+geboren den 28ten August und getauft den 2ten September 1866. +
+Eltern:
+** Heinrich Steger
+** Maria Elise geb. Stoppenhagen.
+
++
 Pathen: Auguste Stoppenhagen, Maria Bleeke u. Johanne Steger.
-. Ferdinand Carl Fridrich.
-geboren den 11ten November und getauft den 25ten November 1866
-Conrad Dietrich Ferdinand Reinking
-Eltern.
-Maria Louise Eleonore geb. Bleeke
+. Ferdinand Carl Fridrich. +
+geboren den 11ten November und getauft den 25ten November 1866 +
+Eltern:
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore geb. Bleeke
+
++
 Pathen: Fridrich Reinking, Carl Heckmann u. Fridrich Bleeke.
-. Emma Carolina
-geboren den 16ten November und getauft den 2ten December 1866
-Heinrich Jakob Rücklos
-Eltern
-Friderike geb. Dauer.
+. Emma Carolina +
+geboren den 16ten November und getauft den 2ten December 1866 +
+Eltern:
+** Heinrich Jakob Rücklos
+** Friderike geb. Dauer.
+
++
 Pathen: Emeline Rabenalt und Caroline Schamerloh.
-. Hermann Fridrich Wilhelm
-geboren den 24ten November und getauft den 26ten November 1866.
-Conrad Christian Wilhelm Reinking.
-Eltern.
-Ernestine Bertha geb. Busch.
+. Hermann Fridrich Wilhelm +
+geboren den 24ten November und getauft den 26ten November 1866. +
+Eltern:
+** Conrad Christian Wilhelm Reinking.
+** Ernestine Bertha geb. Busch.
 Pathen: Fridrich Busch und Georg Conrad Wilhelm Reinking
-. Abraham Heinrich
-geboren den 16ten September 1866 getauft den 1ten Januar 1867.
-Michael Bräuner
-Eltern Johanna geb. Belz.
+. Abraham Heinrich +
+geboren den 16ten September 1866 getauft den 1ten Januar 1867. +
+Eltern:
+** Michael Bräuner
+** Johanna geb. Belz.
+
++
 Pathen: Abraham Steudler und dessen Ehefrau Maria.

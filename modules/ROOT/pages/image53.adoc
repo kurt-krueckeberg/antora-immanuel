@@ -4,38 +4,51 @@
 image::53.jpg[align="left",title="Page 84, image 53 (Click to enlarge)",link=self]
 
 [arabic,start="43"]
-. Ludwig Wilhelm
-geboren den 11ten Januar und getauft den 7ten Februar 1864.
-Heinrich Jakob Rücklos
-Eltern
-Anna Elisabeth geb. Hoffmann
+. Ludwig Wilhelm +
+geboren den 11ten Januar und getauft den 7ten Februar 1864. +
+Eltern;
+** Heinrich Jakob Rücklos
+** Anna Elisabeth geb. Hoffmann
+
++
 Pathen: Johann Heinrich Bleeke u. Georg P. Germann.
-. Emma Maria Catharina
-geboren den 23ten December und getauft den 25ten Decemb. 1863.
-Carl Heinrich Ludwig Koldewey
-Eltern
-Maria Sophia geb. Tiemann.
+. Emma Maria Catharina +
+geboren den 23ten December und getauft den 25ten Decemb. 1863. +
+Eltern:
+** Carl Heinrich 
+** Maria Sophia geb. Tiemann.
+
++
 Pathen: Maria Tiemann u. Catharina Koldewey.
-. Sophie Wilhelmine
-geboren den 20ten October und getauft den 31ten October 1863.
-Carl Dietrich Wilhelm Schamerloh
-Eltern
-Caroline Philippine geb: Krückeberg
+. Sophie Wilhelmine +
+geboren den 20ten October und getauft den 31ten October 1863. +
+Eltern:
+** Carl Dietrich Wilhelm Schamerloh
+** Caroline Philippine geb: Krückeberg
+
++
 Pathen: Wilhelmine Weiland u. Louise Heckmann.
-. Fridrich Jakob
-geboren den 2ten May und getauft den 16ten May 1864.
-Heinrich Jakob Rücklos.
-Eltern L. Friderike geb. Dauer.
+. Fridrich Jakob +
+geboren den 2ten May und getauft den 16ten May 1864. +
+Eltern:
+** Heinrich Jakob Rücklos.
+** L. Friderike geb. Dauer.
+
++
 Pathen: Abraham Stoudler u. dessen Ehefrau Maria.
-. Christine Maria
-geboren den 23ten Januar und getauft den 7ten Februar 1864
-Johann Andreas Thieme
-Eltern
-Christine Sophie Eleonore geb. Krückeberg.
+. Christine Maria +
+geboren den 23ten Januar und getauft den 7ten Februar 1864 +
+Eltern:
+** Johann Andreas Thieme
+** Christine Sophie Eleonore geb. Krückeberg.
+
++
 Pathen: Philippine Caroline Schamerloh u. Maria Bleeke.
-. Maria Sophia Helene
-geboren den 12ten September und getauft den 25ten Septemb. 1864
-Conrad Dietrich Ferdinand Reinking.
-Eltern
-Maria Louise Eleonore geb. Bleeke.
+. Maria Sophia Helene +
+geboren den 12ten September und getauft den 25ten Septemb. 1864 +
+Eltern:
+** Conrad Dietrich Ferdinand Reinking.
+** Maria Louise Eleonore geb. Bleeke.
+
++
 Pathen Bernhardine Koldewey u. Maria Carline Bleeke

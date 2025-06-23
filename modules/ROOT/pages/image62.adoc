@@ -1,4 +1,5 @@
 = Entries 97-102
+:page-role: doc-width
 
 image::62.jpg[link=self]
 

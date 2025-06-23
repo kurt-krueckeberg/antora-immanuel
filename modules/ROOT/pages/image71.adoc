@@ -1,57 +1,49 @@
-= Entries 153-157
-:page-role: doc-width
+= Entries 133-138
 
-image::71.jpg[link=self]
-
-[role="tauf-width"]
-== Transliteration
-
-=== Taufregister.
-
-[arabic,start="153"]
-. Justinus Hermann
-geboren den 5 August u. getauft den 14 August 1881.
-Wilhelm Holle.
-Eltern.
-Sophie -
-geb. Bleekn.
-Pathen: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege
-. Hermann Jakob Ferdina
-geboren den 27 September und getauft den 9t October 1881.
-Christian Schamerloh.
-Eltern
-Emilie geb. Bürger.
-Pathen: Heinrich Arückeberg, Jakob Bürger, Ferdinand Reikirg.
-. Frieda Caroline Maria
-1881.
-geboren den 2t und getauft den 8t September
-Heinrich Bischoff.
-Eltern
-Christine = - geb: Bleeke.
-Pathen: Caroline Bischoff u. Maria Blenke
-(Großmütter)
-1882.
-. Johanna Doris Elise
-geboren den 29t December 1881, getauft den 20 Januar 1882.
+1/31/28
+156
+157.
+Taufregister.
+18.79.
+1)
+Heinrich August †
+geboren den 23te Februar um getauft den 9te März 1879.
 Hermann Büttner
-Eltern]
-geb. Roth.
-Louise.
-W
-Pathen: Frau Doris Haŭgt und Fraŭ Therese Roth.
-. Maria Elisommen.
-geboren den 14 Jannar u. getauft den 29 Januar 1882,
-Wilhelm Reinking.
-Eltern
+Eltern.
+geb: Roth.
 Louise
-geb. Blenke
-Pathen: Frau Maria Runkinger u. Darhier Ehemann
-60
-. Marie Louise Rosine,
-3.
-Februar 1882.
-geboren den 25 Januar und getauft den
-Johann Ehrmann.
+haupt.
+Pathen: 1) Heinrich Büttner und 2) August
+(2) Ida Maria Emilia
+1879
+geboren den 27ten Februar und getauft den 1ten März
+Hermann Reinking
 Eltern
-Caroline" geb. Blecke
-Pathen: Maria Blecke, Louise Gerke u. Elisabeth Benz
+geb. Blücke
+Maria
+Pathen 1) Maria Reinking, 2. Maria Bleeke u 3) Emilie Blecke
+3. Gustav Conrad Widrich
+geboren den 9ten März und getauft den 16ten Márz 1879 x
+Wilhelm Reinking
+Eltern
+Londe
+geb: Zlerke.
+Blante.
+Pathen  Conrad Reinking und 2 Fridkich
+Juliane Amalie Maria,
+(4)
+1577
+i
+geboren den 15ten Juni und getauft den 22ten
+Giltern (Johann Heinrich Blecke.)
+geb. Thieme.
+Emalie
+Bleeke.
+Pathen: Amalen Thieme u. Maria
+Henoch Carl Fridrich
+geboren den 21t September und getauft den 28t September 1879
+vnd
+Wilhelm Holle
+Eltern Sophie - " geb.
+Blecke
+Pathen: 1) Fridrich Blerke, 2) Carl Heckmann.

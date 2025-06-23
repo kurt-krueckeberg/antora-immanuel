@@ -1,48 +1,57 @@
-.
-100
-Kaufregister A.D. 1883.
-184
-Beatha Louise Angelo
-geboren den 15t Februar und getauft den 18t Febuar 1883.
-Christian Schamerlich.
-Öfftern.
-geb. Bürger.
-Emilie
-Pathen: Engel Bürger, Caroline Spamerloh, Louise Krückeberg.
-August Gottfried
-185
-2.
-gebe an den 10ten August und getauft den 26ten August 1883.
-Friedrich Roth.
-geb. Bitte.
-Therese
-Pathen: August Haupt und Gotthried Thieme.
-186
-Julius Fredrich Gottlob
-geboren den 8ten October und getauft den 11 November 1883
-Johann Steinmann.
+= Entries 153-157
+:page-role: doc-width
+
+image::71.jpg[link=self]
+
+[role="tauf-width"]
+== Transliteration
+
+=== Taufregister.
+
+[arabic,start="153"]
+. Justinus Hermann
+geboren den 5 August u. getauft den 14 August 1881.
+Wilhelm Holle.
+Eltern.
+Sophie -
+geb. Bleekn.
+Pathen: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege
+. Hermann Jakob Ferdina
+geboren den 27 September und getauft den 9t October 1881.
+Christian Schamerloh.
 Eltern
-Emilie, geboren Büttner.
-Pathen: † Julius Haupt, 2. Fridrich Thieme, 3. Gottlob Büttner
-Edvin Wilhelm Hermann,
-187.
-b/2/13 geboren den 6t Dezembern getauft den
+Emilie geb. Bürger.
+Pathen: Heinrich Arückeberg, Jakob Bürger, Ferdinand Reikirg.
+. Frieda Caroline Maria
+1881.
+geboren den 2t und getauft den 8t September
+Heinrich Bischoff.
+Eltern
+Christine = - geb: Bleeke.
+Pathen: Caroline Bischoff u. Maria Blenke
+(Großmütter)
+1882.
+. Johanna Doris Elise
+geboren den 29t December 1881, getauft den 20 Januar 1882.
+Hermann Büttner
+Eltern]
+geb. Roth.
+Louise.
+W
+Pathen: Frau Doris Haŭgt und Fraŭ Therese Roth.
+. Maria Elisommen.
+geboren den 14 Jannar u. getauft den 29 Januar 1882,
 Wilhelm Reinking.
-Eltern [Louise]
-geb. Blenke.
-Pathen: Wilhelm Bleeke und Hermann
-Reinking.
-1884.
-Bertha Caroline Sophie
-1884.
-187.
-I geboren den 26 Januar u. getauft den 3 Februar
-Wilhelm Blenke,
-le
 Eltern
-Halle.
-Louise = = geb.
-Provinces
-Folle und
-Pathen: Frau Caroline Grote, Frau Sophie
-Louise Reinkung.
+Louise
+geb. Blenke
+Pathen: Frau Maria Runkinger u. Darhier Ehemann
+60
+. Marie Louise Rosine,
+3.
+Februar 1882.
+geboren den 25 Januar und getauft den
+Johann Ehrmann.
+Eltern
+Caroline" geb. Blecke
+Pathen: Maria Blecke, Louise Gerke u. Elisabeth Benz

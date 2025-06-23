@@ -1,42 +1,50 @@
-= Enrties ?-?
+= Entries 146-152
+:page-role: doc-width
 
-Taufregister.
-1882.
-Adele Sophie Antonie, +
-.
-geboren den 27 September und getauft den 1 October 1882
-Heinrich Bleeke.
+image::71.jpg[]
+
+== Transliteration
+
+=== Taufregister
+
+. Peter Christian Gottfried, geboren der 10t November 1880, gesucht den 25te November 1880.
+   Heinrich Bleeke
 Eltern
-Emilie, - - geb. Thieme.
-Pathen: Frau Sophie Holle u. jungfr: Antonia Thieme.
-Emilie Wilhelmine Sophia
-geboren den 16 October und getauft den 29 October 1882.
+Emilie  Hierme
+Die Großmutter
+Pathen:  Christian Blecke zu Gottfried Thiener
+
+. Gerhold Conrad Christian, geboren den 7ten December u. getauft den 13ten December 1880.
+Hermann Reinking
+Eltern
+Marin geb. Blerke
+Pathen: der Großväter Conrad Reinking u. Christian Blenke
+. Hermann Fridlich Wilhelm geboren den 25t Januar und gekauft den 6te Februar 1881.
+Johann Ehrmann
+Eltern
+geb: Bierke.
+Caroline
+Patzen: Jakob Benz, Fridich Blecke u. Wilhelm Gerke.
+*Heinrich
+geboren den 9t Februar ou. getauft (Nothdau, er) denselben Tag 1581.
+Heinrich Heuer.
+Eltern Z. Isabella
+geb. Bibelheimer.
+Jungen der für in des Kindwers die Eltern desselben.
+Maria Christina
+1881.
+Geboren den 8ten und getauft den 18ten April
+.
+Ludwig Koldewey
+Eltern.
+Thiermann
+geboren.
+Sophie
+Pathen: Maria Liebmehr und 2. Maria Reinking
+Ernst Carl Wilhelm
+geboren den 25t Juni und getauft den 3t Juli 1881.
 Heinrich Krückeberg.
 Eltern
-Louse
-geb: But.
-Pathen: Frau Emilie Schamerloh u. Wilhelmine Buk.
-Ludemilie Elise Maria
-5/9/72
-geboren den 11 November und getauft den 19 November 1882.
-Hermann Reinkinger
-Eltern
-Maria
-geb. Blecker.
-Pathen Louise Reinking u. Elise Dlerke.
-Prichard
-Chri
-Fridrich
-geboren den 17 November und getauft den 19 November 1882
-Eltern [Heinrich Bischoff
-Christine  geb: Bleekn.
-Pathen: Christian Bischoff u. Fridrich Blecke. (Großvöle.)
-—
-.
-geboren den 26. December u. getauft den 26 December 1883.
-Wilhelm Rinking.
-Eltern
-Maria
-geb.
-Bienz
-Empfing die Nothtaufe.
+Louise
+gebe Burck.
+Pathen: Ernst Buŭck und Larb Krückeberg

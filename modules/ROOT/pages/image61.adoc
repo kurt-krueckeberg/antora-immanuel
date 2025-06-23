@@ -1,7 +1,7 @@
 = Page 92, Entries 91-96
 :page-role: doc-width
 
-image::62.jpg[link=self]
+image::61.jpg[link=self]
 
 [cols="a,a"]
 |===

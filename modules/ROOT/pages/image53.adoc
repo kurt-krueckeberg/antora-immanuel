@@ -3,6 +3,11 @@
 
 image::53.jpg[align="left",title="Page 84, image 53 (Click to enlarge)",link=self]
 
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+a|
 [arabic,start="43"]
 . Ludwig Wilhelm +
 geboren den 11ten Januar und getauft den 7ten Februar 1864. +
@@ -52,3 +57,55 @@ Eltern:
 
 +
 Pathen Bernhardine Koldewey u. Maria Carline Bleeke
+
+[arabic,start="43"]
+a|
+. Ludwig Wilhelm +
+born on January 11th and baptized on February 7th, 1864. +
+Parents:
+** Heinrich Jakob Rücklos
+** Anna Elisabeth née Hoffmann
+
++
+Godparents: Johann Heinrich Bleeke and Georg P. Germann.
+. Emma Maria Catharina +
+born on December 23rd and baptized on December 25th, 1863. +
+Parents:
+** Carl Heinrich
+** Maria Sophia née Tiemann.
+
++
+Godparents: Maria Tiemann and Catharina Koldewey.
+. Sophie Wilhelmine +
+born on October 20th and baptized on October 31st, 1863. +
+Parents:
+** Carl Dietrich Wilhelm Schamerloh
+** Caroline Philippine née Krückeberg
+
++
+Godparents: Wilhelmine Weiland and Louise Heckmann.
+. Fridrich Jakob +
+born on May 2nd and baptized on May 16th, 1864. +
+Parents:
+** Heinrich Jakob Rücklos.
+** L. Friderike née Dauer.
+
++
+Godparents: Abraham Stoudler and his wife Maria.
+. Christine Maria +
+born on January 23rd and baptized on February 7th, 1864 +
+Parents:
+** Johann Andreas Thieme
+** Christine Sophie Eleonore née Krückeberg.
+
++
+Godparents: Philippine Caroline Schamerloh and Maria Bleeke.
+. Maria Sophia Helene +
+born on September 12th and baptized on September 25th, 1864 +
+Parents:
+** Conrad Dietrich Ferdinand Reinking.
+** Maria Louise Eleonore née Bleeke.
+
++
+Godparents: Bernhardine Koldewey and Maria Carline Bleeke
+|===

@@ -3,6 +3,11 @@
 
 image::58.jpg[align="left",title="Page 89, image 58 (Click to enlarge)",link=self]
 
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+|
 [arabic,start="73"]
 . Louise Rosete +
 geboren den 19ten December 1858, getauft den 23ten Januar 1868. +
@@ -54,3 +59,55 @@ Eltern:
 +
 Pathen Jungfrau Maria Blecke, u. Jungfr. Isabella Bibelheimer.
 
+|
+[arabic,start="73"]
+. Louise Rosete +
+born December 19, 1858, baptized January 23, 1868. +
+Parents:
+** Fridrich Schönstedt
+** Agnese née Mitteldorp.
+
++
+Witnesses: Jakob Stöhr and his wife Elisabeth.
+. Rufus Chancey +
+born December 3, 1863, baptized January 23, 1868. +
+Parents:
+** Fridrich Schönstedt
+** Agnese née Mitteldorp.
+
++
+Godparents: Jakob Stöhr and his wife Elisabeth.
+. Franziska Emeline +
+born November 20, 1865, died June 28, 1868 +
+Parents:
+** Friedrich Schönstedt
+** Agnese née Mitteldorp.
+
++
+Godparents: Jakob Stöhr and his wife Elisabeth.
+. Sophie Christine Wilhelmine +
+born on January 25, 1868, baptized on February 2, 1866. +
+Parents:
+** Christian Dietrich Schamerloh
+** Caroline Philippine Sophie née Krückeberg
+
++
+Godparents: Mrs. Caroline Heckmann and Mrs. Wilhelmine Weiland.
+. Heinrich Theodor +
+born on February 13, 2 a.m., born on February 21, 1868. +
+Parents:
+** Johann Andreas Thieme
+** Christine Sophie Eleoncze née Krückeberg.
+
++
+Godparents: Gottfried Thieme and Carl Grote
+. Maria Isabella +
+
+born on February 17 and baptized on February 23, 1868. +
+Parents:
+** Carl Fridrigs Wilhelm Blocke
+** Maria née Bibelheimer
+
++
+Godparents: Virgin Maria Blecke and Virgin Isabella Bibelheimer.
+|===

@@ -12,7 +12,7 @@ image::60.jpg[link=self]
 |
 [arabic,start="85"]
 . James Andreas +
-geboren den 10t Februar 1868 getauft den 10de Januar 1869. +
+geboren den 10ten Februar 1868 getauft den 10ten Januar 1869. +
 uneheliches Kind von Lidia Hoffmann, adoptirt von +
 ** David Breuner
 ** und dessen Ehefrau Catharina geb. Belz.
@@ -38,7 +38,7 @@ Pathen: Frau Wilhelmine Weiland und Amalie Thieme.
 . Friederike Elise +
 geboren den 10ten März und getauft den 21te März 1869. +
 Eltern:
-** Johan Heinrich Conrad Tells.
+** Johan Heinrich Conrad Fells.
 ** Caroline geborene Feldner.
 
 +
@@ -55,7 +55,7 @@ Pathen: Sophie Koldewey; und Elise Steger.
 geboren den 31ten März und getauft den 18ten April 1869. +
 Eltern:
 ** Christian Dietrich Bischoff
-** Caroline geb: Block.
+** Caroline geb: Block
 
 +
 Pathen: Caroline Schamerloh und Christine Büttner

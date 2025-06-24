@@ -1,4 +1,4 @@
-= Page 82
+= Page 82, Entries 31-36
 :page-role: doc-width
 
 image::51.jpg[align="left",title="Page 82, image 51 (Click to enlarge)",link=self]
@@ -11,7 +11,7 @@ TODO: add Nachträge
 
 a|
 [arabic,start="31"]
-. Caroline Wilhelmine Louise +
+. [`+1/9/70`] Caroline Wilhelmine Louise +
 geboren den 18ten März und getauft den 23ten März 1862 +
 Eltern:
 ** Christian Dietrich Schamerloh
@@ -19,7 +19,7 @@ Eltern:
 
 +
 Pathen: Caroline Philippine Schamerloh und Caroline Wilhelmine Krückeberg.
-. Fridrich Heinrich +
+. [`+`] Friedrich Heinrich +
 geboren den 9ten Januar und getauft den 19ten Januar 1862. +
 Eltern:
 ** Carl Heinrich Ludwig Koldeweÿ
@@ -28,14 +28,14 @@ Eltern:
 +
 Pathen: Johann Heinrich Bleeke, Fridrich Koldeweÿ
 . Louise Sophie Caroline +
-geboren den 10ten April und getauft den 15ten April 1860 +
+[`+10/2/77`] geboren den 10ten April und getauft den 15ten April 1860 +
 Eltern:
 ** Carl Dietrich Wilhelm Schamerloh.
 ** Caroline Philippine geb. Krückeberg
 
 +
 Pathen: Caroline Schamerloh u. Caroline Krückeberg.
-. Caroline Wilhelmin +
+. [`+4/24/36`] Caroline Wilhelmin +
 geboren den 12ten Januar und getauft den 20ten Januaar 1862 +
 Eltern:
 ** Carl Dietrich Wilhelm Schamerloh
@@ -44,7 +44,7 @@ Eltern:
 +
 Pathen: Wilhelmine Weiland u Caroline Grote.
 .  [27 b] Carl Friedrich +
-geboren den 1ten October und getauft den 9ten October 1861. +
+[`+1/29/45`] geboren den 1ten October und getauft den 9ten October 1861. +
 Eltern:
 ** Christian Fridrich Blecke
 ** Anna Maria geb. Rup.
@@ -62,7 +62,7 @@ Pathen: Philippine Schamerloh u. Sophie Buuck.
 
 a|
 [arabic,start="31"]
-. Caroline Wilhelmine Louise +
+. [`+1/9/70`] Caroline Wilhelmine Louise +
 born on March 18 and baptized on March 23, 1862 +
 Parents:
 ** Christian Dietrich Schamerloh
@@ -70,7 +70,7 @@ Parents:
 
 +
 Godparents: Caroline Philippine Schamerloh and Caroline Wilhelmine Krückeberg.
-. Friedrich Heinrich +
+. [`+`] Friedrich Heinrich +
 born on January 9 and baptized on January 19, 1862. +
 Parents:
 ** Carl Heinrich Ludwig Koldeweÿ
@@ -79,14 +79,14 @@ Parents:
 +
 Godparents: Johann Heinrich Bleeke, Friedrich Koldeweÿ
 . Louise Sophie Caroline +
-born on April 10 and baptized on April 15, 1860 +
+[`+10/2/77`] born on April 10 and baptized on April 15, 1860 +
 Parents:
 ** Carl Dietrich Wilhelm Schamerloh.
 ** Caroline Philippine née Krückeberg
 
 +
 Godparents: Caroline Schamerloh and Caroline Krückeberg.
-. Caroline Wilhelmin +
+. [`+4/24/36`] Caroline Wilhelmin +
 born on January 12th and baptized on January 20th, 1862 +
 Parents:
 ** Carl Dietrich Wilhelm Schamerloh
@@ -95,7 +95,7 @@ Parents:
 +
 Godparents: Wilhelmine Weiland and Caroline Grote.
 . [27 b] Carl Friedrich +
-born on October 1st and baptized on October 9th, 1861. +
+[`+1/29/45`] born on October 1st and baptized on October 9th, 1861. +
 Parents:
 ** Christian Fridrich Blecke
 ** Anna Maria née Rup.

@@ -6,6 +6,11 @@ image::74.jpg[link=self]
 [role="tauf-width"]
 == Transliteration and Translation
 
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+|
 [arabic,start="169"]
 . Justinus Hermann  [Calif.] +
 geboren den 5 August u. getauft den 14 August 1881. +
@@ -58,3 +63,58 @@ Eltern:
 
 +
 Pathen: Maria Bleeke, Louise Gerke u. Elisabeth Benz
+
+|
+. Justinus Hermann [Calif.] +
+born on August 5th and baptized on August 14th, 1881. +
+Parents:
+** Wilhelm Holle.
+** Sophie née Bleeke.
+
++
+Godparents: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege.
+
+Hermann Jakob Ferdinand [+10/10/81] +
+born on September 27th and baptized on October 9th, 1881. +
+Parents:
+** Christian Schamerloh.
+** Emilie née Bürger.
+
++
+Godparents: Heinrich Krückeberg, Jakob Bürger, Ferdinand Reinking.
+Frieda Caroline Maria [+1937] +
+born on September 2nd and baptized on September 8th, 1881. +
+Parents:
+** Heinrich Bischoff.
+** Christine née Bleeke.
+
++
+Godparents: Caroline Bischoff and Maria Bleeke (grandmothers)
+
+=== 1882
+
+. Johanna Doris Elise +
+born December 29, 1881, baptized January 20, 1882. +
+Parents:
+** Hermann Büttner
+** Louise, née Roth.
+
++
+Godparents: Mrs. Doris Haugk and Mrs. Therese Roth.
+. Elise Maria Caroline [+] +
+born January 14 and baptized January 29, 1882, +
+Parents:
+** Wilhelm Reinking.
+** Louise, née Bleeke
+
++
+Godparents: Mrs. Maria Reinking and Caroline Ehrmann
+. Marie Louise Rosine [+] +
+born January 25 and baptized February 3, 1882. +
+Parents:
+** Johann Ehrmann.
+** Caroline née Bleeke
+
++
+Pathen: Maria Bleeke, Louise Gerke and Elisabeth Benz
+|===

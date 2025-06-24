@@ -51,7 +51,7 @@ Eltern:
 +
 Pathen: Sophia Thieme u, Christina Büttner
 
-**NOTE:** This entry is unnumbered and appears in the right margin +
+**NOTE:** The next entry is unnumbered and appears in the right margin +
 after the entry #107 and prior to the entry #108.
 
 * [Calif.] Wilhelm Eduard +
@@ -120,7 +120,7 @@ Parents:
 +
 Godparents: Sophia Thieme and Christina Büttner
 
-**NOTE:** This entry is unnumbered and appears in the right margin +
+**NOTE:** The next entry is unnumbered and appears in the right margin +
 after entry #107 and prior to entry #108.
 
 * [Calif.] Wilhelm Eduard +

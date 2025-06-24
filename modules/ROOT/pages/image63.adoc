@@ -66,7 +66,7 @@ Pathen: H. Bleeke Ed Heckmann +
 get. durch P. Rupprecht +
 eingetragen von St. G.
 
-[decimal,start="108"]
+[arabic,start="108"]
 . Anna Maria Sophia +
 geb: den 26 Maerz u. get. den 9te April 1871. +
 Eltern:
@@ -77,7 +77,7 @@ Eltern:
 Pathen: Maria Bleeke, Sophia Grote.
 
 |
-[decimal,start="103"]
+[arabic,start="103"]
 . Heinrich Friedrich Wilhelm +
 born on September 21 and baptized on October 2, 1870 +
 Parents:
@@ -135,7 +135,7 @@ Godparents: H. Bleeke Ed Heckmann +
 died by P. Rupprecht +
 registered by St. G.
 
-[decimal,start="108"]
+[arabic,start="108"]
 . Anna Maria Sophia +
 born March 26 and died April 9, 1871. +
 Parents:

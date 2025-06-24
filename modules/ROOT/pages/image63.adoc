@@ -4,15 +4,15 @@
 image::63.jpg[link=self]
 
 [arabic,start="103"]
-. Heinrich Friedrich Wilhelm
+. Heinrich Friedrich Wilhelm +
 geboren den 21 September u. getauft den 2 October 1870
 Eltern:
-Ludwig Koldewy u.
-Jakkia, geb. Cordes
+** Ludwig Koldewy u.
+** Sophia, geb. Cordes
 
 +
 Pathen: Friedrich Thiele u. Wilhelm Engelbrecht
-. Christina Paulina.
+. Christina Paulina. +
 geb: den 3 October und art. den 9ten October 1870.
 Eltern:
 (Gottfried Thieme)
@@ -20,15 +20,15 @@ Amalia, geb.
 
 +
 Pathen: Darothea Haugh u. Christina Büttner.
-. Clara Maria
-geb: den 1. Januar u. get. den 8ten Januari 1871.
+. Clara Maria +
+geb: den 1. Januar u. get. den 8ten Januar 1871.
 Eltern
 Andreas Thieme
 Sophia, geb. Klein
 
 +
 Pathen: Amalia Thieme u. Carolina Schamerloh.
-. Friedrich Fe
+. Friedrich Fe +
 geb: den 12. Februar u. get. den 26 Febuar 1871.
 Eltern:
 Hanrich Rucklos
@@ -36,26 +36,32 @@ Friedricka, geb. Dauner
 
 +
 Pathen: Friedrich Bleeke u. Ferdinand Reinking.
-. Sophia Christi
-geb. den 22 Februar u. get. den 5 März 1871.
-107
-gelegten mich.
-geb. den 6. April 1841.
-Eltern
-Wilhelm Eduard
-Consed Falls
-get. den 15. Apr. 21.
-Carolina, geb. Feldner.
-Eltern: Ch. Blecke, Maria
-Pathen: Sophia Thience u. Christina Büttner
-Pathen H. Plectle
-Rup
-Ed. Heckmann
-Anna Maria Sophia
-108,
-get; durch P. Rupprecht
-geb: den 26 Maerz u. get. den 9te April 1871.
+. Sophia Christina +
+geb. den 22 Februar u. get. den 5 März 1871. +
+Eltern:
+** Conrad Fells
+** Carolina, geb. Feldner
+
++
+Pathen: Sophia Thieme u, Christina Büttner
+
+* **NOTE:** This entry is unnumbered and appears in the right margin
+Wilhelm Eduard +
+geb. den 6. April 1841. +
+get. den 15. Apr. 21. +
+Eltern:
+** Ch. Blecke
+** Maria geb. Rup
+
++
+Pathen: H. Bleeke Ed Heckmann +
+get. durch P. Rupprecht +
 eingetragen von St. G.
-Eltern L. Wilhelm Schamerloh
-Philippine, geb. Kruckeberg
+. Anna Maria Sophia +
+geb: den 26 Maerz u. get. den 9te April 1871. +
+Eltern:
+** Wilhelm Schamerloh
+** Philippine, geb. Kruckeberg
+
++
 Pathen: Maria Bleeke, Sophia Grote.

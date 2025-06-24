@@ -11,7 +11,7 @@ image::48.jpg[align="left",title="Page 79, image 48 (Click to enlarge),link=self
 
 a|
 [arabic,start="13"]
-. Maria Louise [+] +
+. Maria Louise [`+`] +
 geboren den 4ten März und getauft den 28t März 1858. +
 Eltern:
 ** Carl Fridrich Wilhelm Bleeke
@@ -62,7 +62,7 @@ Pathen Maria Bleeke und Christine Heckmann.
 
 a|
 [arabic,start="13"]
-. Maria Louise [+] +
+. Maria Louise [`+`] +
 born on March 4th and baptized on March 28th, 1858. +
 Parents:
 ** Carl Friedrich Wilhelm Bleeke

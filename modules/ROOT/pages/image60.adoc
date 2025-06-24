@@ -5,6 +5,11 @@ image::60.jpg[link=self]
 
 == Transliteration and Translation
 
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+|
 [arabic,start="85"]
 . James Andreas +
 geboren den 10t Februar 1868 getauft den 10de Januar 1869. +
@@ -54,3 +59,55 @@ Eltern:
 
 +
 Pathen: Caroline Schamerloh und Christine Büttner
+
+
+|
+[arabic,start="85"]
+. James Andreas +
+born on February 10, 1868, baptized on January 10, 1869. +
+illegitimate child of Lidia Hoffmann, adopted by +
+** David Breuner
+** and his wife Catharina, née Belz.
+
++
+Godparents: Abraham Steudler and his wife Maria. Emilie Louise Bertha +
+born on January 19, 4:30 a.m., baptized on January 31, 1869. +
+Parents:
+** Conrad Christian Wilhelm Reinking
+** Ernestine Bertha, née Busch.
+
++
+Godparents: Emilie Reinking and Louise Reinking.
+. Helene Wilhelmine Amalie. +
+born on February 1 and baptized on February 13, 1869 +
+Parents:
+** Christian Wilhelm Fells.
+** Elisabeth, née Rup.
+
++
+Godparents: Mrs. Wilhelmine Weiland and Amalie Thieme.
+. Friederike Elise +
+born on March 10 and baptized on March 21, 1869. +
+Parents:
+** Johan Heinrich Conrad Tells.
+** Caroline née Feldner.
+
++
+Godparents: Friederike Rücklos and Elisabeth Stöhr.
+. Emilie Sophie Elise +
+born on March 27 and baptized on April 4, 1869. +
+Parents:
+** Carl Dietrich Wilhelm Schamerloh.
+** Caroline Philippine née Krückeberg.
+
++
+Godparents: Sophie Koldewey and Elise Steger.
+. Louise Caroline Christine +
+born on March 31 and baptized on April 18, 1869. +
+Parents:
+** Christian Dietrich Bischoff
+** Caroline née Block.
+
++
+Patrons: Caroline Schamerloh and Christine Büttner
+|===

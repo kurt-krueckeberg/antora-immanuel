@@ -5,46 +5,43 @@ image::72.jpg[link=self]
 
 == Transliteration and Translation
 
-Tanfragister.
-1880.
-.
-+ Sophie Caroline Martha
-: 3
-geboren den 19t März und gesagt. den 21t Merz 1880
-einzig Kreckeberg
-Eltern
-Louise
-geb. Feuerl.
-Pathen: 1) Jener Roggenbaut u. 2) Frau Karolien
-können wy.
-+ Amalie Christine,
-Geboren den 22ten September und getauf den 10. October 1880.
-Hermann Büttner
-Eltern
-Louise
-geb. Roth.
-Rathen: Frau Amalie Thieme u. Frau Christine Bürters
-Alwine
-.
-.
-Mathilde
-Louise Maria
-1880
-geboren den 10t October und getauft den 17n October
-Wilhelm Krinking
-Eltern u. Louise geb. Blücke.
+. Sophie Caroline Martha +
+geboren den 19t März und gesagt. den 21t Merz 1880 +
+Eltern:
+** einzig Kreckeberg
+** Louise geb. Feuerl.
+Pathen: 1) Jener Roggenbaut u. 2) Frau Karolien können wy.
+. Amalie Christine, +
+geboren den 22ten September und getauf den 10. October 1880. +
+Eltern:
+** Hermann Büttner
+** Louise geb. Roth.
+
++
+Pathen: Frau Amalie Thieme u. Frau Christine Bürters
+. Mathilde Louise Maria +
+geboren den 10t October und getauft den 17n October +
+Eltern: 
+** Wilhelm Krinking
+** Louise geb. Blücke.
+
++
 Pathen: Maria Reinking u. Maria Blecke (die Großmutter)
-4.
+
 Vorher zu sein.
-Maria Louise Magdalena Doris
-geboren den 26t September und getauf den 24 October 1380.
-August Zangk
-Eltern
-Doril = geb: Dauel.
+. Maria Louise Magdalena Doris +
+geboren den 26t September und getauf den 24 October 1380. +
+Eltern:
+** August Haugk
+** Doril geb: Dauel.
+
++
 Pathen: Frau Louise Bürner u. Frau
-Emilie Keinem
-Fristrich Gottlob Herman
-geboren den 26t October u. getauft den November 1881 (1880
-(Friedrich Roth,
-Eltern & Therese    geb. Bütter
+. Emilie Keinem +
+geboren den 26t October u. getauft den November 1881 (1880 +
+Eltern:
+** Fridrich Gottlob Hermann
+** Therese geb. Bütter
+
++
 Pathen: 1) Fridrich Thieme, 2) Gottlob Büttner 3) Hermann Bütteer.

@@ -34,7 +34,8 @@
 ** xref:bios/david-bibelheimer.adoc[]
 * xref:image37.adoc[]
 * xref:image38.adoc[]
-* xref:taufregister.adoc[]
+* Taufregister +
+(Baptism Register)
 ** xref:image46.adoc[]
 ** xref:image47.adoc[]
 ** xref:image48.adoc[]

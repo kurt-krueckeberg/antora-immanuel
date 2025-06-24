@@ -10,15 +10,16 @@ image::63.jpg[link=self]
 [arabic,start="103"]
 |
 . Heinrich Friedrich Wilhelm +
-geboren den 21 September u. getauft den 2 October 1870
+geboren den 21 September u. getauft den 2 October 1870 +
 Eltern:
 ** Ludwig Koldewy u.
 ** Sophia, geb. Cordes
 
 +
 Pathen: Friedrich Thiele u. Wilhelm Engelbrecht
-. Christina Paulina. +
-geb: den 3 October und art. den 9ten October 1870.
+. Dorothea Christina Paulina. +
+[Ed? Bleeke]
+geb: den 3 October und art. den 9ten October 1870. +
 Eltern:
 (Gottfried Thieme)
 Amalia, geb.
@@ -26,15 +27,15 @@ Amalia, geb.
 +
 Pathen: Darothea Haugh u. Christina Büttner.
 . Clara Maria +
-geb: den 1. Januar u. get. den 8ten Januar 1871.
+[Nebr.] geb: den 1. Januar u. get. den 8ten Januar 1871. +
 Eltern
 Andreas Thieme
 Sophia, geb. Klein
 
 +
 Pathen: Amalia Thieme u. Carolina Schamerloh.
-. Friedrich Fe +
-geb: den 12. Februar u. get. den 26 Febuar 1871.
+. Friedrich Ferdinand +
+geb: den 12. Februar u. get. den 26 Febuar 1871. +
 Eltern:
 Hanrich Rucklos
 Friedricka, geb. Dauner
@@ -53,7 +54,7 @@ Pathen: Sophia Thieme u, Christina Büttner
 **NOTE:** This entry is unnumbered and appears in the right margin +
 after the entry #107 and prior to the entry #108.
 
-* Wilhelm Eduard +
+* [Calif.] Wilhelm Eduard +
 geb. den 6. April 1841. +
 get. den 15. Apr. 21. +
 Eltern:
@@ -78,15 +79,16 @@ Pathen: Maria Bleeke, Sophia Grote.
 |
 [decimal,start="103"]
 . Heinrich Friedrich Wilhelm +
-born on September 21 and baptized on October 2, 1870
+born on September 21 and baptized on October 2, 1870 +
 Parents:
 ** Ludwig Koldewy and
 ** Sophia, née Cordes
 
 +
 Godparents: Friedrich Thiele and Wilhelm Engelbrecht
-. Christina Paulina +
-born on October 3 and married on October 9, 1870.
+. Dorothea Christina Paulina +
+[Ed? Bleeke]
+born on October 3 and married on October 9, 1870. +
 Parents:
 (Gottfried Thieme)
 Amalia, née
@@ -94,7 +96,7 @@ Amalia, née
 +
 Godparents: Darothea Haugh and Christina Büttner
 . Clara Maria +
-born on January 1 and married on January 8, 1871.
+[Nebr.] born on January 1 and married on January 8, 1871. +
 Parents:
 Andreas Thieme
 Sophia, née Klein
@@ -121,8 +123,8 @@ Godparents: Sophia Thieme and Christina Büttner
 **NOTE:** This entry is unnumbered and appears in the right margin +
 after entry #107 and prior to entry #108.
 
-* Wilhelm Eduard +
-born April 6, 1841. +
+* [Calif.] Wilhelm Eduard +
+born April 6, 1841. + +
 died April 15, 1821. +
 Parents:
 ** Ch. Blecke

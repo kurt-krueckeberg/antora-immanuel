@@ -1,7 +1,7 @@
 //.xref:index.adoc[]
 .Immanuel Kirchenbuch
 * xref:cover-page.adoc[]
-* Kichenordnung
+* Kichenordnung (Constitution)
 ** xref:image4.adoc[]
 ** xref:image5.adoc[]
 ** xref:image6.adoc[]
@@ -64,10 +64,12 @@
 ** xref:image73.adoc[]
 ** xref:image74.adoc[]
 ** xref:image89.adoc[]
-* Confirmandenregister
+* Confirmandenregister +
+(Confirmation Register)
 ** xref:image117.adoc[]
 * Register +
-der Leichenbegängnisse
+der Leichenbegängnisse +
+(Funeral Register)
 ** xref:image229.adoc[]
 ** xref:image230.adoc[]
 ** xref:image231.adoc[]

@@ -1,4 +1,4 @@
-= Taufregister
+= Taufregister (Baptism Register)
 
 *Taufregister* = *baptism register*. The baptism records follow a fixed format and use a fixed vocabulary with
 the definitions given below:

@@ -1,7 +1,7 @@
-= Entries 146-152
+= Page 104, Entries 146-152
 :page-role: doc-width
 
-image::71.jpg[]
+image::73.jpg[]
 
 == Transliteration
 

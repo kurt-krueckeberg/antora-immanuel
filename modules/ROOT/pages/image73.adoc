@@ -7,44 +7,52 @@ image::73.jpg[link=self]
 
 === Taufregister
 
-. Peter Christian Gottfried, geboren der 10t November 1880, gesucht den 25te November 1880.
-   Heinrich Bleeke
+[arabic,start="146"]
+. Peter Christian Gottfried +
+geboren der 10t November 1880, gesucht den 25te November 1880. +
 Eltern
-Emilie  Hierme
-Die Großmutter
-Pathen:  Christian Blecke zu Gottfried Thiener
+** Heinrich Bleeke
+** Emilie  Hierme
 
-. Gerhold Conrad Christian, geboren den 7ten December u. getauft den 13ten December 1880.
-Hermann Reinking
++
+Pathen:  Christian Blecke zu Gottfried Thiener die Großmutter
+. Gerhold Conrad Christian +
+geboren den 7ten December u. getauft den 13ten December 1880. +
 Eltern
-Marin geb. Blerke
+** Hermann Reinking
+** Marin geb. Blerke
+
++
 Pathen: der Großväter Conrad Reinking u. Christian Blenke
-. Hermann Fridlich Wilhelm geboren den 25t Januar und gekauft den 6te Februar 1881.
-Johann Ehrmann
+. Hermann Fridlich Wilhelm +
+geboren den 25t Januar und gekauft den 6te Februar 1881. +
 Eltern
-geb: Bierke.
-Caroline
-Patzen: Jakob Benz, Fridich Blecke u. Wilhelm Gerke.
-*Heinrich
-geboren den 9t Februar ou. getauft (Nothdau, er) denselben Tag 1581.
-Heinrich Heuer.
-Eltern Z. Isabella
-geb. Bibelheimer.
+** Johann Ehrmann
+** Caroline geb: Bierke.
+
++
+Pathenn: Jakob Benz, Fridich Blecke u. Wilhelm Gerke.
+. Heinrich +
+geboren den 9t Februar ou. getauft (Nothdau, er) denselben Tag 1581. +
+Eltern
+** Heinrich Heuer.
+** Z. Isabella geb. Bibelheimer.
+
++
 Jungen der für in des Kindwers die Eltern desselben.
-Maria Christina
-1881.
-Geboren den 8ten und getauft den 18ten April
-.
-Ludwig Koldewey
+. Maria Christina +
+geboren den 8ten und getauft den 18ten April 1881. +
 Eltern.
-Thiermann
-geboren.
-Sophie
+** Ludwig Koldewey
+** Sophie geboren. Thiermann
+
++
 Pathen: Maria Liebmehr und 2. Maria Reinking
-Ernst Carl Wilhelm
-geboren den 25t Juni und getauft den 3t Juli 1881.
-Heinrich Krückeberg.
+. Ernst Carl Wilhelm +
+geboren den 25t Juni und getauft den 3t Juli 1881. +
 Eltern
-Louise
-gebe Burck.
+** Heinrich Krückeberg.
+** Louise geb. Burck.
+
++
 Pathen: Ernst Buŭck und Larb Krückeberg

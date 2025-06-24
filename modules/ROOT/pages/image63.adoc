@@ -29,8 +29,8 @@ Pathen: Darothea Haugh u. Christina Büttner.
 . Clara Maria +
 [Nebr.] geb: den 1. Januar u. get. den 8ten Januar 1871. +
 Eltern
-Andreas Thieme
-Sophia, geb. Klein
+** Andreas Thieme
+** Sophia, geb. Klein
 
 +
 Pathen: Amalia Thieme u. Carolina Schamerloh.
@@ -98,8 +98,8 @@ Godparents: Darothea Haugh and Christina Büttner
 . Clara Maria +
 [Nebr.] born on January 1 and married on January 8, 1871. +
 Parents:
-Andreas Thieme
-Sophia, née Klein
+** Andreas Thieme
+** Sophia, née Klein
 
 +
 Godparents: Amalia Thieme and Carolina Schamerloh

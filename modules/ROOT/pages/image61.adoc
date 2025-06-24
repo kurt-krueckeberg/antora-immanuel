@@ -9,7 +9,7 @@ image::61.jpg[link=self]
 
 |
 [arabic,start="91"]
-. +[8/11/47]  Gottfried Heinrich +
+. [+8/11/47]  Gottfried Heinrich +
 geboren den 9tn Juni Vormittag 11 Uhr getauft den 20ten Juni 1869 +
 Eltern:
 ** Friedrich August Haugk
@@ -61,7 +61,7 @@ Pathen: Heinrich Steger, Christian Schamerloh, Heinrich Heier
 
 |
 [arabic,start="91"]
-. +[8/11/47]  Gottfried Heinrich +
+. [+8/11/47]  Gottfried Heinrich +
 born 9th June morning 11 o'clock baptized 20th June 1869 +
 Parents:
 ** Friedrich August Haugk

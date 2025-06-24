@@ -19,7 +19,7 @@ Eltern:
 
 +
 Pathen: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege
-. Hermann Jakob Ferdinand [+10/10/81] +
+. Hermann Jakob Ferdinand [`+10/10/81`] +
 geboren den 27 September und getauft den 9t October 1881. +
 Eltern:
 ** Christian Schamerloh.
@@ -74,7 +74,7 @@ Parents:
 +
 Godparents: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege.
 
-. Hermann Jakob Ferdinand [+10/10/81] +
+. Hermann Jakob Ferdinand [`+10/10/81`] +
 born on September 27th and baptized on October 9th, 1881. +
 Parents:
 ** Christian Schamerloh.

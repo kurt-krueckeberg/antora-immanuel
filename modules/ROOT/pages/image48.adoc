@@ -19,7 +19,7 @@ Eltern:
 
 +
 Pathen: Maria Bibelheimer und Sophie Heckmann.
-. Christine Emilie [+4/14/58] +
+. Christine Emilie [`+4/14/58`] +
 geboren den 7ten März und getauft den 28t März 1858. +
 Eltern:
 ** Conrad Dietrich Ferdinand Reinking
@@ -27,7 +27,7 @@ Eltern:
 
 +
 Pathen:
-. Johann Fridrich [+5/15/20] +
+. Johann Fridrich [`+5/15/20`] +
 geboren den 1ten October und getauft den 10t October 1858 +
 Eltern:
 ** Johann Andreas Thieme
@@ -35,7 +35,7 @@ Eltern:
 
 +
 Pathen: Johann Gottlieb Thieme u. Johann Heinrich Krückeberg
-. Christine Elise [+4/6/61] +
+. Christine Elise [`+4/6/61`] +
 geboren den 10t Februar und getauft den 27t Febuar 1859. +
 Eltern:
 ** Christian Fridrich Bleeke.
@@ -43,7 +43,7 @@ Eltern:
 
 +
 Pathen: Elisabeth Rup und Christine Herkmann
-. Carl Wilhelm Christian [+5/13/59] +
+. Carl Wilhelm Christian [`+5/13/59`] +
 geboren den 28ten April und getauft den 8ten May 1859. +
 Eltern:
 ** Carl Districh Wilhelm Schamerloh.
@@ -51,7 +51,7 @@ Eltern:
 
 +
 Pathen: Christian Schamerloh u. Carl Krückeberg.
-. Christine Marie [+11/2/92] +
+. Christine Marie [`+11/2/92`] +
 geboren den 5t May und getauft den 24t May 1859. +
 Eltern:
 ** Conrad Dietrich Ferdinand Reinking
@@ -71,7 +71,7 @@ Parents:
 +
 Godparents: Maria Bibelheimer and Sophie Heckmann.
 
-. Christine Emilie [+4/14/58] +
+. Christine Emilie [`+4/14/58`] +
 born on March 7th and baptized on March 28th, 1858. +
 Parents:
 ** Conrad Dietrich Ferdinand Reinking
@@ -79,7 +79,7 @@ Parents:
 
 +
 Godparents:
-. Johann Fridrich [+5/15/20] +
+. Johann Fridrich [`+5/15/20`] +
 born on October 1st and baptized on October 10th, 1858 +
 Parents:
 ** Johann Andreas Thieme
@@ -88,7 +88,7 @@ Parents:
 +
 Godparents: Johann Gottlieb Thieme and Johann Heinrich Krückeberg
 
-. Christine Elise [+4/6/61] +
+. Christine Elise [`+4/6/61`] +
 born on February 10th and baptized on February 27th, 1859 +
 Parents:
 ** Christian Fridrich Bleeke
@@ -97,7 +97,7 @@ Parents:
 +
 Godparents: Elisabeth Rup and Christine Herkmann
 
-. Carl Wilhelm Christian [+5/13/59] +
+. Carl Wilhelm Christian [`+5/13/59`] +
 born on April 28th and baptized on May 8th, 1859 +
 Parents:
 ** Carl Districh Wilhelm Schamerloh
@@ -105,7 +105,7 @@ Parents:
 
 +
 Godparents: Christian Schamerloh and Carl Krückeberg.
-. Christine Marie [+11/2/92] +
+. Christine Marie [`+11/2/92`] +
 born on May 5th and baptized on May 24th, 1859. +
 Parents:
 ** Conrad Dietrich Ferdinand Reinking

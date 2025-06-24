@@ -30,7 +30,7 @@ Eltern:
 +
 Pathen: Conrad Reinking u. Christian Bleeke (die Großväter)
 . Hermann Fridrich Wilhelm +
-[+8/1/81]
+[`+8/1/81`]
 geboren den 25t Januar und getauft den 6te Februar 1881. +
 Eltern:
 ** Johann Ehrmann
@@ -39,7 +39,7 @@ Eltern:
 +
 Pathen: Jakob Benz, Fridrich Bleeke u. Wilhelm Gerke.
 . Heinrich +
-[+2/13/81]
+[`+2/13/81`]
 geboren den 9t Februar u. getauft (Nothtaufe) denselben Tag 1881. +
 Eltern:
 ** Heinrich Heuer.
@@ -48,7 +48,7 @@ Eltern:
 +
 Zeugen der Taufe des Kindleins die Eltern desselben.
 . Maria Christina +
-[+10/2/10]
+[`+10/2/10`]
 geboren den 8ten und getauft den 18ten April 1881. +
 Eltern:.
 ** Ludwig Koldewey
@@ -57,7 +57,7 @@ Eltern:.
 +
 Pathen: Maria Lieberich und 2. Maria Reinking
 . Ernst Carl Wilhelm +
-[+3/20/48]
+[`+3/20/48`]
 geboren den 25t Juni und getauft den 3t Juli 1881. +
 Eltern:
 ** Heinrich Krückeberg.
@@ -85,7 +85,7 @@ Parents:
 +
 Godparents: Conrad Reinking and Christian Bleeke (the grandfathers)
 . Hermann Fridrich Wilhelm +
-[+8/1/81]
+[`+8/1/81`]
 born January 25 and baptized February 6, 1881. +
 Parents:
 ** Johann Ehrmann
@@ -94,7 +94,7 @@ Parents:
 +
 Godparents: Jakob Benz, Fridrich Bleeke, and Wilhelm Gerke.
 . Heinrich +
-[+2/13/81]
+[`+2/13/81`]
 Born on February 9th and baptized (emergency baptism) on the same day, 1881. +
 Parents:
 ** Heinrich Heuer.
@@ -103,7 +103,7 @@ Parents:
 +
 Witnesses to the child's baptism were the child's parents.
 . Maria Christina +
-[+10/2/10]
+[`+10/2/10`]
 Born on April 8th and baptized April 18th, 1881. +
 Parents:
 ** Ludwig Koldewey
@@ -112,7 +112,7 @@ Parents:
 +
 Godparents: Maria Lieberich and 2. Maria Reinking
 . Ernst Carl Wilhelm +
-[+3/20/48]
+[`+3/20/48`]
 Born on June 25th and baptized July 3rd, 1881. +
 Parents:
 ** Heinrich Krückeberg.

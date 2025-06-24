@@ -67,7 +67,7 @@ Pathen: Caroline Grote und Sophie Thieme
 
 a|
 [arabic,start="25"]
-. Heinrich [+5/4/61] +
+. Heinrich [`+5/4/61`] +
 born on May 2nd and baptized on the same day 1861. +
 Parents:
 ** Christian Dietrich Schamerloh
@@ -76,7 +76,7 @@ Parents:
 +
 This child received emergency basptism and died on May 4th, 1861.
 . Wilhelmine Christine +
-born on April 20th and baptized on May 5th, 1861. [+1/26/97] +
+born on April 20th and baptized on May 5th, 1861. [`+1/26/97`] +
 Parents:
 ** Conrad Dietrich Ferdinand Reinking
 ** Maria Louise Eleonore, née Bleeke.
@@ -84,7 +84,7 @@ Parents:
 +
 Godparents: Wilhelmine Reinking, Sophie Heckmann and Maria Bleeke.
 . a) Christine Emilie +
-born on September 8th and baptized on September 29th, 1861. [+4/16/98] +
+born on September 8th and baptized on September 29th, 1861. [`+4/16/98`] +
 Parents:
 ** Carl Fridrich Wilhelm Bleeke.
 ** Maria née Bibelheimer.

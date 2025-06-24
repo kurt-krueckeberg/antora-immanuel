@@ -11,7 +11,7 @@ image::49.jpg[align=left,title='Page 80, image 49 (Click to enlarge)',link=self]
 
 a|
 [arabic,start=19]
-. [+5/18/32] Carl Fridrich Wilhelm +
+. [`+5/18/32`] Carl Fridrich Wilhelm +
 geboren den 19ten September und getauft den 1t October 1859. +
 Eltern:
 ** Christian Dietrich Schamerloh
@@ -30,7 +30,7 @@ Eltern:
 Pathen: Elisabeth Bibelheimer und Maria Bleeke. +
 (Dies nächste Kind siehe No 33.)
 . Maria Elise +
-[+3/10/95] geboren den 23ten Juni und getauft den 8t Juli 1860. +
+[`+3/10/95`] geboren den 23ten Juni und getauft den 8t Juli 1860. +
 Eltern:
 ** Christian Fridrich Bleeke
 ** Anna Maria geborene Rup.
@@ -46,7 +46,7 @@ Eltern:
 +
 Pathen: Wilhelm Weiland und Carl Krüskeberg.
 . Fridrich Christian Wilhelm +
-[+2/1/40] +
+[`+2/1/40`] +
 geboren den 30ten September und getauft den 6t October 1860 +
 Eltern:
 ** Carl Heinrich Wilhelm Kräckeberg
@@ -55,7 +55,7 @@ Eltern:
 +
 Pathen: Wilhelm Schamerloh Christian Kleinschmidt.
 . Carl Wilhelm Christian +
-[+1/2/62] +
+[`+1/2/62`] +
 geboren den 15ten September und getauft den 6 October 1860 +
 Eltern:
 ** Johann Heinrich Wilhelm Carl Grote
@@ -66,7 +66,7 @@ Pathen: Carl Nürge und Christian Schamerloh.
 
 a|
 [arabic,start=19]
-. [+5/18/32] Carl Fridrich Wilhelm +
+. [`+5/18/32`] Carl Fridrich Wilhelm +
 born on September 19th and baptized on October 1st, 1859. +
 Parents:
 ** Christian Dietrich Schamerloh
@@ -86,7 +86,7 @@ Parents:
 Godparents: Elisabeth Bibelheimer and Maria Bleeke. +
 (For the next child, see No. 33.)
 . Maria Elise +
-[+3/10/95] born on June 23rd and baptized on July 8th, 1860 +
+[`+3/10/95`] born on June 23rd and baptized on July 8th, 1860 +
 Parents:
 ** Christian Fridrich Bleeke
 ** Anna Maria née Rup.
@@ -103,7 +103,7 @@ Parents:
 Godparents: Wilhelm Weiland and Carl Krückeberg.
       
 . Fridrich Christian Wilhelm +
-[+2/1/40] +
+[`+2/1/40`] +
 born on September 30th and baptized on October 6th, 1860 +
 Parents:
 ** Carl Heinrich Wilhelm Krückeberg
@@ -113,7 +113,7 @@ Parents:
 Godparents: Wilhelm Schamerloh Christian Kleinschmidt.
        
 . Carl Wilhelm Christian +
-[+1/2/62] +
+[`+1/2/62`] +
 born on September 15th and baptized on October 6th, 1860 +
 Parents: +
 ** Johann Heinrich Wilhelm Carl Grote

@@ -11,7 +11,7 @@ image::47.jpg[align=left,title='Image 47, Page 78 (Click to enlarge)',link=self]
 
 a|
 [arabic,start="7"]
-. [+11/6/33] Johann Heinrich +
+. [`+11/6/33`] Johann Heinrich +
 geboren den 17t. Februar und getauft den 25 Febuar 1855 +
 Eltern:
 ** Christian Fridrich Bleeke
@@ -27,7 +27,7 @@ Eltern:
 
 +
 Pathen: Caroline Grote, Philippine Krückeberg u. Leonore Bleeke.
-. [+5/31/39] Friedrich Wilhelm +
+. [`+5/31/39`] Friedrich Wilhelm +
 geboren den 13t April und getauft den 29t April 1855. +
 Eltern:
 ** Carl Fridrich Wilhelm Bleeke
@@ -35,7 +35,7 @@ Eltern:
 
 +
 Pathen: Johann Heinrich Bleeke, Christian Fridrich Bleeke und Wilhelm Heckmann.
-. [+10/25/03] Heinrich Christian Wilhelm +
+. [`+10/25/03`] Heinrich Christian Wilhelm +
 geboren den 18ten Februar und getauft den 2t März 1856. +
 Eltern:
 ** Conrad Dietrich Ferdinand Reinking
@@ -55,7 +55,7 @@ Pathen: Christine Krückeberg und Philippine Schamerloh
 
 a|
 [arabic,start="7"]
-. [+11/6/33] Johann Heinrich +
+. [`+11/6/33`] Johann Heinrich +
 born the 17th February and baptized the 25th February 1855 +
 Parents:
 ** Christian Fridrich Bleeke 
@@ -71,7 +71,7 @@ Parents:
 
 +
 Sponsors: Caroline Grote, Philippine Krückeberg and Leonore Bleeke. 
-. [+5/31/39] Friedrich Wilhelm +
+. [`+5/31/39`] Friedrich Wilhelm +
 born the 13th April und getauft the 29th April 1855 +
 Parents:
 ** Carl Friedrich Wilhelm Bleeke 
@@ -79,7 +79,7 @@ Parents:
 
 +
 Sponsors: Johann Heinrich Bleeke, Christian Fridrich Bleeke und Wilhelm Heckmann
-. [+10/25/03] Heinrich Christian Wilhelm +
+. [`+10/25/03`] Heinrich Christian Wilhelm +
 born the 18th February and baptized the 2th March 1856. +
 Parents:
 ** Conrad Dietrich Ferdinand Reinking

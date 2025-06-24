@@ -15,7 +15,7 @@ TODO:  Finish adding Nachträge
 
     Am Sonntage Palmarum den 13ten April. A. D. 1867.
 
-    1. Christian Fridrich Weyland geb: den 12t Januar 1851.    [+10/21/08]
+    1. Christian Fridrich Weyland geb: den 12t Januar 1851.    [`+10/21/08`]
     2. Isabella Bibelheimer geb: den 21ten Februar 1851. [left ca. 1883 Henry Heier]
     3. Sahra Bely geb: den 4ten May 1851.                      [+1879] 
 
@@ -27,16 +27,16 @@ TODO:  Finish adding Nachträge
 
     Am Sonntage Palmarum den 21ten März A. D. 1869.
 
-    1. Heinrich Schönstedt geb: den 19ten August 1852.           [+11/15/30]           
-    2. Francis Benjamin Belz geb: den 27.ten November 1853.      [+8/21/01]
+    1. Heinrich Schönstedt geb: den 19ten August 1852.           [`+11/15/30`]           
+    2. Francis Benjamin Belz geb: den 27.ten November 1853.      [`+8/21/01`]
     3. Johann Heinrich Bleeke geb. den 17ten Februar 1855.       [+] 
     4. Fridrich Wilhelm Bleeke geb: den 13ten April 1855.        [+] 
     5. Caroline Christine Sophie Grote geb: den 9ten April 1855. [Robt. Lee]
 
     Am Sontage Palmarum den 2 April 1871
 
-    1. Heinrich Diedrich Bischoff geb: den 9 Nov. 1857.           [+10/7/99]
-    2. Emilia Amalia Christina Thieme, geb: den 23 Mai 1857.      [+11/5/30]  
+    1. Heinrich Diedrich Bischoff geb: den 9 Nov. 1857.           [`+10/7/99`]
+    2. Emilia Amalia Christina Thieme, geb: den 23 Mai 1857.      [`+11/5/30`]  
     3. Carolina Elisabeth Schoenstedt, geb. den 19 Maerz 1857.
     4. Emilia Augusta Büttner, geb. den 25 Januar 1857.
     5. Carolina Christina Grote, geb. den 11 Sept. 1857.

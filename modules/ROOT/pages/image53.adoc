@@ -3,6 +3,8 @@
 
 image::53.jpg[align="left",title="Page 84, image 53 (Click to enlarge)",link=self]
 
+TODO: Add Nachträge
+
 [cols="a,a", options="header"]
 |===
 |Transliteration|Translation

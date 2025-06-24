@@ -1,8 +1,0 @@
-1. First, find the first name string in the file: "^[A-ZÄÖÜ][a-zöäüß]{2,} [A-ZÄÖÜ][a-zöäüß]{2,} ??????" 
-2. Then store all subsequent lines in an array until "^geb\. |^geboren " is found. 
-   Once it is found, if:
-   a.) the array is only one element, assume it is the name and output: ". $array[0] +\n".
-   b.) the array is two (or more) elements, ouput: ". $array[0] $array[1]\n"".
-
-   If this is the first time "^geb" was found, precede output with: '[arabic,start="??"]' ;
-3.) Clear array and store subsequent lines until "^Eltern" found or "Vater" found.3.) Clear array and store subsequent lines until "^Eltern" found or "Vater" found.3.) Clear array and store subsequent lines until "^Eltern" found or "Vater" found.

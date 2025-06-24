@@ -19,7 +19,7 @@ Eltern:
 
 +
 Pathen: Carl Dietrich Wilhelm Schamerich u. Carl Heinrich Wilh. Kruckeberg.
-. [+?] Caroline Elisabeth +
+. [`+?`] Caroline Elisabeth +
 [E.C. Gallmeier] +
 geboren den 1ten November und getauft den 20t Novemb. 1859. +
 Eltern:
@@ -75,7 +75,7 @@ Parents:
 +   
 Godparents: Carl Dietrich Wilhelm Schamerich and Carl Heinrich Wilh. Kruckeberg
       
-. [+?] Caroline Elisabeth +
+. [`+?`] Caroline Elisabeth +
 [E.C. Gallmeier] +
 born on November 1st and baptized on November 20th, 1859. +
 Parents:

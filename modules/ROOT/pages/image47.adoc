@@ -20,7 +20,7 @@ Eltern:
 +
 Pathen: Johann Heinrich Bleeke u. Fridrich Valsing
 . Caroline Christine Sophie +
-[Mrs. Robt. Lee] geboren den 9t April und getaust den 29t April 1855. +
+[`Mrs. Robt. Lee`] geboren den 9t April und getaust den 29t April 1855. +
 Eltern:
 ** Johann Heinrich Wilhelm Carl Grote
 ** Caroline Philippine Derathee geb. Krückeberg.
@@ -64,7 +64,7 @@ Parents:
 +
 Sponsors: Johann Heinrich Bleeke and Fridrich Valsing
 . Caroline Christine Sophie +
-[Mrs. Robt. Lee] born the 9th April and baptized the 29th April 1855 +
+[`Mrs. Robt. Lee`] born the 9th April and baptized the 29th April 1855 +
 Parents:
 **  Johann Heinrich Wilhelm Carl Grote 
 ** Carolina Philippina Dorothee née Krückeberg.

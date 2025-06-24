@@ -65,6 +65,7 @@ Eltern:
 Pathen: Maria Bleeke, Louise Gerke u. Elisabeth Benz
 
 |
+[arabic,start="169"]
 . Justinus Hermann [Calif.] +
 born on August 5th and baptized on August 14th, 1881. +
 Parents:
@@ -74,7 +75,7 @@ Parents:
 +
 Godparents: Heinrich Blecke, Fridrich Zoller, Hermann Reinkiege.
 
-Hermann Jakob Ferdinand [+10/10/81] +
+. Hermann Jakob Ferdinand [+10/10/81] +
 born on September 27th and baptized on October 9th, 1881. +
 Parents:
 ** Christian Schamerloh.
@@ -82,7 +83,7 @@ Parents:
 
 +
 Godparents: Heinrich Krückeberg, Jakob Bürger, Ferdinand Reinking.
-Frieda Caroline Maria [+1937] +
+. Frieda Caroline Maria [+1937] +
 born on September 2nd and baptized on September 8th, 1881. +
 Parents:
 ** Heinrich Bischoff.

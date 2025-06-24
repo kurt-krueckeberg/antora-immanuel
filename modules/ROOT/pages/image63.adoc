@@ -7,8 +7,8 @@ image::63.jpg[link=self]
 |===
 |Transliteration|Translation
 
-[arabic,start="103"]
 |
+[arabic,start="103"]
 . Heinrich Friedrich Wilhelm +
 geboren den 21 September u. getauft den 2 October 1870 +
 Eltern:
@@ -104,7 +104,7 @@ Parents:
 +
 Godparents: Amalia Thieme and Carolina Schamerloh
 . Friedrich Fe +
-born: February 12th and died: February 26th, 1871.
+born: February 12th and died: February 26th, 1871. +
 Parents:
 ** Hanrich Rücklos
 ** Friedricka, née Dauner

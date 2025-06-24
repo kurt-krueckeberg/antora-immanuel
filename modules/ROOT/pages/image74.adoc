@@ -1,7 +1,7 @@
 = Entries 153-157
 :page-role: doc-width
 
-image::71.jpg[link=self]
+image::74.jpg[link=self]
 
 [role="tauf-width"]
 == Transliteration and Translation

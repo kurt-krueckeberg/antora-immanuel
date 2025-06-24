@@ -59,6 +59,8 @@ Eltern:
 Pathen: H. Bleeke Ed Heckmann +
 get. durch P. Rupprecht +
 eingetragen von St. G.
+
+[decimal,start="108"]
 . Anna Maria Sophia +
 geb: den 26 Maerz u. get. den 9te April 1871. +
 Eltern:

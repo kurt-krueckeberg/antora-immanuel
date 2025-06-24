@@ -1,7 +1,8 @@
 //.xref:index.adoc[]
 .Immanuel Kirchenbuch
 * xref:cover-page.adoc[]
-* Kichenordnung (Constitution)
+* Kichenordnung +
+(Constitution)
 ** xref:image4.adoc[]
 ** xref:image5.adoc[]
 ** xref:image6.adoc[]

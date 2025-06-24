@@ -3,38 +3,54 @@
 
 image::60.jpg[link=self]
 
+== Transliteration and Translation
+
 [arabic,start="85"]
-. James Andreas
-geboren den 10t Februar 1868 getauft den 10de Januar 1869.
-uneheliches Kind von Lidia Hoffmann, adoptirt von
-David Breuner und dessen Ehefrau Catharina geb. Belz.
+. James Andreas +
+geboren den 10t Februar 1868 getauft den 10de Januar 1869. +
+uneheliches Kind von Lidia Hoffmann, adoptirt von +
+** David Breuner
+** und dessen Ehefrau Catharina geb. Belz.
+
++
 Pathen: Abraham Steudler u. dessen Ehefrau Maria
-. Emilie Louise Bertha
-geboren den 19ten Januar Morgens 4 1/2 Uhr, getauft den 31ten Januar 1869.
-Eltern Conrad Christian Wilhelm Reinking
-Ernestine Bertha geb. Busch.
+. Emilie Louise Bertha +
+geboren den 19ten Januar Morgens 4 1/2 Uhr, getauft den 31ten Januar 1869. +
+Eltern:
+** Conrad Christian Wilhelm Reinking
+** Ernestine Bertha geb. Busch.
+
++
 Pathen: Jungfr: Emilie Reinking u. Louise Reinking.
-. Helene Wilhelmine Amalie.
-geboren den 1ten Februar u. getauft den 13ten Febuar 1869
-Christian Wilhelm Fells.
-Eltern
-Elisabeth geb. Rup.
+. Helene Wilhelmine Amalie. +
+geboren den 1ten Februar u. getauft den 13ten Febuar 1869 +
+Eltern:
+** Christian Wilhelm Fells.
+** Elisabeth geb. Rup.
+
++
 Pathen Frau Wilhelmine Weiland und Amalie Thieme.
-. Friederike Elise
-geboren den 10ten März und getauft den 21te März 1869.
-Johan Heinrich Conrad Tells.
-Eltern.
-Caroline geborene Feldner.
+. Friederike Elise +
+geboren den 10ten März und getauft den 21te März 1869. +
+Eltern:
+** Johan Heinrich Conrad Tells.
+** Caroline geborene Feldner.
+
++
 Pathen: Friederike Rücklos und Elisabeth Stöhr
-. Emilie Sophie Elise 
-geboren den 27ten März und getauft den 4ten April 1869.
-Carl Dietrich Wilhelm Schamerloh.
-Eltern
-Caroline Philippine geb. Krückeberg.
+. Emilie Sophie Elise  +
+geboren den 27ten März und getauft den 4ten April 1869. +
+Eltern:
+** Carl Dietrich Wilhelm Schamerloh.
+** Caroline Philippine geb. Krückeberg.
+
++
 Pathen: Sophie Koldewey; und Elise Steger.
-. Louise Caroline Christine
-geboren den 31ten März und getauft den 18ten April 1869.
-Christian Dietrich Bischoff
-Eltern
-Caroline geb: Block.
+. Louise Caroline Christine +
+geboren den 31ten März und getauft den 18ten April 1869. +
+Eltern:
+** Christian Dietrich Bischoff
+** Caroline geb: Block.
+
++
 Pathen-Caroline Schamerloh und Christine Büttner

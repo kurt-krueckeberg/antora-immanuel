@@ -45,8 +45,10 @@ Eltern:
 +
 Pathen: Sophia Thieme u, Christina Büttner
 
-* **NOTE:** This entry is unnumbered and appears in the right margin
-Wilhelm Eduard +
+**NOTE:** This entry is unnumbered and appears in the right margin +
+after the entry above and prior to the entry below.
+
+* Wilhelm Eduard +
 geb. den 6. April 1841. +
 get. den 15. Apr. 21. +
 Eltern:

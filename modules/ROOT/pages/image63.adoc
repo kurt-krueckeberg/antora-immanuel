@@ -1,5 +1,9 @@
 = Entries 85-90
+:page-role: doc-width
 
+image::63.jpg[link=self]
+
+[arabic,start="103"]
 . Heinrich Friedrich Wilhelm
 geboren den 21 September u. getauft den 2 October 1870
 Eltern:

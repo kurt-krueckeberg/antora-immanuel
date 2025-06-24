@@ -13,12 +13,12 @@ image::57.jpg[align="left",title="Page 88, image 57 (Click to enlarge)",link=sel
 geboren den 28ten Januar und getauft den 10 Februar 1867. +
 Eltern:
 ** Christian Fridrich Bleeke
-** Anna Maria geborene Ru[ß/p] 
+** Anna Maria geborene Rup 
 
 +
-Pathen: Wilhelm Bleeke und Christian Schamerloh.
+Pathen: Wilhelm Bleeke und Christian Schamerloh
 . Auguste Caroline Christine +
-geboren den 7ten May St. M. 2 1/2 Uhr getauft den 19ten May
+geboren den 7ten May St. M. 2 1/2 Uhr getauft den 19ten May +
 Eltern:
 ** Carl Dietrich Wilhelm Schamerlok.
 ** Caroline Philippine geb. Krückeberg. S. 
@@ -32,7 +32,7 @@ Eltern:
 ** Elisabeth geb. Bibelheimer
 
 +
-Pather: David Bibelheimer und Christian Bleeke.
+Pathen: David Bibelheimer und Christian Bleeke.
 . Caroline Elisabeth +
 geboren den 24ten July Morgens 7 1/2 Uhr getauft den +
 Eltern:

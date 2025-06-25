@@ -9,7 +9,7 @@ image::58.jpg[align="left",title="Page 89, image 58 (Click to enlarge)",link=sel
 
 |
 [arabic,start="73"]
-. Louise Rosete +
+. Louise Rosete [`10/14/98`]  +
 geboren den 19ten December 1858, getauft den 23ten Januar 1868. +
 Eltern:
 ** Fridrich Schönstedt
@@ -17,7 +17,7 @@ Eltern:
 
 +
 Taufzeugen: Jakob Stöhr und dessen Ehefrau Elisabeth
-. Rufus Chancey +
+. Rufus Chancey [`3/10/96`] +
 geboren den 3ten Dezember 1863, getauft den 23ten Januar 1868. +
 Eltern:
 ** Fridrich Schönstedt
@@ -25,7 +25,9 @@ Eltern:
 
 +
 Pathen: Jakob Stöhr und dessen Ehefrau Elisbeth.
-. Franziska Emeline +
+. Franziska Emeline + 
+[`to Ill. 1890` +
+`Kirsck`] +
 geb. d. 20 Nov. 1865, get. den 28 Jun. 1868 +
 Eltern:
 ** Friedrich Schönstedt
@@ -60,7 +62,7 @@ Pathen Jungfrau Maria Blecke, u. Jungfr. Isabella Bibelheimer.
 
 |
 [arabic,start="73"]
-. Louise Rosete +
+. Louise Rosete [`10/14/98`]  +
 born December 19, 1858, baptized January 23, 1868. +
 Parents:
 ** Fridrich Schönstedt
@@ -68,7 +70,7 @@ Parents:
 
 +
 Witnesses: Jakob Stöhr and his wife Elisabeth.
-. Rufus Chancey +
+. Rufus Chancey [`3/10/96`] +
 born December 3, 1863, baptized January 23, 1868. +
 Parents:
 ** Fridrich Schönstedt
@@ -76,7 +78,9 @@ Parents:
 
 +
 Godparents: Jakob Stöhr and his wife Elisabeth.
-. Franziska Emeline +
+. Franziska Emeline + 
+[`to Ill. 1890` +
+`Kirsck`] +
 born November 20, 1865, died June 28, 1868 +
 Parents:
 ** Friedrich Schönstedt

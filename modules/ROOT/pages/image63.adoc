@@ -18,7 +18,7 @@ Eltern:
 +
 Pathen: Friedrich Thiele u. Wilhelm Engelbrecht
 . Dorothea Christina Paulina. +
-[Ed? Bleeke]
+[`Edw Bleeke`]
 geb: den 3 October und art. den 9ten October 1870. +
 Eltern:
 ** Gottfried Thieme
@@ -27,7 +27,7 @@ Eltern:
 +
 Pathen: Darothea Haugh u. Christina Büttner.
 . Clara Maria +
-[Nebr.] geb: den 1. Januar u. get. den 8ten Januar 1871. +
+[`Nebr.`] geb: den 1. Januar u. get. den 8ten Januar 1871. +
 Eltern
 ** Andreas Thieme
 ** Sophia, geb. Klein
@@ -54,7 +54,7 @@ Pathen: Sophia Thieme u, Christina Büttner
 **NOTE:** The next entry is unnumbered and appears in the right margin +
 after the entry #107 and prior to the entry #108.
 
-* [Calif.] Wilhelm Eduard +
+* [`Calif.`] Wilhelm Eduard +
 geb. den 6. April 1841. +
 get. den 15. Apr. 21. +
 Eltern:
@@ -68,7 +68,7 @@ eingetragen von St. G.
 
 [arabic,start="108"]
 . Anna Maria Sophia +
-geb: den 26 Maerz u. get. den 9te April 1871. +
+[`+3/12/39`] geb: den 26 Maerz u. get. den 9te April 1871. +
 Eltern:
 ** Wilhelm Schamerloh
 ** Philippine, geb. Kruckeberg
@@ -87,7 +87,7 @@ Parents:
 +
 Godparents: Friedrich Thiele and Wilhelm Engelbrecht
 . Dorothea Christina Paulina +
-[Ed? Bleeke]
+[`Edw Bleeke`]
 born on October 3 and married on October 9, 1870. +
 Parents:
 ** Gottfried Thieme
@@ -96,7 +96,7 @@ Parents:
 +
 Godparents: Darothea Haugh and Christina Büttner
 . Clara Maria +
-[Nebr.] born on January 1 and married on January 8, 1871. +
+[`Nebr.`] born on January 1 and married on January 8, 1871. +
 Parents:
 ** Andreas Thieme
 ** Sophia, née Klein
@@ -123,7 +123,7 @@ Godparents: Sophia Thieme and Christina Büttner
 **NOTE:** The next entry is unnumbered and appears in the right margin +
 after entry #107 and prior to entry #108.
 
-* [Calif.] Wilhelm Eduard +
+* [`Calif.`] Wilhelm Eduard +
 born April 6, 1841. +
 died April 15, 1821. +
 Parents:
@@ -137,7 +137,8 @@ registered by St. G.
 
 [arabic,start="108"]
 . Anna Maria Sophia +
-born March 26 and died April 9, 1871. +
+ born March 26 and died April 9, 1871. +
+[`+3/12/39`] geb: den 26 Maerz u. get. den 9te April 1871. +
 Parents:
 ** Wilhelm Schamerloh
 ** Philippine, née Kruckeberg

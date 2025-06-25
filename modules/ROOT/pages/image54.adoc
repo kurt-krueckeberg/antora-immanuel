@@ -9,15 +9,15 @@ image::54.jpg[align="left",title="Page 85, image 54 (Click to enlarge)",link=sel
 
 a|
 [arabic,start="49"]
-. Louise Sophie Wilhelmine + 
-geboren den 10ten Juli und getauft den 17 ten Juli 1864. +
+. Louise Sophie Wilhelmine [`+9/24/54`] + 
+geboren den 10ten Juli und getauft den 17ten Juli 1864. +
 Eltern:
 ** Carl Heinrich Wilhelm Krückeberg
 ** Caroline Wilhelmine geb. Kleinschmielt.
 
 +
 Pathen: Caroline Schamerloh u. Emma Belz.
-. Heinrich Wilhelm +
+. Heinrich Wilhelm [`+`] +
 geboren den 19 ten März und getauft den 26ten März 1865. +
 Eltern:
 ** Carl Dietrich Wilhelm Schamerloh.
@@ -25,7 +25,7 @@ Eltern:
 
 +
 Pathen: Heinrich Krückeberg und Wilhelm Weiland. 
-. Wilhelmine Christine +
+. Wilhelmine Christine [`+`] +
 geboren den 12ten März, und getauft den 20ten März 1865. +
 Eltern:
 ** Johann Heinrich Wilhelm Carl Grote
@@ -33,20 +33,21 @@ Eltern:
 
 +
 Pathen: Caroline Weiland u. Wilhelmine Schamerloh.
-. Johann Martin +
+. Johann Martin [`+11/11/35`] +
 geboren den 27ten Juli und getauft den 13ten September 1865. +
 Eltern:
 ** Christian Fridrich Bleeke
 ** Anna Maria geb. Rup.
 
 +
-Pathen: Wilhelm Fells u. Wilhelm Heckmann.
-. Caroline Philippine +
+Pathen: Wilhelm Fells u. Wilhelm Heckmann. +
+(Bishier von Pastor A. Fritze getauft)
+. Caroline Philippine [`+`] +
 geboren den 29ten October und getauft den 29 October 1865. +
 ** Johann Andreas Thieme
 ** Christine Sophie Eleonove geb: Krückeberg.
 Pathen: Philippine Weiland u. Philippe Christine Koldeweÿ
-. Henriette Helene +
+. Henriette Helene [`Napoleon, O.`] +
 geboren den 29ten October und getauft den 12ten November 1865 +
 Eltern:
 ** Carl Fridrich Wilhelm Bleeke
@@ -57,7 +58,7 @@ Pathen: Maria Eleonore Reinking u. Henriette Schnellenberger
 
 a|
 [arabic,start="49"]
-. Louise Sophie Wilhelmine +
+. Louise Sophie Wilhelmine [`+9/24/54`] + 
 born on July 10th and baptized on July 17th, 1864. +
 Parents:
 ** Carl Heinrich Wilhelm Krückeberg
@@ -65,7 +66,7 @@ Parents:
 
 +
 Godparents: Caroline Schamerloh and Emma Belz.
-. Heinrich Wilhelm +
+. Heinrich Wilhelm [`+`] +
 born on March 19th and baptized on March 26th, 1865. +
 Parents:
 ** Carl Dietrich Wilhelm Schamerloh.
@@ -73,7 +74,7 @@ Parents:
 
 +
 Godparents: Heinrich Krückeberg and Wilhelm Weiland.
-. Wilhelmine Christine +
+. Wilhelmine Christine [`+`] +
 born on March 12th and baptized on March 20th, 1865. +
 Parents:
 ** Johann Heinrich Wilhelm Carl Grote
@@ -81,7 +82,7 @@ Parents:
 
 +
 Godparents: Caroline Weiland and Wilhelmine Schamerloh.
-Johann Martin +
+. Johann Martin [`+11/11/35`] +
 born on July 27th and baptized on September 13th, 1865. +
 Parents:
 ** Christian Fridrich Bleeke
@@ -89,12 +90,12 @@ Parents:
 
 +
 Godparents: Wilhelm Fells and Wilhelm Heckmann.
-Caroline Philippine +
+. Caroline Philippine [`+`] +
 born on October 29th and baptized on October 29th, 1865. +
 ** Johann Andreas Thieme
 ** Christine Sophie Eleonove née Krückeberg.
 Godparents: Philippine Weiland and Philippe Christine Koldeweÿ
-. Henriette Helene +
+. Henriette Helene [`Napoleon, O.`] +
 born on October 29th and baptized on November 12th, 1865 +
 Parents:
 ** Carl Fridrich Wilhelm Bleeke

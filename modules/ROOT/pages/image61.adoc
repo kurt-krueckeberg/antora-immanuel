@@ -50,7 +50,7 @@ Eltern:
 
 +
 Pathen: J. Maria Blecke und Frau Pastorin Caroline Fritze
-. [Cleveland?] Heinrich Christian +
+. [`Cleveland`] Heinrich Christian +
 geboren den 16.ten Januar und getauft den 23ten Januer 1870. +
 Eltern:
 ** Conrad Dietrich Ferdinand Reinking.
@@ -102,7 +102,7 @@ Parents:
 
 +
 Godparents: J. Maria Blecke and Mrs. Pastor Caroline Fritze
-. Heinrich Christian +
+. [`Cleveland`] Heinrich Christian +
 born the 16th of January and baptized the 23rd of January 1870. +
 Parents:
 ** Conrad Dietrich Ferdinand Reinking.

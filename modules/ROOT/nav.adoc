@@ -69,6 +69,7 @@
 * Confirmandenregister +
 (Confirmation Register)
 ** xref:image117.adoc[]
+** xref:image118.adoc[]
 * Register +
 der Leichenbegängnisse +
 (Funeral Register)

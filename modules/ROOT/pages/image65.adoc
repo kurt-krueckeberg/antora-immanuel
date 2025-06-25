@@ -1,5 +1,6 @@
 = Entries 97-102
 :page-role: doc-width
+
 image::65.jpg[self=link]
 
 . Johanna Carolina Mathilda

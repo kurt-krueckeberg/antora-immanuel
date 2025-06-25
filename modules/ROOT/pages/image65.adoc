@@ -1,13 +1,8 @@
 = Entries 97-102
-115
-* 116,
-117
-118,
-9.
-[M]
-taf24/10
-120.
-Johanna Carolina Mathilda
+:page-role: doc-width
+image::65.jpg[self=link]
+
+. Johanna Carolina Mathilda
 geboren den 7ten und gut den 17ten Maerz 1872.
 (Paulus Rupprecht)
 Eltern

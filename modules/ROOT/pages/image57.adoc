@@ -10,7 +10,7 @@ image::57.jpg[align="left",title="Page 88, image 57 (Click to enlarge)",link=sel
 |
 [arabic,start="67"]
 . Christian Wilhelm +
-geboren den 28ten Januar und getauft den 10 Februar 1867. +
+[`+9/11/69`] geboren den 28ten Januar und getauft den 10 Februar 1867. +
 Eltern:
 ** Christian Fridrich Bleeke
 ** Anna Maria geborene Rup 
@@ -18,7 +18,7 @@ Eltern:
 +
 Pathen: Wilhelm Bleeke und Christian Schamerloh
 . Auguste Caroline Christine +
-geboren den 7ten May St. M. 2 1/2 Uhr getauft den 19ten May +
+[`+8/3/07`] geboren den 7ten May St. M. 2 1/2 Uhr getauft den 19ten May +
 Eltern:
 ** Carl Dietrich Wilhelm Schamerlok.
 ** Caroline Philippine geb. Krückeberg. S. 
@@ -42,7 +42,7 @@ Eltern:
 +
 Pathen: Elisabeth Falls und Caroline Bischoff.
 . Maria Emma +
-geboren den 28ten August Nachmittags 4 Uhr getauft den 8te September 1867 +
+[`+6/23/40`] geboren den 28ten August Nachmittags 4 Uhr getauft den 8te September 1867 +
 Eltern:
 ** Johan Heinrich Wilhelm Carl Grote
 ** Caroline Philippine Dorathea geb Krückeberg
@@ -50,7 +50,7 @@ Eltern:
 +
 Pathen: Sophie Nürge und Maria Bleeke.
 . Caroline Elisabeth +
-geboren den 19ten März 1857. getauft den 23ten Januar 1868 +
+[`+8/18/32`] geboren den 19ten März 1857. getauft den 23ten Januar 1868 +
 Eltern:
 ** Fridrich Schönstedt
 ** Agnese geb. Mitteldorp 
@@ -61,7 +61,7 @@ Taufzeugen: Jakob Stöhr und dessen Ehefrau Elisabeth
 |
 [arabic,start="67"]
 . Christian Wilhelm +
-born on January 28th and baptized on February 10th, 1867. +
+[`+9/11/69`] geboren den 28ten Januar und getauft den 10 Februar 1867. +
 Parents:
 ** Christian Fridrich Bleeke
 ** Anna Maria née Ru[ß/p]
@@ -69,7 +69,7 @@ Parents:
 +
 Godparents: Wilhelm Bleeke and Christian Schamerloh.
 . Auguste Caroline Christine +
-born on May 7th, St. Mary's, 2:30 a.m., baptized on May 19th.
+[`+8/3/07`] geboren den 7ten May St. M. 2 1/2 Uhr getauft den 19ten May +
 Parents:
 ** Carl Dietrich Wilhelm Schamerloh.
 ** Caroline Philippine née Krückeberg. S.
@@ -93,7 +93,7 @@ Parents:
 +
 Godparents: Elisabeth Falls and Caroline Bischoff.
 . Maria Emma +
-born on August 28th at 4:00 p.m., baptized on September 8th, 1867 +
+[`+6/23/40`] geboren den 28ten August Nachmittags 4 Uhr getauft den 8te September 1867 +
 Parents:
 ** Johan Heinrich Wilhelm Carl Grote
 ** Caroline Philippine Dorathea née Krückeberg
@@ -101,7 +101,7 @@ Parents:
 +
 Godparents: Sophie Nürge and Maria Bleeke.
 . Caroline Elisabeth +
-born on March 19th, 1857, baptized on January 23rd, 1868 +
+[`+8/18/32`] geboren den 19ten März 1857. getauft den 23ten Januar 1868 +
 Parents:
 ** Fridrich Schönstedt
 ** Agnese née Mitteldorp

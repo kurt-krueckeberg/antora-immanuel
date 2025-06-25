@@ -18,7 +18,7 @@ Eltern:
 
 +
 Pathen: Christine Sophie Eleonore Thieme u. Sara Bup.
-. Auguste Maria Johanne [`+`]
+. Auguste Maria Johanne [`+`] +
 geboren den 28ten August und getauft den 2ten September 1866. +
 Eltern:
 ** Heinrich Steger
@@ -67,7 +67,7 @@ Parents:
 
 +
 Godparents: Christine Sophie Eleonore Thieme and Sara Bup.
-. Auguste Maria Johanne [`+`]
+. Auguste Maria Johanne [`+`] +
 born on August 28th and baptized on September 2nd, 1866. +
 Parents:
 ** Heinrich Steger

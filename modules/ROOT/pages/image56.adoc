@@ -18,7 +18,7 @@ Eltern:
 
 +
 Pathen: Christine Sophie Eleonore Thieme u. Sara Bup.
-. Auguste Maria Johanne +
+. Auguste Maria Johanne [`+`]
 geboren den 28ten August und getauft den 2ten September 1866. +
 Eltern:
 ** Heinrich Steger
@@ -26,7 +26,7 @@ Eltern:
 
 +
 Pathen: Auguste Stoppenhagen, Maria Bleeke u. Johanne Steger.
-. Ferdinand Carl Fridrich. +
+. Ferdinand Carl Fridrich. [`+`] +
 geboren den 11ten November und getauft den 25ten November 1866 +
 Eltern:
 ** Conrad Dietrich Ferdinand Reinking
@@ -42,7 +42,7 @@ Eltern:
 
 +
 Pathen: Emeline Rabenalt und Caroline Schamerloh.
-. Hermann Fridrich Wilhelm +
+. Hermann Fridrich Wilhelm [`+8/21/09`] +
 geboren den 24ten November und getauft den 26ten November 1866. +
 Eltern:
 ** Conrad Christian Wilhelm Reinking.
@@ -67,7 +67,7 @@ Parents:
 
 +
 Godparents: Christine Sophie Eleonore Thieme and Sara Bup.
-. Auguste Maria Johanne +
+. Auguste Maria Johanne [`+`]
 born on August 28th and baptized on September 2nd, 1866. +
 Parents:
 ** Heinrich Steger
@@ -75,7 +75,7 @@ Parents:
 
 +
 Godparents: Auguste Stoppenhagen, Maria Bleeke and Johanne Steger.
-. Ferdinand Carl Fridrich. +
+. Ferdinand Carl Fridrich. [`+`] +
 born on November 11th and baptized on November 25th, 1866 +
 Parents:
 ** Conrad Dietrich Ferdinand Reinking
@@ -90,7 +90,7 @@ Parents:
 
 +
 Godparents: Emeline Rabenalt and Caroline Schamerloh.
-. Hermann Fridrich Wilhelm +
+. Hermann Fridrich Wilhelm [`+8/21/09`] +
 born on November 24th and baptized on November 26th, 1866. +
 Parents:
 ** Conrad Christian Wilhelm Reinking.

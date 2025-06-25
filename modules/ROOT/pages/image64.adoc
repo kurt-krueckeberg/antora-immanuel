@@ -26,7 +26,7 @@ Eltern
 
 +
 Pathen: Heinrich Rücklos.
-. Andreas Friedrich August +
+. Andreas Friedrich August [`+`] +
 einem kommen wurde.
 geb. den 31 August u. get. den 10 Sept. 1871. +
 Eltern:
@@ -51,8 +51,8 @@ Eltern:
 
 +
 Pathen: Ferdinand Reinking, Heinrich Heier, Ernst Scheumann.
-. Emilie Caroline + +
-geb. den 4ten u. get. den 10 Maerz 1872. + +
+. Emilie Caroline +
+geb. den 4ten u. get. den 10 Maerz 1872. [`Nebr.`] +
 Eltern:
 ** Andreas Thieme
 ** Sophia, geb. Klein
@@ -78,7 +78,7 @@ Parents
 
 +
 Godparents: Heinrich Rücklos.
-. Andreas Friedrich August +
+. Andreas Friedrich August [`+`] +
 was born on August 31 and died on September 10, 1871. +
 Parents:
 ** Friedr. August Haupk.
@@ -102,8 +102,8 @@ Parents:
 
 +
 Godparents: Ferdinand Reinking, Heinrich Heier, Ernst Scheumann.
-. Emilie Caroline + +
-born: March 4th and died: March 10th, 1872. + +
+. Emilie Caroline +
+born: March 4th and died: March 10th, 1872. [`Nebr.`]] +
 Parents:
 ** Andreas Thieme
 ** Sophia, née Klein

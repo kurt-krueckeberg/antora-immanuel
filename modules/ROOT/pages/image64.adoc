@@ -3,40 +3,170 @@
 
 image::64.jpg[link=self]
 
-. Wilhelm 
-geboren den 13 Juli, u. get. den 23 Juli 1871.
-Eltern.
-Wilhelm Fells
-Elisabeth, geb. Rup.
+
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+|
+[arabic,start="109"]
+. Friedrich Wilhelm  +
+geboren den 13 Juli, u. get. den 23 Juli 1871. +
+Eltern:
+** Wilhelm Fells
+** Elisabeth, geb. Rup.
+
++
 Pathen: Christian Bleeke u. Conrad Fells.
-. Ludwig Clemens
-geb: den 7 August 1869 u. get: den 30 Juli 1871.
+. Ludwig Clemens +
+geb: den 7 August 1869 u. get: den 30 Juli 1871. +
 Eltern
-(Johann Krohn)
-Veronica, geb. Vox.
-Pathen: Heinrich Rücklas.
-. Andreas Friedrich August
+** Johann Krohn
+** Veronica, geb. Vox.
+
++
+Pathen: Heinrich Rücklos.
+. Andreas Friedrich August +
 einem kommen wurde.
-geb. den 31 August u. get. den 10 Sept. 1871.
+geb. den 31 August u. get. den 10 Sept. 1871. +
 Eltern:
-Friedr. August Haupt.
-Louise Maria Magdel. Dous geb. Daniel,
+** Friedr. August Haupk.
+** Louise Maria Magdel. Dous geb. Danel,
+
++
 Pathen: Andreas Thieme u. Friedr. Habermann.
-. Sophia Louise
-geb: den 1sten Dez. u. get. den 17 Dezemb. 1871.
+. Sophia Louise +
+geb: den 1ten Dez. u. get. den 17 Dezemb. 1871. +
 Eltern
-Heinrich Heier
-Isabella, geb. Biebelheimer,
-Pathen Sophia Grote und Louise Reinking.
-. Ferdinand
-geb. den 23 Februar u. gut: den 3 März 1872.
+** Heinrich Heier
+** Isabella, geb. Biebelheimer,
+
++
+Pathen:Sophia Grote und Louise Reinking.
+. Ferdinand +
+geb. den 23 Februar u. gut: den 3 März 1872. +
 Eltern:
-Friedrich Blecke
-Maria, geb. Biebelheimer,
+** Friedrich Blecke
+** Maria, geb. Biebelheimer,
+
++
 Pathen: Ferdinand Reinking, Heinrich Heier, Ernst Scheumann.
-. Emilie
-geb. den 4ten u. get. den 10 Maerz 1872.
+. Emilie Caroline + +
+geb. den 4ten u. get. den 10 Maerz 1872. + +
 Eltern:
-Andreas Thieme
-L Sophia, geb. Klein
-Pathen. Emilie Thieme u. Carolina Grote
+** Andreas Thieme
+** Sophia, geb. Klein
+
++
+Pathen: Emilie Thieme u. Carolina Grote
+
+|
+. Maria Louise [`+`] +
+born on March 4th and baptized on March 28th, 1858. +
+Parents:
+** Carl Fridrich Wilhelm Bleeke
+** Maria née Bibelheimer
+
++
+Godparents: Maria Bibelheimer and Sophie Heckmann.
+. Christine Emilie [`+4/14/58`] +
+born on March 7th and baptized on March 28th, 1858. +
+Parents:
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore née Bleeke.
+
++
+Godparents:
+. Johann Fridrich [`+5/15/20`] +
+born on October 1st and baptized on October 10th, 1858 +
+Parents:
+** Johann Andreas Thieme
+** Christine Sophie Eleonore née Krückeberg
+
++
+Godparents: Johann Gottlieb Thieme and Johann Heinrich Krückeberg
+. Christine Elise [`+4/6/61`] +
+born on February 10th and baptized on February 27th, 1859. +
+Parents:
+** Christian Fridrich Bleeke
+** Anna Maria née Ru[s/p]
+
++
+Godparents: Elisabeth Rup and Christine Herkmann
+. Carl Wilhelm Christian [`+5/13/59`] +
+born on April 28th and baptized on May 8th, 1859. +
+Parents:
+** Carl Districh Wilhelm Schamerloh
+** Caroline Philippine née Krückeberg
+
++
+Godparents: Christian Schamerloh and Carl Krückeberg.
+. Christine Marie [`+11/2/92`] +
+born on May 5th and baptized on May 24th, 1859. +
+Parents:
+** Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore, née Bleeke.
+
++
+Godparents: Maria Bleeke and Christine Heckmann.
+
+a|
+[arabic,start="13"]
+. Maria Louise [`+`] +
+born on March 4th and baptized on March 28th, 1858. +
+Parents:
+** Carl Friedrich Wilhelm Bleeke
+** Maria, née Bibelheimer
+
++
+Godparents: Maria Bibelheimer and Sophie Heckmann.
+
+. Christine Emilie [`+4/14/58`] +
+born on March 7th and baptized on March 28th, 1858. +
+Parents:
+**Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore, née Bleeke.
+
++
+Godparents:
+. Johann Fridrich [`+5/15/20`] +
+born on October 1st and baptized on October 10th, 1858 +
+Parents:
+** Johann Andreas Thieme
+** Christine Sophie Eleonore née Krückeberg
+
++
+Godparents: Johann Gottlieb Thieme and Johann Heinrich Krückeberg
+
+. Christine Elise [`+4/6/61`] +
+born on February 10th and baptized on February 27th, 1859 +
+Parents:
+** Christian Fridrich Bleeke
+** Anna Maria née Ru[s/p]
+
++
+Godparents: Elisabeth Rup and Christine Herkmann
+
+. Carl Wilhelm Christian [`+5/13/59`] +
+born on April 28th and baptized on May 8th, 1859 +
+Parents:
+** Carl Districh Wilhelm Schamerloh
+** Caroline Philippine née Krückeberg
+
++
+Godparents: Christian Schamerloh and Carl Krückeberg.
+. Christine Marie [`+11/2/92`] +
+born on May 5th and baptized on May 24th, 1859. +
+Parents:
+**Conrad Dietrich Ferdinand Reinking
+** Maria Louise Eleonore, née Bleeke.
+
++
+Godparents: Maria Bleeke and Christine Heckmann.
+|===
+
+[bibliography]
+== Citation
+
+* [[[image64]]] "Immanuel Lutheran Church, Decatur, Indiana, Kichenbuch digital image repository", personally obtained from the
+church, Image 64 of 242

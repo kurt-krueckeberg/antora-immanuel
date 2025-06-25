@@ -11,7 +11,7 @@ image::59.jpg[link=self]
 
 a|
 [arabic,start="79"]
-. Conrad Christian Wilhelm +
+. [`+`] Conrad Christian Wilhelm +
 geboren den 29ten Februar Vormittags 11 Uhr getauft den 1ten März 1868. +
 Eltern:
 ** Christian Wilhelm Fells.
@@ -19,7 +19,7 @@ Eltern:
 
 +
 Pathen: Christian Bleeke, und Conrad Fells.
-. Caroline Wilhelmine Bernhardine +
+. [`+4/3/18`] Caroline Wilhelmine Bernhardine +
 geboren den 2ten May 1868 getauft den 10ten May 1668 +
 Eltern.:
 ** Carl Heinrich Ludwig Koldewey
@@ -27,7 +27,7 @@ Eltern.:
 
 +
 Pathen: Bernhardine Koldewey u. Wilhelmine Schamerloh.
-. Martin Andreas Wilhelm +
+. [`+1/14/00`] Martin Andreas Wilhelm +
 geboren den 3ten Mar Morgens 1 1/2 Uhr getauft den 10ten May 1868. +
 Eltern.:
 ** Conrad Dietrich Ferdinand Reinking
@@ -62,7 +62,7 @@ Pathen: Conrad Fells und Jakob Stöhr
 
 a|
 [arabic,start="79"]
-. Conrad Christian Wilhelm +
+. [`+`] Conrad Christian Wilhelm +
 born on February 29th at 11 a.m., baptized on March 1st, 1868. +
 Parents:
 ** Christian Wilhelm Fells.
@@ -70,7 +70,7 @@ Parents:
 
 +
 Godparents: Christian Bleeke and Conrad Fells.
-. Caroline Wilhelmine Bernhardine +
+. [`+4/3/18`] Caroline Wilhelmine Bernhardine +
 born on May 2nd, 1868, baptized on May 10th, 1868 +
 Parents:
 ** Carl Heinrich Ludwig Koldewey
@@ -78,7 +78,7 @@ Parents:
 
 +
 Godparents: Bernhardine Koldewey and Wilhelmine Schamerloh
-. Martin Andreas Wilhelm +
+. [`+1/14/00`] Martin Andreas Wilhelm +
 born on March 3rd at 1:30 a.m., baptized on May 10th, 1868 +
 Parents:
 ** Conrad Dietrich Ferdinand Reinking

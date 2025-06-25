@@ -1,7 +1,7 @@
 = Entries 97-102
 :page-role: doc-width
 
-image::65.jpg[self=link]
+image::65.jpg[link=self]
 
 . Johanna Carolina Mathilda
 geboren den 7ten und gut den 17ten Maerz 1872.

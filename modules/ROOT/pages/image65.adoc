@@ -3,43 +3,51 @@
 
 image::65.jpg[link=self]
 
-. Johanna Carolina Mathilda
-geboren den 7ten und gut den 17ten Maerz 1872.
-(Paulus Rupprecht)
-Eltern
-Charlotta, geb. Klein
+[arabic,start="115"]
+. Johanna Carolina Mathilda +
+geboren den 7ten und gut den 17ten Maerz 1872. +
+Eltern:
+** Paulus Rupprecht
+** Charlotta, geb. Klein
+
++
 Pathen: Johanna Ebel, Carolina Grote, u. Carolina Fritze.
-Clara Romana,
-geboren den 18ten Maerz u. get: den 22ten Mai 1872.
-Ednard Pelz
-Eltern
-Sophia, geb. Pomerantke.
+. Clara Romana +
+geboren den 18ten Maerz u. get: den 22ten Mai 1872. +
+Eltern:
+** Eduard Pelz
+** Sophia, geb. Pomerantke.
+
++
 Pathen: August Palz u. Catharin Reichert.
-Georg Ludwig
-geb: den 24 Dezember 1870, get: den 30 Mai 1872.
-Levi Baron
-Eltern
-Wilhelmine, geb. Haeriger
+. Georg Ludwig +
+geb: den 24 Dezember 1870, get: den 30 Mai 1872. +
+Eltern:
+** Levi Baron
+** Wilhelmine, geb. Hoeriger
+
++
 Pathen: Maria Steudler.
-Carolina Sophia Margaretha
-geb: den 24ten August 1872 u. get. den 1 September 1872.
-Eltern (Ludwig Kaldewey)
-Tiemann
-Sophia geb. Cardes.
-Pothen: Carolina Scheumann u. Marg: Thiemann.
-Martha Maria
-hängig
-7ten October u. get. den 20ten October 1872
-geb. den
-Ferdinand Reinking
-Eltern
-Maria, geb. Blecke.
-Pashen: Maria Fölling, Marg: Christianer u. Bertha Reinking.
-Carolina
-Anna
-.
-geb. den 31 October 1872, u. sogleich getauft.
-Christian Schamerlah.
-Eltern
-Karlens, geb. Krückeberg.
-Frührer Carolina Grate u. Carolina Bischuffe.
+. Carolina Sophia Margaretha +
+geb: den 24ten August 1872 u. get. den 1 September 1872. +
+Eltern Ludwig Koldewey:
+** Sophia geb. Tiemann
+** Pathen: Carolina Scheumann u. Marg: Thiemann.
+
++
+. Martha Maria +
+geboren 7ten October u. get. den 20ten October 1872 +
+Eltern:
+** Ferdinand Reinking
+** Maria, geb. Blecke.
+
++
+Pathen: Maria Fölling, Marg: Christianer u. Bertha Reinking.
+. Anna Carolina +
+geb. den 31 October 1872, u. sogleich getauft. +
+Eltern:
+** Christian Schamerlah.
+** Karolins, geb. Krückeberg.
+
++
+Pathen: Carolina Grate u. Carolina Bischoffe

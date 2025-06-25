@@ -9,7 +9,7 @@ image::62.jpg[link=self]
 
 |
 [arabic,start="97"]
-. Anna Pauline Elisabeth +
+. Anna Pauline Elisabeth [`+`] +
 geboren den 18ten Januar und getauft den 1ten Februar 1870. +
 Eltern:
 ** Carl Fridrich Martin Scharbade.
@@ -17,7 +17,7 @@ Eltern:
 
 +
 Pathen: Frau Maria Bleeke u. Jungfa: Sara, Belz.
-. Scharlotta Paulina. +
+. Scharlotta Paulina. [`Nebr.`] +
 geb. den 27 Oct. u. get. den 6 November 1869. +
 Eltern:
 ** Andreas Thieme
@@ -42,7 +42,8 @@ Eltern:
 
 +
 Pathen: Jacob Friedrich Haeriger u. dessen Frau Maria.
-. Sophia Louise Amanda +
+. Sophia Louise Amanda [`Rev. Jaelk` +
+`Iowa`] +
 geb. den 20 Juli u. getauft den 31. Juli 1870. +
 Eltern:
 ** Friedrich Bleeke
@@ -61,7 +62,7 @@ Pathen: Lauisa Reinking u. Sophia Grote.
 
 |
 [arabic,start="97"]
-. Anna Pauline Elisabeth +
+. Anna Pauline Elisabeth [`+`] +
 born on January 18th and baptized on February 1st, 1870. +
 Parents:
 ** Carl Fridrich Martin Scharbade.
@@ -69,7 +70,7 @@ Parents:
 
 +
 Godparents: Mrs. Maria Bleeke and Maid: Sara, Belz.
-. Scharlotta Paulina. +
+. Scharlotta Paulina. [`Nebr.`] +
 born on October 27th and baptized on November 6th, 1869. +
 Parents:
 ** Andreas Thieme
@@ -94,7 +95,8 @@ Parents:
 
 +
 Godparents: Jacob Friedrich Haeriger and his wife Maria.
-. Sophia Louise Amanda +
+. Sophia Louise Amanda [`Rev. Jaelk` +
+`Iowa`] +
 born on July 20th and baptized on July 31st, 1870. +
 Parents:
 ** Friedrich Bleeke

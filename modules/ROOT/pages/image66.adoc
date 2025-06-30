@@ -101,7 +101,7 @@ Parents:
 +
 Godparents: Amalia Thieme and Christina Buttner
 . Friedrich Heinrich Wilhelm [+2/4/43] +
-born: April 5th and baptized April 20th, 1873. +
+born: April 5th and baptized: April 20th, 1873. +
 Parents:
 * Wilhelm Schamerloh
 * Chat. Margaretha, née Paas + (+should be Philipine Knruckeberg)

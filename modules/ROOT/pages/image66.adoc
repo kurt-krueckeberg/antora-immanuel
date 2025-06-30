@@ -1,49 +1,52 @@
 = Entries 103-108
 
-Hansch Eduard
-.
-geb: den 25ten October u. get. den 3ten November 1872.
-Heinrich Rückler u.
-Eltern L. Fridricka, geb. Dauner
-Pothen: Jac Stochrjun. u. Georg Blum.
-Heinrich Friedrich.
-ein
-.
-geb: den 20ten November u. gut: den 23 November 1872.
-Carl Grate u.
-Ellen. Carolina, geb. Krückeberg.
+[arabic,start="121"]
+. Heinrich Eduard +
+geb: den 25ten October u. get. den 3ten November 1872. +
+Eltern:
+* Heinrich Rückler 
+* Heinrich Rückler
+L. Fridricka, geb. Dauner
+
++
+Pathen: Jac Stochrjun. u. Georg Blum.
+. Heinrich Friedrich. +
+geb: den 20ten November u. get: den 23 November 1872. +
+Eltern:
+* Carl Grote
+* Carolina, geb. Krückeberg.
+
++
 Pathen: Heinrich Heier, u. Carl Krickeberg
-Emilia Paulina
-werden können.
-geb: den 17. November u. get: den 24 November 1872.
-Patrick Danahoe
-Eltern.
-Therese, geb. Büttner
+. Emilia Paulina +
+geb: den 17. November u. get: den 24 November 1872. +
+Eltern:.
+* Patrick Danahoe
+* Therese, geb. Büttner
+
++
 Pathen: Johana Christina Buttner u. Emilia Büttner.
-Georg Christian Wilhelm
-eine
-1872
-geb: d.n. 29ten Dezember, geb: den 5 Januar 1873
-Conrad Fells
-Eltern
-Carolina, geb. Peldner
-Pathen: Wilhelm Fells u. Georg Blusen.
-Amalia
-Christina
-einmal
-.
-geb: den 15ten Febr: u. get. den 23 Febr. 1873.
-August Haupt
-Eltern
-Dares geb. Daniel
+. Georg Christian Wilhelm +
+geb: d.n. 29ten Dezember, geb: den 5 Januar 1873 +
+Eltern:
+* Conrad Fells
+* Carolina, geb. Peldner
+
++
+Pathen: Wilhelm Fells u. Georg Blum
+. Amalia Emilie Christina +
+geb: den 15ten Febr: u. get. den 23 Febr. 1873. +
+Eltern:
+* August Hauph
+* Dores geb. Danel
+
++
 Pathen: Amalia Thieme u. Christina Buttner
-721
-Friedrich Heinrich Wilhelm
-14/3
-geb: den 5ten April u. get. den 20ten April 1873.
-Wilhelm Schamerlok u.
-That. Margaretha, geb. Paas. †.
-soll heißen Philipine Knikelz
+. Friedrich Heinrich Wilhelm +
+geb: den 5ten April u. get. den 20ten April 1873. +
+Eltern:
+* Wilhelm Schamerloh
+* Chat. Margaretha, geb. Paas. †.(soll heißen Philipine Knruckeberg)
+
++
 Pathen: Heinrich Krükeberg u. Wilh. Weiland.
-.
-97

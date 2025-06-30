@@ -33,11 +33,28 @@ foreach($file as $line) {
 
   } else if ($line[0] == "." && $line[1] == " ") {
 
-       $found  = true; 
+      $found = true;
 
-       preg_match('/^[^.+\[]+/', substr($line, 2), $m);  
+/*
+ Regular expression to match a sequence of given names
+Explanation:
+* preg_match(...) finds the first match only.
 
-       $child_given = trim($m[0]);
+* The (?<!\S) ensures that the match isn't preceded by a non-space character.
+
+* [A-Z][a-zäöü]+ matches a single name.
+
+* (?: [A-Z][a-zäöü]+)* allows additional names, each preceded by a space.
+
+* The /u modifier enables proper handling of umlaut characters like ä, ö, and ü.
+
+*/ 
+      $pattern = '/(?<!\S)([A-Z][a-zäöü]+(?: [A-Z][a-zäöü]+)*)/u';  // 'u' for Unicode support
+
+      //--preg_match('/^[^.+\[]+/', substr($line, 2), $m);  
+      preg_match($pattern, substr($line, 2), $m);  
+
+      $child_given = trim($m[0]);
   } 
 }
 

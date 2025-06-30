@@ -1,4 +1,4 @@
-= Page 88, Entries 67-72
+= Page 88, #67-72
 :page-role: doc-width
 
 image::57.jpg[align="left",title="Page 88, image 57 (Click to enlarge)",link=self]

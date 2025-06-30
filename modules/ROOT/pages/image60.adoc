@@ -1,4 +1,4 @@
-= Page 91, Entries 85-90
+= Page 91, #85-90
 :page-role: doc-width
 
 image::60.jpg[link=self]

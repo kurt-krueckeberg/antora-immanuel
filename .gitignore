@@ -6,3 +6,4 @@ _/
 node_modules/
 public/
 .*.swp
+/code/nbproject/private/

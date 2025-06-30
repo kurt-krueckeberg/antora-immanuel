@@ -1,12 +1,13 @@
 = Entries 103-108
 
+image:66.jpg[link=self]
+
 [arabic,start="121"]
 . Heinrich Eduard +
 geb: den 25ten October u. get. den 3ten November 1872. +
 Eltern:
 * Heinrich Rückler 
-* Heinrich Rückler
-L. Fridricka, geb. Dauner
+* L. Fridricka, geb. Dauner
 
 +
 Pathen: Jac Stochrjun. u. Georg Blum.

@@ -3,6 +3,11 @@
 
 image:66.jpg[link=self]
 
+[cols="a,a"]
+|===
+|Transliteration|Translation
+
+|
 [arabic,start="121"]
 . Heinrich Eduard +
 geb: den 25ten October u. get. den 3ten November 1872. +
@@ -13,7 +18,7 @@ Eltern:
 +
 Pathen: Jac Stochrjun. u. Georg Blum.
 . Heinrich Friedrich. +
-geb: den 20ten November u. get: den 23 November 1872. +
+geb: den 20ten November u. get: den 23 November 1872. [Ft. W.] +
 Eltern:
 * Carl Grote
 * Carolina, geb. Krückeberg.
@@ -36,7 +41,7 @@ Eltern:
 
 +
 Pathen: Wilhelm Fells u. Georg Blum
-. Amalia Emilie Christina +
+. Amalia Emilie Christina [+5/16/33] +
 geb: den 15ten Febr: u. get. den 23 Febr. 1873. +
 Eltern:
 * August Hauph
@@ -44,11 +49,63 @@ Eltern:
 
 +
 Pathen: Amalia Thieme u. Christina Buttner
-. Friedrich Heinrich Wilhelm +
+. Friedrich Heinrich Wilhelm  [+2/4/43] +
 geb: den 5ten April u. get. den 20ten April 1873. +
 Eltern:
 * Wilhelm Schamerloh
-* Chat. Margaretha, geb. Paas. †.(soll heißen Philipine Knruckeberg)
+* Chat. Margaretha, geb. Paas. +. (+soll heißen Philipine Knruckeberg)
 
 +
 Pathen: Heinrich Krükeberg u. Wilh. Weiland.
+
+|
+[arabic,start="121"]
+. Heinrich Eduard +
+born: October 25th and died: November 3rd, 1872. +
+Parents:
+* Heinrich Rückler
+* L. Fridricka, née Dauner
+
++
+Godparents: Jac Stochrjun. and Georg Blum.
+. Heinrich Friedrich +
+born: November 20th and died: November 23rd, 1872. [Ft. W.] +
+Parents:
+* Carl Grote
+* Carolina, née Krückeberg.
+
++
+Godparents: Heinrich Heier and Carl Krickeberg
+. Emilia Paulina +
+born: November 17th and died: November 24th, 1872. +
+Parents:
+* Patrick Danahoe
+* Therese, née Büttner
+
++
+Godparents: Johana Christina Buttner and Emilia Büttner.
+. Georg Christian Wilhelm +
+born: December 29th, born: January 5th, 1873 +
+Parents:
+* Conrad Fells
+* Carolina, née Peldner
+
++
+Godparents: Wilhelm Fells and Georg Blum
+. Amalia Emilie Christina [+5/16/33] +
+born: February 15th and died February 23rd, 1873. +
+Parents:
+* August Hauph
+* Dores, née Danel
+
++
+Godparents: Amalia Thieme and Christina Buttner
+. Friedrich Heinrich Wilhelm [+2/4/43] +
+born: April 5th and died April 20th, 1873. +
+Parents:
+* Wilhelm Schamerloh
+* Chat. Margaretha, née Paas + (+should be Philipine Knruckeberg)
+
++
+Godparents: Heinrich Krükeberg and Wilh. Weiland.
+|===

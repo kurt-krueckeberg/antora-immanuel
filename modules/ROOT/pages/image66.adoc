@@ -12,19 +12,19 @@ image:66.jpg[link=self]
 . Heinrich Eduard +
 geb: den 25ten October u. get. den 3ten November 1872. +
 Eltern:
-* Heinrich Rückler 
-* L. Fridricka, geb. Dauner
+* Heinrich Rücklos 
+* Fridricka geb. Dauner
 
 +
-Pathen: Jac Stochrjun. u. Georg Blum.
+Pathen: Jac Stochr jun. u. Georg Blum.
 . Heinrich Friedrich. +
 geb: den 20ten November u. get: den 23 November 1872. [Ft. W.] +
 Eltern:
 * Carl Grote
-* Carolina, geb. Krückeberg.
+* Carolina geb. Krückeberg.
 
 +
-Pathen: Heinrich Heier, u. Carl Krickeberg
+Pathen: Heinrich Heier, u. Carl Krückeberg
 . Emilia Paulina +
 geb: den 17. November u. get: den 24 November 1872. +
 Eltern:.
@@ -37,7 +37,7 @@ Pathen: Johana Christina Buttner u. Emilia Büttner.
 geb: d.n. 29ten Dezember, geb: den 5 Januar 1873 +
 Eltern:
 * Conrad Fells
-* Carolina, geb. Peldner
+* Carolina, geb. Feldner
 
 +
 Pathen: Wilhelm Fells u. Georg Blum
@@ -61,47 +61,47 @@ Pathen: Heinrich Krükeberg u. Wilh. Weiland.
 |
 [arabic,start="121"]
 . Heinrich Eduard +
-born: October 25th and died: November 3rd, 1872. +
+born: October 25th and baptized: November 3rd, 1872. +
 Parents:
-* Heinrich Rückler
-* L. Fridricka, née Dauner
+* Heinrich Rücklos
+* L. Fridricka née Dauner
 
 +
-Godparents: Jac Stochrjun. and Georg Blum.
+Godparents: Jac Stochr jr. and Georg Blum.
 . Heinrich Friedrich +
-born: November 20th and died: November 23rd, 1872. [Ft. W.] +
+born: November 20th and baptized: November 23rd, 1872. [Ft. W.] +
 Parents:
 * Carl Grote
-* Carolina, née Krückeberg.
+* Carolina née Krückeberg.
 
 +
 Godparents: Heinrich Heier and Carl Krickeberg
 . Emilia Paulina +
-born: November 17th and died: November 24th, 1872. +
+born: November 17th and baptized: November 24th, 1872. +
 Parents:
 * Patrick Danahoe
 * Therese, née Büttner
 
 +
-Godparents: Johana Christina Buttner and Emilia Büttner.
+Godparents: Johana Christina Büttner and Emilia Büttner.
 . Georg Christian Wilhelm +
-born: December 29th, born: January 5th, 1873 +
+born: December 29th, baptized: January 5th, 1873 +
 Parents:
 * Conrad Fells
-* Carolina, née Peldner
+* Carolina née Feldner
 
 +
 Godparents: Wilhelm Fells and Georg Blum
 . Amalia Emilie Christina [+5/16/33] +
-born: February 15th and died February 23rd, 1873. +
+born: February 15th and baptized: February 23rd, 1873. +
 Parents:
 * August Hauph
-* Dores, née Danel
+* Dores née Danel
 
 +
 Godparents: Amalia Thieme and Christina Buttner
 . Friedrich Heinrich Wilhelm [+2/4/43] +
-born: April 5th and died April 20th, 1873. +
+born: April 5th and baptized April 20th, 1873. +
 Parents:
 * Wilhelm Schamerloh
 * Chat. Margaretha, née Paas + (+should be Philipine Knruckeberg)

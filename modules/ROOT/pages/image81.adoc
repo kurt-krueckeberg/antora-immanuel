@@ -1,7 +1,7 @@
 = Page 114, #205-208
 :page-role: doc-width
 
-image::812.jpg[link=self]
+image::81.jpg[link=self]
 
 . Carl Heinrich Julius +
 geb. den 29 October 1885 getauft d. 17 Jan. 1886 +

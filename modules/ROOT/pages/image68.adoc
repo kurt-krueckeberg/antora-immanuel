@@ -13,7 +13,7 @@ Eltern:
 Pathen: Frau Johanna Ebel und Frau Hoier
  +
 A. Caemmmerer Pastor.
-. Henriette Christine Mathilde [Ferd. Bleeke] +
+. Henriette Christine Mathilde [`Ferd. Bleeke`] +
 geb. den 19. Nov 1874. get. den 29. Nov. 1874 +
 Eltern:
 * Ludwig Koldewey
@@ -22,7 +22,7 @@ Eltern:
 +
 Pathen: +
 A. H. Caemrmeren Pastor
-. Hermmann Wilhelm Ferdinand [+3/1/49] +
+. Hermmann Wilhelm Ferdinand [`+3/1/49`] +
 Sohn von: 
 * Ferdinand und Maria Reinking
 geboren den 21ten Januar 1875 getauft den 31. Jan, 75. +
@@ -38,7 +38,7 @@ geb. den 7. Feb. 1875 und getauft den 15, Feb 1875
 +
 Taufpathen. Doris Haugk und Cristine Büttner +
 A. H. Caermmerer Pastor
-. Hermann, Heinrich Wilhelm [+1940] +
+. Hermann, Heinrich Wilhelm [`+1940`] +
 Sohn von:
 * Carl Grote und Caroline, geb. Krückeberg +
 geboren den 7. April 1875, getauft den 11. April 1865.
@@ -47,7 +47,7 @@ geboren den 7. April 1875, getauft den 11. April 1865.
 Pathen: Heinrich Krückeberg und W. Reinking. W. Grote, +
 Chr. Schemerloh Vice-Rath +
 A. H. Caemmerer Pastor
-. Johann Christian Ferdinand Hugo [Detroit?] +
+. Johann Christian Ferdinand Hugo [`Detroit?`] +
 Sohn von:
 * Aug. Hugo Caemmerer u. Margaretha, geb. Beck +
 geboren den 10. März 1876. getauft den 12. Márz

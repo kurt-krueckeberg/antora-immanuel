@@ -3,6 +3,11 @@
 
 image::68.jpg[link=self]
 
+[cols="a,a"]
+|===
+|Transliteration|Translation
+
+|
 [arabic,start="133"]
 . Johanna Martha Maria +
 geb. den 16. August 1874, getauft 23. August 1874. +
@@ -56,3 +61,59 @@ geboren den 10. März 1876. getauft den 12. Márz
 Pathen: Johann Ebel, Christian Bleeke and Ferdinand Reinking.
 +
 A. H. Caemmerer Pastor
+
+|
+[arabic,start="133"]
+. Johanna Martha Maria +
+born August 16, 1874, baptized August 23, 1874. +
+Parents:
+* Heinrich Rücklos
+* Friederick, née
++
+Godparents: Mrs. Johanna Ebel and Mrs. Hoier
++
+A. Caemmerer, Pastor.
+. Henriette Christine Mathilde [`Ferd. Bleeke`] +
+born November 19, 1874, died November 29, 1874 +
+Parents:
+* Ludwig Koldewey
+* his wife Sophia.
+
++
+Godparents: +
+A. H. Caemmerer, Pastor
+. Hermmann Wilhelm Ferdinand [`+3/1/49`] +
+Son of:
+* Ferdinand and Maria Reinking
+born January 21, 1875, baptized January 31, 1875. +
+
++
+Godparents: Herrmann Reinking, Wilhelm Bleeke, and Heinrich Bleeke +
+A. H. Caemmerer
+. Sophia Emilia +
+Daughter of:
+* Friedrich Roth and Theresa, née Büttner
+born February 7, 1875, baptized February 15, 1875
+
++
+Godparents: Doris Haugk and Cristine Büttner +
+A. H. Caemmerer, Pastor
+. Hermann, Heinrich Wilhelm [`+1940`] +
+Son of:
+* Carl Grote and Caroline, née Krückeberg +
+born April 7, 1875, baptized April 11, 1865.
+
++
+Godparents: Heinrich Krückeberg and W. Reinking. W. Grote, +
+Chr. Schemerloh, Vice-Councilor +
+A. H. Caemmerer, Pastor
+. Johann Christian Ferdinand Hugo [`Detroit?`] +
+Son of:
+* Aug. Hugo Caemmerer and Margaretha, née Beck +
+born March 10, 1876, baptized March 12
+
++
+Godparents: Johann Ebel, Christian Bleeke, and Ferdinand Reinking.
++
+A. H. Caemmerer, Pastor
+|===

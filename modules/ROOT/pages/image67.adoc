@@ -3,6 +3,12 @@
 
 image::67.jpg[link=self]
 
+[cols="a,a"]
+|===
+|Transliteration|Translation
+
+|
+[arabic,start="127"]
 . [`Nebr.`] Martha +
 geb: den 18 Juli u. get: den 27 Juli 1873. +
 Eltern:
@@ -45,3 +51,48 @@ geboren den 24 Juni, und getauft den 28 Juni 1874
 +
 Pathen: Sophia Thieme und Maria Steutler. +
 H. Caemmerer Pastor
+|
+[arabic,start="127"]
+. [`Nebr.`] Martha +
+born: July 18th and died: July 27th, 1873. +
+Parents:
+** Andreas Thieme
+** Sophia, née Klein.
+
++
+Godparents: Johanna Ebel and Christina Büttner
+. Wilhelm Heinrich Friedrich +
+born on October 6th and baptized on October 19th, 1873. +
+Parents:
+* Heinrich Heuer
+* Isabella, née Biebelkamer
+Godparents: Wilhelm Fritze, Heinrich Gret, and Wilhelm Bleeke.
++
+(Baptized by Pastor S. Ruprecht up to this point)
+. Martha Christine Karoline +
+born on December 6th, 1873, died on December 26th +
+Parents:
+* Christian Wilhelm Fells and his wife Elisabeth
+
++
+Godparents: Christine L[??]ner and Karoline Fells
+. Louise Maria Auguste [`+`] +
+born on May 20th and baptized on May 25th, 1874 +
+Parents:
+* Hermann Reinking
+* Maria née Bleeke
+
++
+Godparents: Maria Reinking, Maria Bleeke, Auguste [T/K]onzelmann +
+(Baptized by Pastor A. Fritze)
+. Sophia
+. [`10/29/76`] Sophia Maria Mathilde +
+Parents:
+* Gottfried Thieme
+* Amalia, née Roscher
+born on June 24th and baptized on June 28th, 1874
+
++
+Godparents: Sophia Thieme and Maria Steutler. +
+H. Caemmerer, Pastor
+|===

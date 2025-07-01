@@ -1,18 +1,23 @@
 = entries 109-114
-ein
-127,
-Martha
+:page-ro9le: doc-width
+
+image::67.jpg[link=self]
+
+. Martha
 geb: den 18 Juli u. get: den 27 Juli 1873.
-Andreas Thieme
 Eltern
+Andreas Thieme
 Sophia, geb. Klein.
-Pathers: Johanna Ebel, u. Christina Büttner
-Wilhelm Heinrich Friedrich
-12t. geboren den 6ten u. getauft den 19 Octob. 1873.
-Eltern. (Heinrich Heuer
+Pathern: Johanna Ebel, u. Christina Büttner
+. Wilhelm Heinrich Friedrich
+geboren den 6ten u. getauft den 19 Octob. 1873.
+Eltern 
+Heinrich Heuer
 Isabella, geb. Biebelkamer
 Pathen: Wilhelm Fritze, Heinrich Gret, u. Wilhelm Bleeke.
-Bis hierher von Pastor S. Ruprecht getau-
+
+Bis hierher von Pastor S. Ruprecht getauft
+
 .
 129.
 einmalig, wenn sie in

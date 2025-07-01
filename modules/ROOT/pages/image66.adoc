@@ -18,7 +18,7 @@ Eltern:
 +
 Pathen: Jac Stochr jun. u. Georg Blum.
 . Heinrich Friedrich. +
-geb: den 20ten November u. get: den 23 November 1872. [Ft. W.] +
+geb: den 20ten November u. get: den 23 November 1872. [`Ft. W.`] +
 Eltern:
 * Carl Grote
 * Carolina geb. Krückeberg.
@@ -41,7 +41,7 @@ Eltern:
 
 +
 Pathen: Wilhelm Fells u. Georg Blum
-. Amalia Emilie Christina [+5/16/33] +
+. Amalia Emilie Christina [`+5/16/33`] +
 geb: den 15ten Febr: u. get. den 23 Febr. 1873. +
 Eltern:
 * August Hauph
@@ -49,7 +49,7 @@ Eltern:
 
 +
 Pathen: Amalia Thieme u. Christina Buttner
-. Friedrich Heinrich Wilhelm  [+2/4/43] +
+. Friedrich Heinrich Wilhelm  `[+2/4/43`] +
 geb: den 5ten April u. get. den 20ten April 1873. +
 Eltern:
 * Wilhelm Schamerloh
@@ -69,7 +69,7 @@ Parents:
 +
 Godparents: Jac Stochr jr. and Georg Blum.
 . Heinrich Friedrich +
-born: November 20th and baptized: November 23rd, 1872. [Ft. W.] +
+born: November 20th and baptized: November 23rd, 1872. [`Ft. W.`] +
 Parents:
 * Carl Grote
 * Carolina née Krückeberg.
@@ -92,7 +92,7 @@ Parents:
 
 +
 Godparents: Wilhelm Fells and Georg Blum
-. Amalia Emilie Christina [+5/16/33] +
+. Amalia Emilie Christina [`+5/16/33`] +
 born: February 15th and baptized: February 23rd, 1873. +
 Parents:
 * August Hauph
@@ -100,7 +100,7 @@ Parents:
 
 +
 Godparents: Amalia Thieme and Christina Buttner
-. Friedrich Heinrich Wilhelm [+2/4/43] +
+. Friedrich Heinrich Wilhelm [`+2/4/43`] +
 born: April 5th and baptized: April 20th, 1873. +
 Parents:
 * Wilhelm Schamerloh

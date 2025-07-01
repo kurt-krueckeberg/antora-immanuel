@@ -3,6 +3,11 @@
 
 image::71.jpg[link=self]
 
+[cols="a,a"]
+|===
+|Transliterate|Translate
+
+|
 [arabic,start="133"]
 . Heinrich August +
 [`10/4/82`] geboren den 23te Februar um getauft den 9te März 1879. +
@@ -44,3 +49,47 @@ Eltern:
 
 +
 Pathen: Fridrich Bleeke, Carl Heckmann.
+
+|
+[arabic,start="133"]
+. Heinrich August +
+[`10/4/82`] born on February 23rd, baptized on March 9th, 1879. +
+Parents:
+* Hermann Büttner née Roth.
+* Louise haupt.
+
++
+Godparents: Heinrich Büttner and August Haugk
+. [`Wm. Eden`] Ida Maria Emilia +
+1879 born on February 27th, baptized on March 1st +
+Parents:
+* Hermann Reinking
+* née Blücke Maria
+
++
+Godparents: Maria Reinking, Maria Bleeke and Emilie Blecke
+. [`1/31/20`] Gustav Conrad Widrich +
+born on March 9th and baptized on March 16th, 1879 +
+Parents:
+* Wilhelm Reinking
+* Louise née Bleeke
+
++
+Godparents: Conrad Reinking and Fridkich Bleeke
+. Juliane Amalie Maria +
+[`Kirbach`] born on June 15th and baptized on June 22nd, 1879 +
+Parents:
+* Johann Heinrich Bleeke
+* Emalie née Thieme
+
++
+Godparents: Amalie Thieme and Maria Bleeke
+. Henoch Carl Fridrich +
+[`Detroit`] born on September 21st and baptized on September 28th, 1879 +
+Parents:
+* Wilhelm Holle
+* Sophie née Bleeke
+
++
+Godparents: Fridrich Bleeke, Carl Heckmann.
+|===

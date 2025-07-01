@@ -5,14 +5,14 @@ image::71.jpg[link=self]
 
 [arabic,start="133"]
 . Heinrich August +
-geboren den 23te Februar um getauft den 9te März 1879. +
+[`10/4/82`] geboren den 23te Februar um getauft den 9te März 1879. +
 Eltern:
 * Hermann Büttner geb: Roth.
 * Louise haupt.
 
 + 
 Pathen: Heinrich Büttner und August Haugk
-. Ida Maria Emilia +
+. [`Wm. Eden`] Ida Maria Emilia +
 1879 geboren den 27ten Februar und getauft den 1ten März +
 Eltern:
 * Hermann Reinking
@@ -20,7 +20,7 @@ Eltern:
 
 +
 Pathen: Maria Reinking, Maria Bleeke u Emilie Blecke 
-. Gustav Conrad Widrich +
+. [`1/31/20`] Gustav Conrad Widrich +
 geboren den 9ten März und getauft den 16ten Márz 1879 +
 Eltern:
 * Wilhelm Reinking
@@ -29,7 +29,7 @@ Eltern:
 +
 Pathen: Conrad Reinking und Fridkich Bleeke
 . Juliane Amalie Maria +
-geboren den 15ten Juni und getauft den 22ten 1879 +
+[`Kirbach`] geboren den 15ten Juni und getauft den 22ten 1879 +
 Eltern:
 * Johann Heinrich Bleeke
 * Emalie geb. Thieme.
@@ -37,7 +37,7 @@ Eltern:
 +
 Pathen: Amalie Thieme u. Maria Bleeke
 . Henoch Carl Fridrich +
-geboren den 21t September und getauft den 28t September 1879 +
+[`Detroit`] geboren den 21t September und getauft den 28t September 1879 +
 Eltern:
 * Wilhelm Holle
 * Sophie geb. Bleeke

@@ -1,6 +1,8 @@
 = Page 101, #139-145
 :page-role: doc-width
 
+image::70.jpg[link=self]
+
 . Emma Maria Christine +
 Tochter von:
 * Hermann Büttner und

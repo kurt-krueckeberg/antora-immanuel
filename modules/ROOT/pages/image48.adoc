@@ -1,4 +1,4 @@
-= Page 79
+= Page 79, #13-18
 :page-role: doc-width
 
 image::48.jpg[align="left",title="Page 79, image 48 (Click to enlarge),link=self]

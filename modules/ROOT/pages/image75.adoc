@@ -1,53 +1,46 @@
-108)
-175
-176.
-71. W.
-177.
-leur
-178.
-14/21
-179
-.
-Tanfregister.
-1882.
-Agathe Caroline Henriette,
-geboren den 26 Februar und getauft den 5 März 1882.
-Heinrich Steger
-Eltern.
-Eblise = = geb. Stoppenhagen.
+= Page 105, #153-??
+
+image::75.jpg[link=self]
+
+[arabic,start="153"]
+. Agathe Caroline Henriette, +
+geboren den 26 Februar und getauft den 5 März 1882. +
+Eltern:
+* Heinrich Steger
+* Elise = = geb. Stoppenhagen.
+
++
 Pathen: Heinrich Wyneken, Carolina Krückeberg, Helene
 Herkmann geb. Stoggenhagen und Caroline Fritze.
-Gustav Heinrich Fridrich
+. Gustav Heinrich Fridrich
 geboren den 4ten Juli 1882 u. getauft den 16t Juli. 1852.
-Wilhelm Bleeke.
-Eltern
-Louise
-– – geb: Holle.
-Pathen: Fridrich Bleeke und Heinrich Holle.
-Großväter
-Emma Maria
-e.
-geboren den 4. Juli 1882 und getauft den 16t Juli 1682.
-Wilhelm Blenke
-Eltern
-Halle.
-geb.
-Louise =
-Pathen: Maria Bleekn und Louise
-Solln.
-(Großmütter)
-Martin August Fridrich
-geboren den 27t Juli 1882 und getauft den 6 August 1882
-August Haupt.
-Eltern
-Doris
-geb. Dauel.
+Eltern: 
+* Wilhelm Bleeke. 
+* Louise geb: Holle.
+
++
+Pathen: Fridrich Bleeke und Heinrich Holle. Großväter
+. Emma Maria +
+geboren den 4. Juli 1882 und getauft den 16t Juli 1882.  +
+Eltern:
+* Wilhelm Bleeke
+* Louise geb.  Halle.
+
++
+Pathen: Maria Bleekn und Louise Solln.  (Großmütter)
+. Martin August Fridrich +
+geboren den 27t Juli 1882 und getauft den 6 August 1882 +
+Eltern:
+* August Haugk
+* Doris geb. Dauel.
+
++
 Pathen: August Büttner, Fridrich Thieme.
-Heinrich Carl Benjamin,
-geboren den 10te September und getauft den 17t September 1852
-Heinrich Heuer,
-Eltern
-geb: Bibelheimer
-Isabella
-Pathen: Wilhelm Schnumann, Wilhelm Reinkinge
-Benzamin Belz.
+. Heinrich Carl Benjamin +
+geboren den 10te September und getauft den 17t September 1852 +
+Eltern:
+* Heinrich Heuer,
+* Isabella geb: Bibelheimer
+
++
+Pathen: Wilhelm Schnumann, Wilhelm Reinkinge, Benzamin Belz.

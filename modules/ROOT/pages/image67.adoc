@@ -1,5 +1,5 @@
 = entries 109-114
-:page-ro9le: doc-width
+:page-role: doc-width
 
 image::67.jpg[link=self]
 

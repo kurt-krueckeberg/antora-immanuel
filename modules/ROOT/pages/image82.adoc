@@ -9,7 +9,7 @@ image::82.jpg[link=self]
 
 |
 [arabic,start="209"]
-. Andreas Heinrich +
+. Andreas Heinrich [`Ft. W.`] +
 geb. den 20. Juni 1886 get. d. 20 Juni 1886 im Hause des Eltern  +
 Eltern:
 * Fr. Thieme sen.
@@ -35,7 +35,7 @@ Eltern:
 * Emilie geb. Thieme
 Pathen: Heerm. Reinking, W. Holle, & Christ: Bischoff jun. +
 W. Schmidt
-. Adolph Christian Jakob +
+. Adolph Christian Jakob [`Decatur`] +
 geb. d. 26. Aug. 1886. Union T. getauft den 5. Sep. 1886 (Immanuels K.
 Eltern:
 * W. Schamerloh (jun.)
@@ -55,7 +55,7 @@ W. Schmidt P.
 
 |
 [arabic,start="209"]
-. Andreas Heinrich +
+. Andreas Heinrich [`Ft. W.`] +
 born June 20, 1886, died June 20, 1886 in his parents' house +
 Parents:
 * Mrs. Thieme Sr.
@@ -81,10 +81,10 @@ Parents:
 * Emilie née Thieme
 Godparents: Heerm. Reinking, W. Holle, & Christ: Bischoff Jr. +
 W. Schmidt
-. Adolph Christian Jakob +
+. Adolph Christian Jakob [`Decatur`] +
 born August 26, 1886. Union T. baptized September 5 1886 (Immanuels K.
 Parents:
-* W. Schamerloh (jun.)
+* W. Schamerloh (Jr.)
 * Anna née Benz.
 
 +

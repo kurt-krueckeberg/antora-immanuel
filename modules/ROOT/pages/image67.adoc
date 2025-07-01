@@ -3,7 +3,7 @@
 
 image::67.jpg[link=self]
 
-. Martha +
+. [`Nebr.`] Martha +
 geb: den 18 Juli u. get: den 27 Juli 1873. +
 Eltern:
 ** Andreas Thieme
@@ -26,7 +26,7 @@ Eltern:
 
 +
 Pathen: Christine L[??]ner u. Karoline Fells
-. Louise Maria Auguste +
+. Louise Maria Auguste [`+`] +
 geboren den 20ten u. getauft den 25 Mai 1874 +
 Eltern:
 * Hermann Reinking
@@ -36,7 +36,7 @@ Eltern:
 Pathen: Maria Reinking, Maria Bleeke, Auguste [T/K]onzelmann +
 (Von Pastor A. Fritze getauft)
 . Sophia
-. Sophia Maria Mathilde +
+. [`10/29/76`] Sophia Maria Mathilde +
 Eltern:
 * Gottfried Thieme
 * Amalia, geb. Roscher

@@ -1,7 +1,7 @@
 = Page 99, #133-139 
 :page-role: doc-width
 
-image::68.jpg
+image::68.jpg[link=self]
 
 [arabic,start="133"]
 . Johanna Martha Maria +

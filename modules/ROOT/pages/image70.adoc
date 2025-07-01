@@ -3,16 +3,19 @@
 
 image::70.jpg[link=self]
 
-[arabic,start="146"]
+[cols="a,a"]
+|===
+|Transliterate|Translate
+
+|
+[arabic,start="139"]
 . Emma Maria Christine +
 Tochter von:
 * Hermann Büttner 
 * und dessen Frau Louise
 
 +
-geb. 25. Feb. 1877 gekauft 28. Feb 1877.
-
-+
+geb. 25. Feb. 1877 gekauft 28. Feb 1877. +
 Pathen: Emma Ebel, Minna Runge. +
 A. H. Caemmerer
 . Adeline Sophia Elisabeth [`Wm. Boseker, Ft.W.`] +
@@ -21,9 +24,7 @@ Tochter von:
 * u. dessen Fr. Maria
 
 +
-geb. den 16. März 1877. getauft den 25. März 1877.
-
-+
+geb. den 16. März 1877. getauft den 25. März 1877. +
 Pathen: Sophie Holle, Sophie Heckmann, Elisabeth Jäbker. +
 A. H. Cämmerer
 . Carl Friedrich Heinrich [`+1/5/43`] +
@@ -32,9 +33,7 @@ Sohn von:
 * Frau Caroline 
 
 +
-geb. 28. März 1877. getauft den 2. April 1877
-
-+
+geb. 28. März 1877. getauft den 2. April 1877 +
 Pathen: H. Grote, F. Weÿland. +
 A. H. Caemmerer.
 . Clara Louise Margaretha [`3/31/48`] +
@@ -43,9 +42,7 @@ Tochter von:
 * Maria geborene Bleeke  
 
 +
-geboren den 31. März 1878, getauft den 1. April 1878
-
-+
+geboren den 31. März 1878, getauft den 1. April 1878 +
 Pathen: Louise Bleeke, Elise Bleeke, Margarethe Cammerer +
 A. H. Caemmerer
 . Therese Emilie Sophie [`Wm. Gerke`] +
@@ -54,19 +51,13 @@ Tochter von:
 * u. dessen Frau Doris geb. Dauel
 
 +
-geb: den 11 Decemb. u. get: den 22t Decembr. 1878.
-
-+
+geb: den 11 Decemb. u. get: den 22t Decembr. 1878. +
 Pathen: Thierse Roth u. Sophie Thieme.
 . Heinrich Wilhelm +
 Sohn von:
 * Friedrich Roth
 * und seiner Ehefrau Theresa, geb. Büttner
-
-+
-geboren den 18. August, und getauft den 8. Septr. 1878.
-
-+
+geboren den 18. August, und getauft den 8. Septr. 1878. +
 Pathen: Heinrich Büttner und Wilhelm Weyland. +
 A. H. Caemmerer Pastor.
 . Elise Emeline +
@@ -75,7 +66,68 @@ Tochter von:
 * und dessen Ehefrau Isabella geb. Bibelheimer
 
 +
-geboren den 23. Sept. 1878 und getauft am 6. Oct. 1878
+geboren den 23. Sept. 1878 und getauft am 6. Oct. 1878 +
+Pathen: Caroline Grote, Caroline Nürgen, und Maria Stindler.
+
+|
+[arabic,start="139"]
+Emma Maria Christine +
+Daughter of:
+* Hermann Büttner
+* and his wife Louise
 
 +
-Pathen: Caroline Grote, Caroline Nürgen, und Maria Stindler.
+Born February 25, 1877, purchased February 28, 1877. +
+Godparents: Emma Ebel, Minna Runge. +
+A. H. Caemmerer
+. Adeline Sophia Elisabeth [`Wm. Boseker, Ft.W.`] +
+Daughter of:
+* Hermann Reinking
+* and his wife Maria
+
++
+Born March 16, 1877, baptized March 25, 1877. +
+Godparents: Sophie Holle, Sophie Heckmann, Elisabeth Jäbker. +
+A. H. Cämmerer
+. Carl Friedrich Heinrich [`+1/5/43`] +
+Son of:
+* Carl Krückeberg
+* Mrs. Caroline
+
++
+born March 28, 1877, baptized April 2, 1877 +
+Godparents: H. Grote, F. Weÿland +
+A. H. Caemmerer
+. Clara Louise Margaretha [`3/31/48`] +
+Daughter of:
+* Ferdinand Reinking
+* Maria née Bleeke
+
++
+born March 31, 1878, baptized April 1, 1878 +
+Godparents: Louise Bleeke, Elise Bleeke, Margarethe Cammerer +
+A. H. Caemmerer
+. Therese Emilie Sophie [`Wm. Gerke`] +
+Daughter of:
+* August Haugk
+* and his wife Doris, née Dauel
+
++
+born: December 11th and died: December 22nd, 1878. +
+Godparents: Thierse Roth and Sophie Thieme.
+. Heinrich Wilhelm +
+Son of:
+* Friedrich Roth
+* and his wife Theresa, née Büttner
+born August 18th and baptized September 8th, 1878. +
+Godparents: Heinrich Büttner and Wilhelm Weyland. +
+A. H. Caemmerer, Pastor.
+. Elise Emeline +
+Daughter of:
+* H. Heier
+* and his wife Isabella, née Bibelheimer
+
++
+born September 23rd, 1878 and baptized October 6th 1878 +
+Patrons: Caroline Grote, Caroline Nürgen, and Maria Stindler.
+|====

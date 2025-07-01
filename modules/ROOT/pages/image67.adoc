@@ -3,39 +3,45 @@
 
 image::67.jpg[link=self]
 
-. Martha
-geb: den 18 Juli u. get: den 27 Juli 1873.
-Eltern
-Andreas Thieme
-Sophia, geb. Klein.
-Pathern: Johanna Ebel, u. Christina Büttner
-. Wilhelm Heinrich Friedrich
-geboren den 6ten u. getauft den 19 Octob. 1873.
-Eltern 
-Heinrich Heuer
-Isabella, geb. Biebelkamer
+. Martha +
+geb: den 18 Juli u. get: den 27 Juli 1873. +
+Eltern:
+** Andreas Thieme
+** Sophia, geb. Klein.
+
++
+Pathen: Johanna Ebel, u. Christina Büttner
+. Wilhelm Heinrich Friedrich +
+geboren den 6ten u. getauft den 19 Octob. 1873. +
+Eltern: 
+* Heinrich Heuer
+* Isabella, geb. Biebelkamer
 Pathen: Wilhelm Fritze, Heinrich Gret, u. Wilhelm Bleeke.
++
+(Bis hierher von Pastor S. Ruprecht getauft)
+. Martha Christine Karoline +
+geboren den 6ten December 1873 get. den 26 December +
+Eltern: 
+* Christian Wilhelm Fells und dessen Ehefrau Elisabeth
 
-Bis hierher von Pastor S. Ruprecht getauft
-
-. Martha Christine Karoline
-geboren den 6ten December 1873 get. den 26 December
-Eltern 
-Christian Wilhelm Fells und dessen Ehefrau Elisabeth
++
 Pathen: Christine L[??]ner u. Karoline Fells
-. Louise Maria Auguste
+. Louise Maria Auguste +
+geboren den 20ten u. getauft den 25 Mai 1874 +
+Eltern:
+* Hermann Reinking
+* Maria geb. Bleeke
 
-geboren den 20ten u. getauft den 25 Mai 1874
-Eltern
-Hermann Reinking
-Maria geb. Bleeke
-Pathen: Maria Reinking, Maria Bleeke, Auguste [T/K]onzelmann
++
+Pathen: Maria Reinking, Maria Bleeke, Auguste [T/K]onzelmann +
 (Von Pastor A. Fritze getauft)
 . Sophia
-. Sophia Maria Mathilde
-Eltern
-Gottfried Thieme
-Amalia, geb. Roscher
+. Sophia Maria Mathilde +
+Eltern:
+* Gottfried Thieme
+* Amalia, geb. Roscher
 geboren den 24 Juni, und getauft den 28 Juni 1874
-Pathen: Sophia Thieme und Maria Steutler.
+
++
+Pathen: Sophia Thieme und Maria Steutler. +
 H. Caemmerer Pastor

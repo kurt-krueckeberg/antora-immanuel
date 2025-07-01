@@ -1,4 +1,4 @@
-= Page 122, Entries 246-251 
+= Page 122, #246-251 
 :page-role: doc-width
 
 image:89.jpg[link=self]

@@ -1,4 +1,4 @@
-= Page 103, Enties 139-145
+= Page 103, #139-145
 :page-role: doc-width
 
 image::72.jpg[link=self]

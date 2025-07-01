@@ -1,15 +1,13 @@
-209
-210
-211
-212
-21
-115,
-Taufregister 1886.
-Andreas Heinrich
-.
+= Page 123, #
+:page-role: doc-width
+
+image::82.jpg[link=self]
+
+. Andreas Heinrich
 geb. den 20. Juni 1886 get. d. 20 Juni 1886 im Hause des Eftern
-Eftion/ Fr. Thieme sen.
-C. Sophie geb. Holle
+Eltern:
+* Fr. Thieme sen.
+* C. Sophie geb. Holle
 Steltvertreter: H. Grote & W. Holle
 Pathen: Aud. Thieme & Heinrich Holle.
 W. Schmidt P.

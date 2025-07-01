@@ -1,6 +1,9 @@
-= Page 101, #133-138
+= Page 102, #133-138
 :page-role: doc-width
 
+image::71.jpg[link=self]
+
+[arabic,start="133"]
 . Heinrich August +
 geboren den 23te Februar um getauft den 9te März 1879. +
 Eltern:

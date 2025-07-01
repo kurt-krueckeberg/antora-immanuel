@@ -8,10 +8,12 @@ geb. den 29 October 1885 getauft d. 17 Jan. 1886 +
 Eltern: 
 * Friedr. Roth
 * Christine geb. Bittner
+
++
 Pathen: Heinr. Bittner & Julius Haugk +
 M. Gruber
 . Loreine Louise Emilie.
-[`Wm. Reidenbach`] geb. d. 8ten Jan. 1886 get. d. 24 Jan 1886
+[`Wm. Reidenbach`] geb. d. 8ten Jan. 1886 get. d. 24 Jan 1886 +
 Eltern:
 * Heinr. Bischoff
 * Christine geb. Bleeke
@@ -20,7 +22,7 @@ Eltern:
 Pathen: Louise Bischoff & Louise Reinking +
 M. Gruber
 . Otto Ernst Friedrich +
-geb. 13 März 1886 getauft 17 März 1886
+[`Ft. W.`] geb. 13 März 1886 getauft 17 März 1886 +
 Eltern:
 * Wilhelm Holle
 * Sophie geb. Bleeke.
@@ -30,7 +32,7 @@ Pathen: Friedrich Bleeke jun, Friedrich Thieme +
 F. Berg
 . Carl Heinrich Benjamin +
 geb. 22. Jan. 1886. getauft 17. März 1886 
-Elter:
+Eltern:
 * Hermann Büttner.
 * Louise geb. Roth.
 

@@ -1,5 +1,9 @@
-= Enties 121-126
-Johann Heinrich Friedrich,
+= Page 100, #121-126
+:page-role: doc-width
+
+image::69.jpg[link=self]
+
+. Johann Heinrich Friedrich,
 139.
 Sohn von: H. Heier und Isabelle geb. Bibelhaimer.
 geboren den 4. März und getauft den 12. Mörz 1876.

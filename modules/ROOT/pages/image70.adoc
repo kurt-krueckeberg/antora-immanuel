@@ -7,7 +7,7 @@ image::70.jpg[link=self]
 |===
 |Transliterate|Translate
 
-|
+a|
 [arabic,start="139"]
 . Emma Maria Christine +
 Tochter von:
@@ -71,7 +71,7 @@ Tochter von:
 geboren den 23. Sept. 1878 und getauft am 6. Oct. 1878 +
 Pathen: Caroline Grote, Caroline Nürgen, und Maria Stindler.
 
-|
+a|
 [arabic,start="139"]
 . Emma Maria Christine +
 Daughter of:
@@ -134,5 +134,5 @@ Daughter of:
 +
 born September 23rd, 1878 and baptized October 6th 1878 +
 Godparents: Caroline Grote, Caroline Nürgen, and Maria Stindler.
-|====
+|===
 

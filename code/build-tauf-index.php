@@ -6,10 +6,14 @@ if ($argc != 2) {
 }
 
 function goto_regex(\SplFileObject $file, string $regex) : void
-{
+{ 
+  $cnt = 0;
+  
   foreach($file as $line) {
-
-      if (preg_match( "@|$@", $line) !== false)   
+      
+      ++$cnt;
+      
+      if (preg_match( $regex, $line) !== false)   
          break;
   }
 }
@@ -25,8 +29,10 @@ $child_given = '';
 goto_regex($file, "@\|$@");
 
 foreach($file as $line) {
+    
+  $rc = preg_match("/^\|$/", $line);
 
-  if (preg_match('@^|$@', $line) === 1) 
+  if ($rc === 1) 
           break;
  
   if ($found)  {

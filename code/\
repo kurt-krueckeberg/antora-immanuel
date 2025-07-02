@@ -5,7 +5,7 @@ if ($argc != 2) {
    die("2nd argument must be file name.\n");
 }
 
-function goto_regex(\SplFileObject $file, string $regex) : void
+function advance_to(\SplFileObject $file, string $regex) : void
 {
   foreach($file as $line) {
 
@@ -22,7 +22,7 @@ $found = false;
 
 $child_given = '';
 
-goto_regex("@|$@);
+advance_to("@|$@);
 
 foreach($file as $line) {
 
@@ -30,7 +30,7 @@ foreach($file as $line) {
  
   if ($found)  {
 
-     if (substr($line, 0, 6) == 'Eltern') {
+     if (substr($line, 0, 6) == "Eltern") {
 
          $line = $file->fgets();
 

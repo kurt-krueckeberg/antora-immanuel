@@ -7,13 +7,9 @@ if ($argc != 2) {
 
 function goto_regex(\SplFileObject $file, string $regex) : void
 { 
-  $cnt = 0;
-  
   foreach($file as $line) {
-      
-      ++$cnt;
-      
-      if (preg_match( $regex, $line) !== false)   
+      echo $line;      
+      if (preg_match( $regex, $line) === 1)   
          break;
   }
 }
@@ -28,7 +24,7 @@ $child_given = '';
 
 goto_regex($file, "@\|$@");
 
-foreach($file as $line) {
+foreach($file as $line) { // foreach calls rewind()!
     
   $rc = preg_match("/^\|$/", $line);
 

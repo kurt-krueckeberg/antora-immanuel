@@ -20,7 +20,7 @@ Eltern:
 
 +
 Pathen: Frau Louise Bleeke, Frau Sophie Witte (Chicago) Stellvert. Helene Bleeke +
-W. Schmidt.
+pass:[H. Schmidt.]
 . Ludella Maria Louise +
 [`Aug. Ruecklos` +
 `Deshler, Nebr.`] +
@@ -31,12 +31,12 @@ Eltern:
 
 +
 Pathen: Maria Reinking & Louise Bleeke. +
-W. Schmidt
+pass:[H. Schmidt]
 . Blandina Christine +
 geb. den 23. Feb. 1890 get. den 9. März 1890. +
 Eltern: W. F. Reinking & Louise geb. Blecke
 Pathen: Fr. Louis Blecke & Fr. [C/B]h. Bischoff +
-W. Schmidt.
+pass:[H. Schmidt.]
 . Sylva Maria Louis +
 geb. u. 23. Febr. 1890 getauft d. 16. März 1890 +
 Eltern:
@@ -45,7 +45,7 @@ Eltern:
 
 +
 Pathen: Maria Steudler, + Franzis Schönstedt. +
-W. Schmidt
+pass:[H. Schmidt]
 . Gustav Karl Ludwig +
 geb. den 27. Märzsgetauft den 6. April 1890 +
 Eltern: 
@@ -54,7 +54,7 @@ Eltern:
 
 +
 Pathen: K. Kruckeberg & L. Koldewey +
-W. Schmidt
+pass:[H. Schmidt]
 . Maria Karolina +
 [`Rud Weyland +
 Decatur`] +
@@ -65,7 +65,7 @@ Eltern:
 
 +
 Pathen: Fr. Maria Reinking & F. Karoline Weyland +
-W. Schmit
+pass:[H. Schmit]
 
 |
 [arabic,start="246"]
@@ -78,7 +78,7 @@ Parents:
 
 +
 Godparents: Mrs. Louise Bleeke, Mrs. Sophie Witte (Chicago), Deputy Helene Bleeke +
-W. Schmidt.
+pass:[H. Schmidt.]
 . Ludella Maria Louise +
 [`Aug. Ruecklos` +
 `Deshler, Nebr.`] +
@@ -89,12 +89,12 @@ Parents:
 
 +
 Godparents: Maria Reinking & Louise Bleeke. +
-W. Schmidt
+pass:[H. Schmidt]
 . Blandina Christine +
 born February 23, 1890, died March 9, 1890. +
 Parents: W. F. Reinking & Louise née Blecke
 Godparents: Mrs. Louis Blecke & Mrs. [C/B]h. Bischoff +
-W. Schmidt.
+pass:[H. Schmidt.]
 . Sylva Maria Louis +
 born February 23, 1890, baptized March 16, 1890 +
 Parents:
@@ -103,7 +103,7 @@ Parents:
 
 +
 Godparents: Maria Steudler, + Franzis Schönstedt +
-W. Schmidt
+pass:[H. Schmidt]
 . Gustav Karl Ludwig +
 born March 27, baptized April 6, 1890 +
 Parents:
@@ -112,7 +112,7 @@ Parents:
 
 +
 Godparents: K. Kruckeberg & L. Koldewey +
-W. Schmidt
+pass:[H. Schmidt]
 . Maria Karolina +
 [`Rud Weyland +
 Decatur`] +
@@ -123,5 +123,5 @@ Parents:
 
 +
 Godparents: Mrs. Maria Reinking & F. Karoline Weyland +
-W. Schmit
+pass:[H. Schmit]
 |===

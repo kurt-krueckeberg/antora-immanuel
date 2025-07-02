@@ -4,21 +4,21 @@
 image::83.jpg[link=self]
 
 . Hulda Christine +
-geb. d. 1. Okt. 1886 in Union T. getauft den 10. Oktober 1886, Imaŭmsk. +
+geb. d. 1. Okt. 1886 in Union T. getauft den 10. Oktober 1886, Immanuels K. +
 Eltern:
 * W. Bleeke
 * Louise geb. Holle
 
 +
 Pathen: Christine Beschoff, Emma Holle +
-H. Schmid
+pass:[H. Schmidt]
 . Florenz Wilhelm
-geb. den 10. Nov. 1886 prt. den 21. November 1886. Inmanuelsk. +
+geb. den 10. Nov. 1886 prt. den 21. November 1886. Inmanuels K. +
 Eltern:
 * Johann Ehrmann
 * Karoline geb. Bleeke
 Pathen: 21. Bleeke & N. Reinking +
-H. Schmidt
+pass:[H. Schmidt]
 . Maria Johanna Elis
 Immaͤnck.
 get. an 23. Feb. 87. get. die 6. März 87 +
@@ -28,7 +28,7 @@ Eltern:
 
 +
 Pathen: Eslise Bleetze. Maria Bleeke +
-W. Schmidt
+pass:[H. Schmidt]
 . Margaretha Maria Elisabeth +
 geb. den 27. Feb. 1887. get. den 13. März 1887 +
 Direktion
@@ -39,7 +39,7 @@ Eltern:
 
 +
 Pathen: Frau: Maria Reinnking, Elisabeth +
-W. Schmidt
+pass:[H. Schmidt]
 . Martin Friedrich Wilhelm
 geb. d. 11. Mai 1887. geb.d. 22. Mai 87. Innamwirkirche +
 Eltern:

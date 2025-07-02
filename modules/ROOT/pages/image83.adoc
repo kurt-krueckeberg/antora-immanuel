@@ -29,18 +29,20 @@ Eltern:
 +
 Pathen: 21. Bleeke & N. Reinking +
 pass:[H. Schmidt]
-. Maria Johanna Elis
-Immaͤnck.
-get. an 23. Feb. 87. get. die 6. März 87 +
+.  Maria Johanna Elis +
+[`Hy Wetting  +
+ Waynedale`] +
+get. an 23. Feb. 87. get. die 6. März 87 Immanuelksk. +
 Eltern:
 * Herrn Reinking
-* Maria eine gib. Bleeke
+* Maria eine geb. Bleeke
 
 +
 Pathen: Eslise Bleetze. Maria Bleeke +
 pass:[H. Schmidt]
 . Margaretha Maria Elisabeth +
-geb. den 27. Feb. 1887. get. den 13. März 1887 +
+[`Ed. Funkhauser +
+ Napoleon`] geb. den 27. Feb. 1887. get. den 13. März 1887 +
 Direktion
 Benz
 Eltern:
@@ -50,8 +52,8 @@ Eltern:
 +
 Pathen: Frau: Maria Reinnking, Elisabeth +
 pass:[H. Schmidt]
-. Martin Friedrich Wilhelm
-geb. d. 11. Mai 1887. geb.d. 22. Mai 87. Innamwirkirche +
+. Martin Friedrich Wilhelm +
+[`Ft. W.`] geb. d. 11. Mai 1887. geb.d. 22. Mai 87. Immanuelskirche +
 Eltern:
 * Heinrich Krückeberg
 * Louise geb. Buuk
@@ -71,7 +73,7 @@ Parents:
 Godparents: Christine Beschoff, Emma Holle +
 passport: [H. Schmidt]
 . Florenz Wilhelm
-born November 10, 1886, registered November 21, 1886. Inmanuels K. +
+born November 10, 1886, registered November 21, 1886. Immanuels K. +
 Parents:
 * Johann Ehrmann
 * Karoline née Bleeke
@@ -79,7 +81,9 @@ Parents:
 +
 Godparents: 21. Bleeke & N. Reinking +
 passport: [H. Schmidt]
-. Maria Johanna Elis
+. Maria Johanna Elis +
+[`Hy Wetting  +
+ Waynedale`] +
 Immanck.
 born February 23, 1887, died March 6, 1887 +
 Parents:
@@ -90,7 +94,8 @@ Parents:
 Godparents: Eslise Bleetze. Maria Bleeke +
 passport: [H. Schmidt]
 . Margaretha Maria Elisabeth +
-born February 27, 1887, died March 13, 1887 +
+[`Ed. Funkhauser +
+ Napoleon`] born February 27, 1887, died March 13, 1887 +
 Directorate
 Benz
 Parents:
@@ -101,7 +106,7 @@ Parents:
 Godparents: Wife: Maria Reinking, Elisabeth +
 passport: [H. Schmidt]
 . Martin Friedrich Wilhelm
-born May 11, 1887, died May 22, 1887, Innamwirkirche +
+[`Ft. W.`] born May 11, 1887, died May 22, 1887, Immanuelskirche +
 Parents:
 * Heinrich Krückeberg
 * Louise, née Buuk

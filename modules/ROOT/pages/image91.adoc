@@ -1,8 +1,10 @@
 = Page ??
 :page-role: doc-width
 
+image::91.jpg[link=self]
+
 . Aldolph Johannes +
-geb. den 14. Sept 1890 geb. d. 21. Sept. 1890
+geb. den 14. Sept 1890 geb. d. 21. Sept. 1890 +
 Eltern:
 * Mme Bleeke
 * Louise geb. Holle
@@ -17,7 +19,7 @@ Eltern:
 * Elise geb. Fülling
 
 +
-Pathen:Heinrich Füllin, und Hoy. Blecke. +
+Pathen: Heinrich Füllin, und Hoy. Blecke. +
 Schmidt
 . Almida Karoline +
 geb. d. 7. Okt. 1890 getauft den 19. Oktober 1890 +
@@ -26,7 +28,7 @@ Eltern:
 * Louise geb. Schönstedt
 
 +
-Pathen: Karoline Weyland & Korline Grole??????? +
+Pathen: Karoline Weyland & Korline Grote??????? +
 H Schmidt.
 . Richard Theodor +
 geb. d. 9. Okt. 90 gut d. 19. Okto. 1890 +

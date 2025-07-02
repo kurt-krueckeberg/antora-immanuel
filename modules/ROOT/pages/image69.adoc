@@ -12,7 +12,7 @@ geboren den 4. März und getauft den 12. Mörz 1876.
 
 +
 Pathen: Pohn Ehrmann, Heinrich Krückeberg, und Friedrich Weiland. +
-A. H. Caemerer, Pastor.
+pass:[A. H. Caemerer, Pastor.]
 . Otto Ernst +
 Sohn von:
 * Chr. Blecke u.
@@ -35,7 +35,7 @@ geboren den 24. Mai 1876. gekauft den 28.Mai 1876
 
 + 
 Pathen: Heinrich Bleeke u. Hermann Reinking. +
-A. H. Caemmerer Pastor
+pass:[A. H. Caemmerer Pastor]
 . Heinrich Andreas +
 Sohn von:
 * Andreas Thieme und dessen Ehefrau Sophie +
@@ -43,7 +43,7 @@ geboren den 21. Juli 1876. getauft den 22. July. 1876.
 
 +
 Pathen: Heinrich Bischoff, Heinrich Grote +
-A. H. Caemmerer Pastor
+pass:[A. H. Caemmerer Pastor]
 . Johanna Sophia +
 Tochter von:
 * W. Holle und
@@ -52,7 +52,7 @@ geboren den 6. August 1876, getauft den 20 August
 
 +
 Pathen: Louise Holle, Maria Bleeke, Christine Heckmann +
-A. H. Caemmerer Pastor
+pass:[A. H. Caemmerer Pastor]
 . Friedrich Gottlob Wilhelm +
 Sohn von:
 * August Haupt u. d. h. Ehefrau Dorib

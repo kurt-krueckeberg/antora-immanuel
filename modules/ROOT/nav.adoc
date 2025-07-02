@@ -82,4 +82,3 @@ der Leichenbegängnisse +
 ** xref:image230.adoc[]
 ** xref:image231.adoc[]
 ** xref:image232.adoc[]
-* link:https://www.genealogycenter.info/search_adamsimmanuel.php[Search Cemetery Database]

@@ -1,4 +1,5 @@
 = Page 116, #214-???
+:page-role: doc-width
 
 image::83.jpg[link=self]
 

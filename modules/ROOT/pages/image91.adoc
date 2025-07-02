@@ -3,6 +3,12 @@
 
 image::91.jpg[link=self]
 
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+|
+[arabic,start="258"]
 . Aldolph Johannes +
 geb. den 14. Sept 1890 geb. d. 21. Sept. 1890 +
 Eltern:
@@ -54,4 +60,60 @@ Eltern:
 * August Büttier
 * Anna geb. Roth
 Pathen: Emilie Rotti, Johanna Schmidt +
-H. Schmidt
+H Schmidt
+
+|
+[arabic,start="258"]
+Aldolph Johannes +
+born September 14, 1890, born September 21, 1890 +
+Parents:
+* Hm. Bleeke
+* Louise née Holle
+
++
+Godparents: Friedrich Holle, H. Reinking, Johannes Ehrmann +
+H Schmidt
+. Paul Johann Heinrich, +
+[`+6/22/48`] born September 16, 1890, baptized September 21, 1890 +
+Parents:
+* Friedich Bleeke Jr.
+* Elise née Fülling
+
++
+Godparents: Heinrich Fülling, and ??? Bleeke. +
+H Schmidt
+. [`+9/12/92`] Almida Karoline +
+born October 7, 1890, baptized October 19, 1890 +
+Parents:
+* Friedich Weyland
+* Louise, née Schönstedt
+
++
+Godparents: Karoline Weyland & Korline Grote +
+H Schmidt.
+. Richard Theodor +
+born October 9, 1890, died October 19, 1890 +
+Parents:
+* Mrs. Thieme
+* Soph. Krückeberg.
+
++
+Godparents: Mrs. Krückeberg + Theodor Thieme +
+H Schmidt
+. [`+3/17/46`] Klara Elise Pauline. +
+born October 10, 1890, died October 19, 1890 Oct 1890 +
+Parents:
+* Heinrich Bleeke
+* Emilie née Thieme
+
++
+Godparents: Elise Blecke, Pauline Bleeke +
+H Schmidt.
+. Mabel Emilie +
+born Aug 18, 1890, baptized Oct 12, 1890 +
+Parents:
+* August Büttier
+* Anna née Roth
+Godparents: Emilie Rotti, Johanna Schmidt +
+H Schmidt
+|===

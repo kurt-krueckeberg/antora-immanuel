@@ -13,7 +13,7 @@ Eltern:
 Pathen: Friedrich  Holle, H. Reinking, Johannes Ehrmann +
 H. Schmidt
 . Paul Johann Heinrich, +
-[``+6/22/48] geb. den 16. Sept: 1890 getauft den 21. Sept. 1890 +
+[`+6/22/48`] geb. den 16. Sept: 1890 getauft den 21. Sept. 1890 +
 Eltern:
 * Friedich Bleeke jun.
 * Elise geb. Fülling

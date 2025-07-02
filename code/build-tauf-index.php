@@ -26,7 +26,8 @@ goto_regex($file, "@\|$@");
 
 foreach($file as $line) {
 
-  if (preg_match('@^|$@', $line) === 1) break;
+  if (preg_match('@^|$@', $line) === 1) 
+          break;
  
   if ($found)  {
 

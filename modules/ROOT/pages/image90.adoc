@@ -3,6 +3,11 @@
 
 image::90.jpg[link=self]
 
+[cols="a,a"]
+|===
+|Transliteration|Translation
+
+|
 [arabic,start="252"]
 . Elisabeth Emilie Christine [`Chas. Reynolds Calif.`] +
 geb. den 31. Mai 1890 gebauft den 8. Juni 1890 +
@@ -58,3 +63,6 @@ Eltern:
 +
 Pathen: Frau Chr. Schamerloh & Frau J. Bienz +
 W. Schmidt
+
+|
+[arabic,start="252"]

@@ -5,6 +5,15 @@ if ($argc != 2) {
    die("2nd argument must be file name.\n");
 }
 
+function advance_to(\SplFileObject $file, string $regex) : void
+{
+  foreach($file as $line) {
+
+      if (preg_match( "@|$@", $line) !== false)   
+         break;
+  }
+}
+
 $fname = $argv[1];
 
 $file = new \SplFileObject($fname, "r");
@@ -13,8 +22,13 @@ $found = false;
 
 $child_given = '';
 
+advance_to("@|$@);
+
 foreach($file as $line) {
-  
+
+  if (preg_match( "@|$@", $line) !== false)   
+     break;
+ 
   if ($found)  {
 
      if (substr($line, 0, 6) == "Eltern") {

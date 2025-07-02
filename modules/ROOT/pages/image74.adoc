@@ -11,7 +11,7 @@ image::74.jpg[link=self]
 
 |
 [arabic,start="169"]
-. Justinus Hermann  [Calif.] +
+. Justinus Hermann  [`Calif.` ] +
 geboren den 5 August u. getauft den 14 August 1881. +
 Eltern:
 ** Wilhelm Holle.
@@ -65,7 +65,7 @@ Pathen: Maria Bleeke, Louise Gerke u. Elisabeth Benz
 
 |
 [arabic,start="169"]
-. Justinus Hermann [Calif.] +
+. Justinus Hermann [`Calif.`] +
 born on August 5th and baptized on August 14th, 1881. +
 Parents:
 ** Wilhelm Holle.

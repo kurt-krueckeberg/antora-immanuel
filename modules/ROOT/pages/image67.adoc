@@ -50,7 +50,7 @@ geboren den 24 Juni, und getauft den 28 Juni 1874
 
 +
 Pathen: Sophia Thieme und Maria Steutler. +
-H. Caemmerer Pastor
+pass:[H. Caemmerer Pastor]
 |
 [arabic,start="127"]
 . [`Nebr.`] Martha +
@@ -94,5 +94,5 @@ born on June 24th and baptized on June 28th, 1874
 
 +
 Godparents: Sophia Thieme and Maria Steutler. +
-H. Caemmerer, Pastor
+pass:[H. Caemmerer, Pastor]
 |===

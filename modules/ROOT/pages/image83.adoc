@@ -3,6 +3,14 @@
 
 image::83.jpg[link=self]
 
+== Transliteration and Translation
+
+[cols="a,a", options="header"]
+|===
+|Transliteration|Translation
+
+|
+[arabic,start="214"]
 . Hulda Christine +
 geb. d. 1. Okt. 1886 in Union T. getauft den 10. Oktober 1886, Immanuels K. +
 Eltern:
@@ -17,6 +25,8 @@ geb. den 10. Nov. 1886 prt. den 21. November 1886. Inmanuels K. +
 Eltern:
 * Johann Ehrmann
 * Karoline geb. Bleeke
+
++
 Pathen: 21. Bleeke & N. Reinking +
 pass:[H. Schmidt]
 . Maria Johanna Elis
@@ -48,3 +58,54 @@ Eltern:
 
 +
 Pathen: F. Buuk, St. Schamerloh
+
+|
+[arabic,start="214"]
+. Hulda Christine +
+born October 1, 1886 in Union T., baptized October 10, 1886, Immanuels K. +
+Parents:
+* W. Bleeke
+* Louise née Holle
+
++
+Godparents: Christine Beschoff, Emma Holle +
+passport: [H. Schmidt]
+. Florenz Wilhelm
+born November 10, 1886, registered November 21, 1886. Inmanuels K. +
+Parents:
+* Johann Ehrmann
+* Karoline née Bleeke
+
++
+Godparents: 21. Bleeke & N. Reinking +
+passport: [H. Schmidt]
+. Maria Johanna Elis
+Immanck.
+born February 23, 1887, died March 6, 1887 +
+Parents:
+* Mr. Reinking
+* Maria, a. Bleeke
+
++
+Godparents: Eslise Bleetze. Maria Bleeke +
+passport: [H. Schmidt]
+. Margaretha Maria Elisabeth +
+born February 27, 1887, died March 13, 1887 +
+Directorate
+Benz
+Parents:
+* W. C. Reinking
+* Maria, née Magareth Bonz.
+
++
+Godparents: Wife: Maria Reinking, Elisabeth +
+passport: [H. Schmidt]
+. Martin Friedrich Wilhelm
+born May 11, 1887, died May 22, 1887, Innamwirkirche +
+Parents:
+* Heinrich Krückeberg
+* Louise, née Buuk
+
++
+Godparents: F. Buuk, St. Schamerloh
+|===

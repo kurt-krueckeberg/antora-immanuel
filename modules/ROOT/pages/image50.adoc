@@ -12,7 +12,7 @@ moved in 1877.
 |===
 | Transliteration | Translation
 
-a|
+|
 [arabic,start="25"]
 . Heinrich [`+5/4/61`] +
 geboren den 2ten Mai und getauft am selben Tage 1861. +
@@ -65,7 +65,7 @@ Eltern:
 +
 Pathen: Caroline Grote und Sophie Thieme
 
-a|
+|
 [arabic,start="25"]
 . Heinrich [`+5/4/61`] +
 born on May 2nd and baptized on the same day 1861. +

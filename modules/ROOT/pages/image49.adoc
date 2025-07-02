@@ -9,7 +9,7 @@ image::49.jpg[align=left,title='Page 80, image 49 (Click to enlarge)',link=self]
 |===
 | Transliteration | Translation
 
-a|
+|
 [arabic,start=19]
 . [`+5/18/32`] Carl Fridrich Wilhelm +
 geboren den 19ten September und getauft den 1t October 1859. +
@@ -64,7 +64,7 @@ Eltern:
 +
 Pathen: Carl Nürge und Christian Schamerloh.
 
-a|
+|
 [arabic,start=19]
 . [`+5/18/32`] Carl Fridrich Wilhelm +
 born on September 19th and baptized on October 1st, 1859. +

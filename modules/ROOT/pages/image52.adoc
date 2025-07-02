@@ -7,7 +7,7 @@ image::52.jpg[align="left",title="Page 82, image 52 (Click to enlarge)",link=sel
 |===
 | Transliteration | Translation
 
-a|
+|
 [arabic,start="37"]
 . Carl Wilhelm Christian +
 geboren den 15ten September und getauft den 6ten October 1860. [`+1/2/62`] +
@@ -58,7 +58,7 @@ Eltern:
 +
 Pathen: Christian Fridrich Bleeke u. David Bibelheimer.
 
-a|
+|
 [arabic,start="37"]
 . Carl Wilhelm Christian +
 born on September 15th and baptized on October 6th, 1860.  [`+1/2/62`] +

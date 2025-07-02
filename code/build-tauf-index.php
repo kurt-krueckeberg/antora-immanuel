@@ -22,7 +22,7 @@ $found = false;
 
 $child_given = '';
 
-goto_regex("@|$@);
+goto_regex($file, "@\|$@");
 
 foreach($file as $line) {
 

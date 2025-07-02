@@ -15,7 +15,7 @@ All the death dates, which are preceded by `+`, are written in pencil, as is
 |===
 | Transliteration | Translation
 
-a|
+|
 [arabic,start="1"]
 . Marie Louise [`+7/28/21`] +
 geboren den 14ten November und getauft den 8ten December 1850. +
@@ -67,7 +67,7 @@ Eltern:
 Pathen: Christine Blecke u.  Louise Reinking
 
 
-a|
+|
 [arabic,start="1"]
 . Marie Louise  [`+7/28/21`] +
 born on November 14th and baptized on December 8th, 1850. +

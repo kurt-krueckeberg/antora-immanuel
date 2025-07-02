@@ -9,7 +9,7 @@ image::47.jpg[align=left,title='Image 47, Page 78 (Click to enlarge)',link=self]
 |===
 | Transliteration | Translation
 
-a|
+|
 [arabic,start="7"]
 . [`+11/6/33`] Johann Heinrich +
 geboren den 17t. Februar und getauft den 25 Febuar 1855 +
@@ -53,7 +53,7 @@ Eltern:
 Pathen: Christine Krückeberg und Philippine Schamerloh
 . [empty] 
 
-a|
+|
 [arabic,start="7"]
 . [`+11/6/33`] Johann Heinrich +
 born the 17th February and baptized the 25th February 1855 +

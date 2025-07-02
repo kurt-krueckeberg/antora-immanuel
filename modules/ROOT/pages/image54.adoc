@@ -7,7 +7,7 @@ image::54.jpg[align="left",title="Page 85, image 54 (Click to enlarge)",link=sel
 |===
 |Transliteration|Translation
 
-a|
+|
 [arabic,start="49"]
 . Louise Sophie Wilhelmine [`+9/24/54`] + 
 geboren den 10ten Juli und getauft den 17ten Juli 1864. +
@@ -56,7 +56,7 @@ Eltern:
 +
 Pathen: Maria Eleonore Reinking u. Henriette Schnellenberger
 
-a|
+|
 [arabic,start="49"]
 . Louise Sophie Wilhelmine [`+9/24/54`] + 
 born on July 10th and baptized on July 17th, 1864. +

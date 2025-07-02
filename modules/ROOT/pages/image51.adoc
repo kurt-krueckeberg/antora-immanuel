@@ -9,7 +9,7 @@ TODO: add Nachträge
 |===
 | Transliteration | Translation
 
-a|
+|
 [arabic,start="31"]
 . [`+1/9/70`] Caroline Wilhelmine Louise +
 geboren den 18ten März und getauft den 23ten März 1862 +
@@ -60,7 +60,7 @@ Eltern:
 +
 Pathen: Philippine Schamerloh u. Sophie Buuck.
 
-a|
+|
 [arabic,start="31"]
 . [`+1/9/70`] Caroline Wilhelmine Louise +
 born on March 18 and baptized on March 23, 1862 +

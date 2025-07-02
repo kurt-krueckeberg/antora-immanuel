@@ -9,7 +9,7 @@ TODO: Add Nachträge
 |===
 |Transliteration|Translation
 
-a|
+|
 [arabic,start="43"]
 . Ludwig Wilhelm +
 geboren den 11ten Januar und getauft den 7ten Februar 1864. +
@@ -61,7 +61,7 @@ Eltern:
 Pathen Bernhardine Koldewey u. Maria Carline Bleeke
 
 [arabic,start="43"]
-a|
+|
 . Ludwig Wilhelm +
 born on January 11th and baptized on February 7th, 1864. +
 Parents:

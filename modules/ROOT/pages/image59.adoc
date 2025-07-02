@@ -9,7 +9,7 @@ image::59.jpg[link=self]
 |===
 |Transliteration|Translation
 
-a|
+|
 [arabic,start="79"]
 . [`+`] Conrad Christian Wilhelm +
 geboren den 29ten Februar Vormittags 11 Uhr getauft den 1ten März 1868. +
@@ -60,7 +60,7 @@ Eltern:
 +
 Pathen: Conrad Fells und Jakob Stöhr
 
-a|
+|
 [arabic,start="79"]
 . [`+`] Conrad Christian Wilhelm +
 born on February 29th at 11 a.m., baptized on March 1st, 1868. +

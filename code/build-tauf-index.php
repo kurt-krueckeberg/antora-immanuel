@@ -24,12 +24,14 @@ $child_given = '';
 
 goto_regex($file, "@\|$@");
 
-foreach($file as $line) { // foreach calls rewind()!
+while (!$file->eof()) { // foreach calls rewind()!
+
+  $line = $file->fgets();
     
   $rc = preg_match("/^\|$/", $line);
 
   if ($rc === 1) 
-          break;
+      break;
  
   if ($found)  {
 

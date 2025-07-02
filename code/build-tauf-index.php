@@ -8,7 +8,7 @@ if ($argc != 2) {
 function goto_regex(\SplFileObject $file, string $regex) : void
 { 
   foreach($file as $line) {
-      echo $line;      
+            
       if (preg_match( $regex, $line) === 1)   
          break;
   }

@@ -10,7 +10,7 @@ image::91.jpg[link=self]
 |
 [arabic,start="258"]
 . Aldolph Johannes +
-geb. den 14. Sept 1890 geb. d. 21. Sept. 1890 +
+geb. den 14. Sept 1890 get. d. 21. Sept. 1890 +
 Eltern:
 * Hm. Bleeke
 * Louise geb. Holle
@@ -37,7 +37,7 @@ Eltern:
 Pathen: Karoline Weyland & Korline Grote +
 H Schmidt.
 . Richard Theodor +
-geb. d. 9. Okt. 90 gut d. 19. Okt. 1890 +
+geb. d. 9. Okt. 90 get. d. 19. Okt. 1890 +
 Eltern:
 * Fr. Thieme
 * Soph. Krückeberg.
@@ -46,7 +46,7 @@ Eltern:
 Pathen: Fr. Krückeberg + Theodor Thieme +
 H Schmidt
 . [`+3/17/46`] Klara Elise Pauline. +
-geb. d. 10. Okt. 1890 gut d. Okt 1890 +
+geb. d. 10. Okt. 1890 get. d. Okt 1890 +
 Eltern: 
 * Heinrich Bleeke
 * Emilie geb. Thieme
@@ -65,7 +65,7 @@ H Schmidt
 |
 [arabic,start="258"]
 . Aldolph Johannes +
-born September 14, 1890, born September 21, 1890 +
+born September 14, 1890, baptized September 21, 1890 +
 Parents:
 * Hm. Bleeke
 * Louise née Holle
@@ -89,7 +89,7 @@ Parents:
 * Louise, née Schönstedt
 
 +
-Godparents: Karoline Weyland & Korline Grote +
+Godparents: Karoline Weyland & Karline Grote +
 H Schmidt.
 . Richard Theodor +
 born October 9, 1890, died October 19, 1890 +
@@ -101,7 +101,7 @@ Parents:
 Godparents: Mrs. Krückeberg + Theodor Thieme +
 H Schmidt
 . [`+3/17/46`] Klara Elise Pauline. +
-born October 10, 1890, died October 19, 1890 Oct 1890 +
+born October 10, 1890, baptized October 19, 1890 Oct 1890 +
 Parents:
 * Heinrich Bleeke
 * Emilie née Thieme

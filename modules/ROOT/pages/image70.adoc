@@ -17,7 +17,7 @@ Tochter von:
 +
 geb. 25. Feb. 1877 gekauft 28. Feb 1877. +
 Pathen: Emma Ebel, Minna Runge. +
-A. H. Caemmerer
+pass:[A. H. Caemmerer]
 . Adeline Sophia Elisabeth [`Wm. Boseker, Ft.W.`] +
 Tochter von:
 * Hermann Reinking
@@ -26,7 +26,7 @@ Tochter von:
 +
 geb. den 16. März 1877. getauft den 25. März 1877. +
 Pathen: Sophie Holle, Sophie Heckmann, Elisabeth Jäbker. +
-A. H. Cämmerer
+pass:[A. H. Cämmerer]
 . Carl Friedrich Heinrich [`+1/5/43`] +
 Sohn von:
 * Carl Krückeberg  
@@ -35,7 +35,7 @@ Sohn von:
 +
 geb. 28. März 1877. getauft den 2. April 1877 +
 Pathen: H. Grote, F. Weÿland. +
-A. H. Caemmerer.
+pass:[A. H. Caemmerer.]
 . Clara Louise Margaretha [`3/31/48`] +
 Tochter von: 
 * Ferdinand Reinking 
@@ -44,7 +44,7 @@ Tochter von:
 +
 geboren den 31. März 1878, getauft den 1. April 1878 +
 Pathen: Louise Bleeke, Elise Bleeke, Margarethe Cammerer +
-A. H. Caemmerer
+pass:[A. H. Caemmerer]
 . Therese Emilie Sophie [`Wm. Gerke`] +
 Tochter von:
 * August Haugk
@@ -59,7 +59,7 @@ Sohn von:
 * und seiner Ehefrau Theresa, geb. Büttner
 geboren den 18. August, und getauft den 8. Septr. 1878. +
 Pathen: Heinrich Büttner und Wilhelm Weyland. +
-A. H. Caemmerer Pastor.
+pass:[A. H. Caemmerer Pastor.]
 . Elise Emeline +
 Tochter von:
 * H. Heier 
@@ -79,7 +79,7 @@ Daughter of:
 +
 Born February 25, 1877, purchased February 28, 1877. +
 Godparents: Emma Ebel, Minna Runge. +
-A. H. Caemmerer
+pass:[A. H. Caemmerer]
 . Adeline Sophia Elisabeth [`Wm. Boseker, Ft.W.`] +
 Daughter of:
 * Hermann Reinking
@@ -88,7 +88,7 @@ Daughter of:
 +
 Born March 16, 1877, baptized March 25, 1877. +
 Godparents: Sophie Holle, Sophie Heckmann, Elisabeth Jäbker. +
-A. H. Cämmerer
+pass:[A. H. Cämmerer]
 . Carl Friedrich Heinrich [`+1/5/43`] +
 Son of:
 * Carl Krückeberg
@@ -97,7 +97,7 @@ Son of:
 +
 born March 28, 1877, baptized April 2, 1877 +
 Godparents: H. Grote, F. Weÿland +
-A. H. Caemmerer
+pass:[A. H. Caemmerer]
 . Clara Louise Margaretha [`3/31/48`] +
 Daughter of:
 * Ferdinand Reinking
@@ -106,7 +106,7 @@ Daughter of:
 +
 born March 31, 1878, baptized April 1, 1878 +
 Godparents: Louise Bleeke, Elise Bleeke, Margarethe Cammerer +
-A. H. Caemmerer
+pass:[A. H. Caemmerer]
 . Therese Emilie Sophie [`Wm. Gerke`] +
 Daughter of:
 * August Haugk
@@ -121,7 +121,7 @@ Son of:
 * and his wife Theresa, née Büttner
 born August 18th and baptized September 8th, 1878. +
 Godparents: Heinrich Büttner and Wilhelm Weyland. +
-A. H. Caemmerer, Pastor.
+pass:[A. H. Caemmerer, Pastor.]
 . Elise Emeline +
 Daughter of:
 * H. Heier

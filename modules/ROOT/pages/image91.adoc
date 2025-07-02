@@ -1,45 +1,53 @@
-124
-258
-259
-.
-260
-261
-22
-263
-.
-.
-Aldolph Johannes
+= Page ??
+:page-role: doc-width
+
+. Aldolph Johannes +
 geb. den 14. Sept 1890 geb. d. 21. Sept. 1890
-Mme Bleeke & Louise geb. Holle
-Pathen: Kied. Holle, H. Reinking, Johannes Ehrmann
-H. Schimt.
-Paul Johann Heinrich,
-geb. den 16. Sept: 1890 getauft den 21. Sept. 1890
-Eltern: Fred. Blecke jun. & Elise geb. Fülling
-Path.: Heinr. Füllin, und Hoy. Blecke.
-*
+Eltern:
+* Mme Bleeke
+* Louise geb. Holle
+
++
+Pathen: Kied. Holle, H. Reinking, Johannes Ehrmann +
+H. Schmidt
+. Paul Johann Heinrich, +
+geb. den 16. Sept: 1890 getauft den 21. Sept. 1890 +
+Eltern:
+* Fred. Bleeke jun.
+* Elise geb. Fülling
+
++
+Pathen:Heinrich Füllin, und Hoy. Blecke. +
 Schmidt
-* Almida Karoline
-geb. d. 7. Okt. 1890 getauft den 19. Oktober 1890
-Eltern Fried. Weyland. & Louise geb. Schönstedt
-Kath. Karol. Weyland & Korl. Grole
+. Almida Karoline +
+geb. d. 7. Okt. 1890 getauft den 19. Oktober 1890 +
+Eltern:
+* Friedich Weyland
+* Louise geb. Schönstedt
+
++
+Pathen: Karoline Weyland & Korline Grole??????? +
 H Schmidt.
-Richard Theodor
-geb. d. 9. Okt. 90 gut d. 19. Okto. 1890
-Eltern: Fr. Thieme + Soph. Krückeberg.
-hath. Fr. Krückeberg + Theodor
-Thume
-Schritt
-Klara Elise Pauline.
-Okt 1890
-geb. d. 10. Okt. 1890 gut d.
-Thieme
-fehrn: Heinrich Bleche + Emilie geb.
-Krthen: Elise Blecke, Pauline Blicke
+. Richard Theodor +
+geb. d. 9. Okt. 90 gut d. 19. Okto. 1890 +
+Eltern:
+* Fr. Thieme
+* Soph. Krückeberg.
+
++
+Pathen: Fr. Krückeberg + Theodor Thume +
+Schmidt
+. Klara Elise Pauline. +
+geb. d. 10. Okt. 1890 gut d. Okt 1890 +
+Eltern: 
+* Heinrich Bleeke
+* Emilie geb. Thieme
+Pathen: Elise Blecke, Pauline Bleeke +
 Schmidt.
-Mabel Emilie
-1890
-geb. den 18. Aug. 90. getauft d. 12. Okt.
-Eltern: Aug. Büttier + Anna geb. Roth
-Jorthon: Emilie Rotti, Johanne Schmid
+. Mabel Emilie +
+geb. den 18. Aug. 90. getauft d. 12. Okt. 1890 +
+Eltern:
+* August Büttier
+* Anna geb. Roth
+Pathen: Emilie Rotti, Johanne Schmid +
 H. Schmid.

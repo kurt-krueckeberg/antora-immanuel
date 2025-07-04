@@ -69,7 +69,7 @@ Parents:
 
 +
 Godparents: Christ[ian] Schamerloh, Ab. Steudler +
-passport: [H. Schmidt]
+pass:[H. Schmidt]
 . Herbert Friedrich Gottfried [`Ft. W.`] +
 born June 3, 1891, baptized June 14, 1891 +
 Parents:
@@ -78,7 +78,7 @@ Parents:
 
 +
 Godparents: Friedrich Blecke Sr., Gottfried Thieme +
-passport: [H. Schmidt]
+pass:[H. Schmidt]
 . Gotthilf. [`+9/3/91`] +
 born September 3 1871. Baptism was given in urgency. Died on September 3, 1891 +
 Parents:
@@ -92,7 +92,7 @@ Parents:
 
 +
 Parent: Clamor Fülling, Adam Bienz +
-passport: [H. Schmidt]
+pass:[H. Schmidt]
 . Mathilde Karoline Louise [`Jacob Trim`] +
 born on September 18, 1891. Baptized on September 21, 1871 by Sophie Schamerloh +
 in the presence of her mother. +

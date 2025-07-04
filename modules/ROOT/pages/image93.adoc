@@ -1,21 +1,12 @@
-126
-268
-.
-265
-270
-fait.
-271
-.
-272
-N. 7.
-.
-Lucij Elise Emma
-Erster Kind in
-geb. den 19. Jan. 1892 get. den 24. Jan 1892
-I der meinen
-flturn: W. Holle & Sophie geb. Blecke.
-Kirche
-Patf: Colise Blecke & Frau Martin Bleeke.
+.  Lucij Elise Emma +
+Erster Kind in Kirche +
+geb. den 19. Jan. 1892 get. den 24. Jan 1892  +
+Eltern:
+* W. Holle
+* Sophie geb. Bleeke.
+
++
+Pathen: Colise Blecke & Frau Martin Bleeke. +
 H. Schmidt
 Walther Heinrich Friedrich
 geb. den 2. Febr. 1892 getauft den 7 Febr 1892

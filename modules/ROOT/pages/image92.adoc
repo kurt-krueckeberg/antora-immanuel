@@ -5,7 +5,7 @@ image::92.jpg[link=self]
 
 [cols="a,a"]
 |===
-|Transliteration|Translate
+|Transliteration|Translation
 
 |
 [arabic,start="264"]

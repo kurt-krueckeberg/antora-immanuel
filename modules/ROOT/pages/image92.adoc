@@ -45,8 +45,8 @@ Eltern:
 
 +
 Pathen: Frau Hy. Krückeberg & Frau W. Weyland
-. Clarence Heinrich Friedrich
-geb. den 24. Nov. 1891. get den in der Kirche
+. Clarence Heinrich Friedrich +
+geb. den 24. Nov. 1891. get den in der Kirche +
 Eltern:
 * Rufus Schönstedt
 * El. geb. Kirkland

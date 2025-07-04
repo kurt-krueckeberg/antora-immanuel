@@ -20,7 +20,7 @@ Eltern:
 * Pauline, geborene Thieme
 
 +
-Pathen: Friedrich Blecke sen. + Gottfried Thieme
+Pathen: Friedrich Blecke sen., Gottfried Thieme +
 pass:[H. Schmidt]
 . Gotthilf. [+] +
 geb. den 3. Sep. 1871. empfing die Nothaufe starb den 3. Sept. 91 +
@@ -39,13 +39,12 @@ pass:[H. Schmidt]
 . Mathilde Karoline Louise +
 geb. den 18. Sept. 1891 getauft den 21. Sept. 1871 von Sophie Schamerloh +
 in Gegenwart der Mutter.
-Schamerloh
 Eltern:
 * H. Railing
 * Auguste geb. Schamerloh
 
 +
-Pathen: Frau Hy. Krückeberg + Frau W. Weyland
+Pathen: Frau Hy. Krückeberg & Frau W. Weyland
 . Clarence Heinrich Friedrich
 geb. den 24. Nov. 1891. get den in der Kirche
 Eltern:

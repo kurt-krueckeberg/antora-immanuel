@@ -1,4 +1,5 @@
 = Page 125, #264-???
+:page-role: doc-width
 
 image::92.jpg[link=self]
 

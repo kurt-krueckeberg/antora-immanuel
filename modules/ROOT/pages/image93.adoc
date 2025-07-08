@@ -3,6 +3,11 @@
 
 image:93.jpg[link=self]
 
+[cols="a,a"]
+|====
+|Transliteration|Translation
+
+|
 [arabic,start="268"]
 .  Lucky Elise Emma +
 [`Louis Bl?????`] geb. den 19. Jan. 1892 get. den 24. Jan 1892. Erstes Kind in der [neuen?] Kirche +
@@ -23,7 +28,7 @@ Eltern:
 +
 Pathen: H. Bleeke & F. Krückeberg +
 pass:[H. Schmidt]
-. [`+`] Emilie Sophie Louise [`+`] [`gest. den 1 März 1892`] +
+. ✝  Emilie Sophie Louise ✝ [`gest. den 1 März 1892`] +
 [`+3/1/92`] geb. den 22. Febr. 1892 get. den 28 Febr 1892 +
 Eltern:
 * Joh[ann] Ehrmann
@@ -50,3 +55,53 @@ Eltern:
 +
 Pathen: Frau Maria German + Frau Karoline Weyland +
 pass:[H. Schmidt]
+
+[arabic,start="268"]
+|
+. Lucky Elise Emma +
+[`Louis Bl?????`] born January 19, 1892, married January 24, 1892. First child in the [new?] church +
+[`Ft,W.`] +
+Parents:
+* W. Holle
+* Sophie née Bleeke.
+
++
+Godparents: Elise Bleeke & Mrs. Martin Bleeke. +
+pass:[H. Schmidt]
+. Walther Heinrich Friedrich +
+born February 2, 1892, baptized February 7, 1892 +
+Parents:
+* F. A. Thieme
+* Wilhelmine née Krückeberg
+
++
+Godparents: H. Bleeke & F. Krückeberg +
+pass:[H. Schmidt]
+. ✝ Emilie Sophie Louise ✝ [`d. March 1, 1892`] +
+[`+3/1/92`] born February 22, 1892, died February 28, 1892 +
+Parents:
+* Joh[ann] Ehrmann
+* Karoline née Blake
+
++
+Godparents: Sophie Bleeke & Louise Gehrke
+pass:[H. Schmidt]
+. [`Lawrence Limmemeier`] Luette Sophie Karoline +
+born February 15, 1892, died February 28, 1892. +
+Parents:
+* Friedrich Koldewey
+* Emilie née Schamerloh
+
++
+Godparents: Mrs. L. Koldewey & Karoline Weyland (Mrs. Büttner) +
+pass:[H. Schmidt.]
+. [`Robt. Graves`] Pauline Marie Karoline +
+born March 22. Baptized March 27, 1892 +
+Parents:
+* Hy. W. Schamerloh
+* Mathilde née German
+
++
+Godparents: Mrs. Maria German + Mrs. Karoline Weyland +
+pass:[H. Schmidt]
+|===

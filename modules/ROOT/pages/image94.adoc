@@ -56,7 +56,7 @@ Eltern:
 Pathen:. Sophie Pleeke u. Wilhelmine Thieme +
 pass:[H. Schmidt]
 Nr. 79
-. [`might be double entry on no. 79`] 
+. [`might be double entry on no. 79`]  +
 Eltern:
 * Fr. Krückeberg
 * Emma geb. Koldewey

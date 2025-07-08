@@ -19,7 +19,7 @@ Eltern:
 +
 Pathen: Emilie Haugk & Emma Büttner +
 pass:[H. Schmidt]
-. Klara Karoline Christine
+. Klara Karoline Christine [`Wm. Hochemeier`]
 geb. 27. Mai 1872 geb. den 5. Juni 1892.
 Eltern:
 * Fritz Thieme
@@ -29,7 +29,7 @@ Eltern:
 Pathen: Caroline Krückeberg (Stllvertreter Frau Bütter) Christine Böhnke.
 (Stellvertreter für Sophie v. Thieme) +
 pass:[W. Schmidt.]
-. Laura Louise Marie +
+. Laura Louise Marie [`Mart. Krueckeberg`] +
 geb. den 4. Juni 1892 get. den 12. juni 1872 +
 Eltern:
 * Martin Bleeke
@@ -37,14 +37,16 @@ Eltern:
 
 +
 Pathen: Frau Maria Blecke und Frau Louise Holle
-. Bertha Karoline Marie +
+. Bertha Karoline Marie [`Theo Reidenbach`] +
 geb. den 8. Juli 92. geb. den 24. Juni 1892 +
 Eltern:
 * H. Bischoff
 * Christine geb. Bleeke
+
++
 Pathen: Frauu Georg Rinige u. Frut. Bischoff (Stellvertreterolbert [M.?] Heuer +
 pass:[H. Schmidt]
-. Luise Sophie Wilhelmine +
+. Luise Sophie Wilhelmine [`+3/9/31`] +
 geb. den 19. August 1892. getauft den 28. Aug. 1892 +
 Eltern:
 * H. Bleeke
@@ -54,9 +56,10 @@ Eltern:
 Pathen:. Sophie Pleeke u. Wilhelmine Thieme +
 pass:[H. Schmidt]
 Nr. 79
-. 
-flt: Fr. Krückeberg + Gunne geb. Widerweg
-12
+. [`might be double entry on no. 79`] 
+Eltern:
+* Fr. Krückeberg
+* Emma geb. Koldewey
 
 |
 |===

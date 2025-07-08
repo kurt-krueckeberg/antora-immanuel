@@ -2,7 +2,7 @@
 = Page 127, #273-?
 :page-role: doc-width
 
-image:93.jpg[link=self]
+image:94.jpg[link=self]
 
 [cols="a,a"]
 |====
@@ -19,7 +19,6 @@ Eltern:
 +
 Pathen: Emilie Haugk & Emma Büttner +
 pass:[H. Schmidt]
-Familienrecht.
 . Klara Karoline Christine
 geb. 27. Mai 1872 geb. den 5. Juni 1892.
 Eltern:

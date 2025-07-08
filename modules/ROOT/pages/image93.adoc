@@ -5,8 +5,8 @@ image:93.jpg[link=self]
 
 [arabic,start="268"]
 .  Lucky Elise Emma +
-[`Louis Bl?????` geb. den 19. Jan. 1892 get. den 24. Jan 1892. Erstes Kind in der [neuen?] Kirche +
- `Ft,W.`] 
+[`Louis Bl?????`] geb. den 19. Jan. 1892 get. den 24. Jan 1892. Erstes Kind in der [neuen?] Kirche +
+[`Ft,W.`] +
 Eltern:
 * W. Holle
 * Sophie geb. Bleeke.

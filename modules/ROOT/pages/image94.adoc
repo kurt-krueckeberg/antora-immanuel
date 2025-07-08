@@ -1,35 +1,63 @@
 
-. Emma Emilie Magareths
-geb. den 21. April 1892 getauft den 1. Mai 1892
-Therese get Biitheer
-Eltern: Fr. Roth.
-Petter: Emilie Hans K. o Emma Bütner
-W. Schmut
+= Page 127, #273-?
+:page-role: doc-width
+
+image:93.jpg[link=self]
+
+[cols="a,a"]
+|====
+|Transliteration|Translation
+
+|
+[arabic,start="273"]
+. Emma Emilie Magarethe +
+geb. den 21. April 1892 getauft den 1. Mai 1892 +
+Eltern: 
+* Fr. Roth.
+* Therese get Büttner
+
++
+Pathen: Emilie Haugk & Emma Büttner +
+pass:[H. Schmidt]
 Familienrecht.
 . Klara Karoline Christine
 geb. 27. Mai 1872 geb. den 5. Juni 1892.
-Elt.: Fritz Thieme + Sophie geb. Krückeberg
-Christine Böhnke.
-Pathen: Caroline Krückeberg (Hellvertreter Frau Bütter)
-Stellvatreter für Sophie v. Thieme,
-W. Schmidt.
-. Laura Louise Marie
-geb. den 4. Juni 1892 get. den 12. juni 1872
-flt. Martin Blecke u. Emma geb. Holle
-Path. Frau Maria Blecke und Frau Louise Holle
-nicht zu lassen.
-. Bertha Karoline Marie
-gebr. den 8. Juli 92. geb. den 24. Juni 1892
-geb. Platz
-Ett. H. Pischoff u. Christine
-Kath. Frau Georg Renige in Frut. Bischof (Stolbert Nr. Henz
-A. Müse
-. Luise Sophie Wilhelmine.
-geb. den 19. August 1892. getauft den 28. Aug. 1892
-Eltern: H. Bleeke, u. Emilie, geb. Thieme
-puth. Sophie Pleeke v. Wilhelmine Thieme
-H. Schmied.
+Eltern:
+* Fritz Thieme
+* Sophie geb. Krückeberg
+
++
+Pathen: Caroline Krückeberg (Stllvertreter Frau Bütter) Christine Böhnke.
+(Stellvertreter für Sophie v. Thieme) +
+pass:[W. Schmidt.]
+. Laura Louise Marie +
+geb. den 4. Juni 1892 get. den 12. juni 1872 +
+Eltern:
+* Martin Bleeke
+* Emma geb. Holle
+
++
+Pathen: Frau Maria Blecke und Frau Louise Holle
+. Bertha Karoline Marie +
+geb. den 8. Juli 92. geb. den 24. Juni 1892 +
+Eltern:
+* H. Bischoff
+* Christine geb. Bleeke
+Pathen: Frauu Georg Rinige u. Frut. Bischoff (Stellvertreterolbert [M.?] Heuer +
+pass:[H. Schmidt]
+. Luise Sophie Wilhelmine +
+geb. den 19. August 1892. getauft den 28. Aug. 1892 +
+Eltern:
+* H. Bleeke
+* Emilie, geb. Thieme
+
++
+Pathen:. Sophie Pleeke u. Wilhelmine Thieme +
+pass:[H. Schmidt]
 Nr. 79
 . 
 flt: Fr. Krückeberg + Gunne geb. Widerweg
 12
+
+|
+|===

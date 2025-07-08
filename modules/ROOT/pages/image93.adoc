@@ -53,7 +53,7 @@ Eltern:
 * Mathilde geb. German
 
 +
-Pathen: Frau Maria German + Frau Karoline Weyland +
+Pathen: Frau Maria German & Frau Karoline Weyland +
 pass:[H. Schmidt]
 
 [arabic,start="268"]

@@ -1,6 +1,11 @@
+= Page 126, #268-272
+:page-role: doc-width
+
+image:93.jpg[link=self]
+
+[arabic,start="268"]
 .  Lucky Elise Emma +
-Erster Kind in Kirche +
-geb. den 19. Jan. 1892 get. den 24. Jan 1892  +
+geb. den 19. Jan. 1892 get. den 24. Jan 1892. Erstes Kind in der [neuen?] Kirche +
 Eltern:
 * W. Holle
 * Sophie geb. Bleeke.
@@ -8,11 +13,16 @@ Eltern:
 +
 Pathen: Colise Blecke & Frau Martin Bleeke. +
 H. Schmidt
-Walther Heinrich Friedrich
+. Walther Heinrich Friedrich
 geb. den 2. Febr. 1892 getauft den 7 Febr 1892
-Eltern: N. A. Thieme & Wilhelmusgeb. Knückeberg
-Path: H. Bleeke + F. Krückeberg
-Gr. Fahnndt.
+Eltern:
+* F. A. Thieme
+*  Wilhelmine sgeb. Knückeberg
+
++
+Pathen: H. Bleeke & F. Krückeberg +
+H. Schmidt
+
 geste, den 1. März 1892.
 Emilie Sophie Louise
 +

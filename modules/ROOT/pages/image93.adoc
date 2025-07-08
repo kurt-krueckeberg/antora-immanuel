@@ -5,14 +5,15 @@ image:93.jpg[link=self]
 
 [arabic,start="268"]
 .  Lucky Elise Emma +
-geb. den 19. Jan. 1892 get. den 24. Jan 1892. Erstes Kind in der [neuen?] Kirche +
+[`Louis Bl?????` geb. den 19. Jan. 1892 get. den 24. Jan 1892. Erstes Kind in der [neuen?] Kirche +
+ `Ft,W.`] 
 Eltern:
 * W. Holle
 * Sophie geb. Bleeke.
 
 +
 Pathen: Colise Blecke & Frau Martin Bleeke. +
-H. Schmidt
+pass:[H. Schmidt]
 . Walther Heinrich Friedrich
 geb. den 2. Febr. 1892 getauft den 7 Febr 1892
 Eltern:
@@ -21,24 +22,33 @@ Eltern:
 
 +
 Pathen: H. Bleeke & F. Krückeberg +
-H. Schmidt
+pass:[H. Schmidt]
 
 geste, den 1. März 1892.
-Emilie Sophie Louise
+. Emilie Sophie Louise +
+[`+3/1/92`] geb. den 22. Febr. 1892 get. den 28 Febr 1892 +
+Eltern:
+* Joh[ann] Ehrmann
+* Karoline geb. Blake
+
 +
-geb. den 22. Febr. 1892 get. den 28 Febr 1892
-Eltern: Joh. Ehrmann & Karolinegeh. Blake
-Pertf: Sophie Bleeke + Louise Gehrke,
-H. Schm ude
-Suette Sophie Karoline
-Febr. 1892.
-geb. den 15. Febr. 1892, get den 28.
-Eltern: Friedrich Koldewey + Emilie geb. Schamerlok
-Pathen: Frau L. Koldewey & Karoline Keyland (Frou Büttner)
-H. Schmidt.
-Pauline Marie Karoline
-geb. den 22. März. getauft den 27. Márz 1892
-Eltern: Hz. W. Schamerlok, + Mathilde geb. German
-Weyland
-säthen: Frau Maria German + Frau Karolin
-Hr. Schmidt
+Pathen: Sophie Bleeke & Louise Gehrke
+pass:[H. Schmidt]
+. [`Lawrence Limmemeier`] Luette Sophie Karoline +
+geb. den 15. Febr. 1892, get den 28. Febr. 1892. +
+Eltern:
+* Friedrich Koldewey
+* Emilie geb. Schamerloh
+
++
+Pathen: Frau L. Koldewey & Karoline Weyland (Frau Büttner) +
+pass:[H. Schmidt.]
+. [`Robt. Graves`] Pauline Marie Karoline +
+geb. den 22. März. getauft den 27. Márz 1892 +
+Eltern:
+* Hy. W. Schamerloh
+* Mathilde geb. German
+
++
+Pathen: Frau Maria German + Frau Karoline Weyland +
+pass:[H. Schmidt]

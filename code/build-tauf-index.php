@@ -1,4 +1,7 @@
 <?php
+/*
+ * Build Baptism index
+ */
 declare(strict_types=1);
 
 if ($argc != 2) {
@@ -69,14 +72,14 @@ Explanation:
 
 * The (?<!\S) ensures that the match isn't preceded by a non-space character.
 
-* [A-Z][a-zäöü]+ matches a single name.
+* [A-Z][a-zäöü]+ matches a single name that starts with a capital, non-umlauted letter.
 
-* (?: [A-Z][a-zäöü]+)* allows additional names, each preceded by a space.
+* (?:\s+[A-Z][a-zäöü]+)* allows additional names, each preceded by a whitespace.
 
-* The /u modifier enables proper handling of umlaut characters like ä, ö, and ü.
+* The /u modifier, unicode, enables proper handling of umlaut characters like ä, ö, and ü.
 
 */ 
-      $given_name_pattern = '/(?<!\S)([A-Z][a-zäöü]+(?: [A-Z][a-zäöü]+)*)/u';  // 'u' for Unicode support
+      $given_name_pattern = '/(?<!\S)([A-Z][a-zäöü\-]+(?:\s+[A-Z][a-zäöü\-]+)*)\b/u';  // 'u' for Unicode support
 
       preg_match($given_name_pattern, substr($line, 2), $m);  
 

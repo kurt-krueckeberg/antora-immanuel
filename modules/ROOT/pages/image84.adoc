@@ -1,11 +1,25 @@
-. Rudolf Heinrich Weyland +
-geb. d. 24. Juni 1887 in Uebr. P. Adamslo.d. art. 3. Juli 1889.
+= Page 117, #219-2??
+:page-role: doc-width
+
+image::84.jpg[link=self]
+
+[cols="1a,1a"]
+|===
+|Transliterate|Translate
+
+
+|
+[arabic,start="219"]
+. Rudolf Heinrich Weyland      [`+12/28/41`]
+geb. d. 24. Juni 1887 in Union T. Adams Co. I get. 3. Juli 1887
 Eltern:
-* E. Fr. Weyland
+* Fr. Weyland
 * Louise geborne: Schönstedt
-Pathen: Fr. Schönstedt, H. Heyland,
-H. Schmidt
-Mary Maudilie Buormann
+
++
+Pathen: Fr. Schönstedt, H. Weyland,
+pass:[H. Schmidt]
+. Mary Maudilie Buormann
 1887
 der u. 15. Juni 1877, vor den 8. Aug.
 Eltern. Alfred Buchman

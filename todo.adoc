@@ -1,0 +1,11 @@
+= TODO
+
+== Are Pages/Images Out of Order on imm.krueckeberg.org
+
+I believe I reordered the sequence of images at imm.krueckeberg.org because some of the non-ceremony images
+were out of order. They were not in sequential order apparently because they were filed out of order or the
+book itself had pages within a section out of order.
+
+I may not have put any of these out-of-order images on https://imm.krueckeberg.org.
+
+This mainly affects citations, whic hshould be a accurate as possible.

@@ -1,0 +1,11 @@
+= How to create Citations for This Source
+
+== General Citaiton
+
+Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CD set, privately held
+by Kurt Krückeberg, Fort Wayne, Indiana, 2025.
+
+== Specific Citations
+
+Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs, privately held by
+Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 137, baptism of [name], 1884.

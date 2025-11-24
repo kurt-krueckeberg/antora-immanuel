@@ -1,4 +1,3 @@
-//.xref:index.adoc[]
 .Immanuel Kirchenbuch
 * xref:cover-page.adoc[]
 * Kichenordnung +
@@ -24,10 +23,10 @@
 ** xref:image26.adoc[]
 ** xref:image27.adoc[]
 ** xref:image28.adoc[]
-** xref:bios/christian-dietrich-schamerloh.adoc[]
-** xref:bios/jacob-fridrich-höriger.adoc[]
 ** xref:bios/heinrich-jacob-rücklos.adoc[]
 ** xref:bios/heinrich-jacob-junior-rücklos.adoc[]
+** xref:image31.adoc[]
+** xref:bios/jacob-fridrich-höriger.adoc[]
 ** xref:bios/christian-wilhelm-fells.adoc[]
 ** xref:bios/abraham-stendler.adoc[]
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]

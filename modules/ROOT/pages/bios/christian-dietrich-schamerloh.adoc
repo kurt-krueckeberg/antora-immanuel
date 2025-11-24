@@ -1,8 +1,12 @@
 = Christian Dietrich Schamerloh
+:page-role: doc-width
 
-== Transliteration from old German script
+image::31.jpg[align="left",title="Christian Dietrich Schamerloh biography (Click to Enlarge)",link=self]
 
-//Download xref:attachment$christian-dietrich-schamerloh.jpg[original image of biography]
+== Biography
+
+[role="section-narrower"]
+=== Transliteration
 
 No. ?
 
@@ -39,7 +43,7 @@ Weiland.
 5. Caroline Sophie, geboren den 25. Februar, empfing die Nottaufe
 und starb zwei Tage darauf den 27. Februar 1865.
 
-== English Translation
+== Translation
 
 No. ? (3 or 13?)
 

@@ -42,13 +42,13 @@ Seine Kinder sind:
 [arabic,start=1]
 . Carl Heinrich, geb. den 27 April u. get. den 30 April 1818.
 Taufpathe: Fridrich Schwier, confirmiert am Sonnt. n. Ostern 1832; gest.
-den 25 März 1839. *[+]*
+den 25 März 1839. *[†]*
 
 . Christian Fridrich, geb. den 7 Mai und get. den 13 Mai 1821.
 Taufpathe: Carl Fridrich Bleeke, confirmiert am Sonnt. Judica 1835.
     
 . Carl Fridrich, geb. den 17 Juli u. get. den 20 Juli 1823.
-Taufpathe: Christian Fridrich Bleeke; gestorben den 11 Mai 1825. *[+]*
+Taufpathe: Christian Fridrich Bleeke; gestorben den 11 Mai 1825. *[†]*
     
 . Carl Fridrich Wilhelm, geb. den 30 November u. getauft den 4
 December 1825. Taufpathen: Fridrich Meier und Christ. Bleeke;
@@ -68,7 +68,7 @@ Jäbker in Adams Co., Ind.
     
 . Emilie, geb. den 11 März u. get. den [empty] 1837 in Cincinati
 (Cincinnati) O. Getauft von Past. Lauer. Pathen: Christine Bleeke,
-gestorben den 8 Sept. 1838, in ihrem Geburtsort Cincinati (Cincinnati). *[+]*
+gestorben den 8 Sept. 1838, in ihrem Geburtsort Cincinati (Cincinnati). *†[+]*
 
 [.narrow]
 == English Translation
@@ -103,14 +103,14 @@ His children are:
 
 . Carl Heinrich, born on 27 April, and baptized on 30 April 1818.
 Godfather: Fridrich Schwier; confirmed on Sunday after Easter,
-1832; died on 25 March 1839. *[+]*
+1832; died on 25 March 1839. *[†]*
 
 . xref:DEC-BIO-Bleeke-02.adoc[Christian Fridrich], born on the 7^th^ of May, and baptized on
 13 May 1821. Godfather: Carl Fridrich Bleeke, confirmed on Judica
 Sunday, 1835.
 
 . Carl Fridrich, born on 17 July, and baptized on 20 July 1823.
-Godfather: Christian Fridrich Bleeke; died on 11 May 1825. *[+]*
+Godfather: Christian Fridrich Bleeke; died on 11 May 1825. *[†]*
 
 . xref:DEC-BIO-Bleeke-03.adoc[Carl Fridrich Wilhelm],
 born on 30 November, and baptized on 4 December 1825. Godparents: Fridrich Meier
@@ -131,7 +131,9 @@ November 1833. Godparents: Louise Schwier and Marie Bleeke; confirmed
 . Emilie, born on 11 March, and baptized on [empty] 1837 in
 Cincinati (Cincinnati), Ohion. Baptized by Pastor Lauer. Godmother:
 Christine Bleeke; died 8 Sept. 1838, in her birth town of Cincinati
-(Cincinnati). *[+]*
+(Cincinnati). *[†]*
+
++--Indicate deceased
 
 [bibliography]
 == Citations

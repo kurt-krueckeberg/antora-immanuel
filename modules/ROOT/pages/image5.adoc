@@ -1,5 +1,5 @@
 = Page 7, Image 5 
-:page-role: doc-width
+:page-role: wide
 
 image::5.jpg[align="left",title="Articles 4, 5 and 6(Click to Enlarge)",link=self]
 

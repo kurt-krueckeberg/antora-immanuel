@@ -1,5 +1,5 @@
 = Carl Fridrich Wilhelm Bleeke
-:page-role: doc-width
+:page-role: wide
 
 image::23.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
 

@@ -1,5 +1,5 @@
 = Carl Dietrich Wilhelm Schamerloh
-:page-role: doc-width
+:page-role: wide
 
 image::26.jpg[align="left",title="Carl Dietrich Wilhelm Schamerloh biography (Click to Enlarge)",link=self]
 

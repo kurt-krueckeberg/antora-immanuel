@@ -1,5 +1,5 @@
 = Heinrich Wilhelm Weÿland
-:page-role: doc-width
+:page-role: wide
 
 image::21.jpg[align="left",title="Heinrich Wilhelm Weÿland Biography (Click to Enlarge)",link=self]
 

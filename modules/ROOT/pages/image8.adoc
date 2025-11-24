@@ -1,5 +1,5 @@
 = Page 10, Image 8
-:page-role: doc-width
+:page-role: wide
 
 image::8.jpg[align="left",title="5th page of Ordnung",link=self]
 

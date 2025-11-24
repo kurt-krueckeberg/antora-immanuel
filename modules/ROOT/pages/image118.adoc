@@ -1,5 +1,5 @@
 = Page 194
-:page-role: doc-width
+:page-role: wide
 
 image::118.jpg[link=self]
 

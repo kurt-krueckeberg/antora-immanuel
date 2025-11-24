@@ -1,5 +1,5 @@
 = Page 22, Image 11
-:page-role: doc-width
+:page-role: wide
  
 image::11.jpg[align="left",title="Final page of Ordnung (Click to Enlarge),link=self]
 

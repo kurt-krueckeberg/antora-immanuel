@@ -1,5 +1,5 @@
 = Page 96, #115-120
-:page-role: doc-width
+:page-role: wide
 
 image::65.jpg[link=self]
 

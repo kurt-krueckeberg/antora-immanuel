@@ -1,5 +1,5 @@
 =  Page 6, Image 4 
-:page-role: doc-width
+:page-role: wide
 
 image::4.jpg[align="left",title="Einleitung(Introduction)",link=self]
 

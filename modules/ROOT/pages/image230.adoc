@@ -1,5 +1,5 @@
 = Entries 8-14
-:page-role: doc-width
+:page-role: wide
 
 image::230.jpg[align=left,title='Image 230 (Click to enlarge)',link=self]
 

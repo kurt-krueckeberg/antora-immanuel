@@ -1,5 +1,5 @@
 = continuation of marriage register
-:page-role: doc-width
+:page-role: wide
 
 image::38.jpg[align="left",title="Click to Enlarge",link=self]
 

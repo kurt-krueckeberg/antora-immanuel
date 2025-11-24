@@ -1,5 +1,5 @@
 = Carl Heinrich Ludwig Koldeweÿ
-:page-role: doc-width
+:page-role: wide
 
 image::27.jpg[align="left",title="Carl Heinrich Ludwig Koldeweÿ biography (Click to Enlarge)",link=self]
 

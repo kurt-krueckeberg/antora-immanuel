@@ -1,5 +1,5 @@
 = Conrad Dietrich Ferdinand Reinking 
-:page-role: doc-width
+:page-role: wide
 
 image::20.jpg[align="left",title="Conrad Dietrich Ferdinand Reinking Biography (Click to Enlarge)",link=self]
 

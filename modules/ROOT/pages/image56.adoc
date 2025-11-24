@@ -1,5 +1,5 @@
 = Page 87, #61-66
-:page-role: doc-width
+:page-role: wide
 
 image::56.jpg[align="left",title="Page 87, image 56 (Click to enlarge)",link=self]
 

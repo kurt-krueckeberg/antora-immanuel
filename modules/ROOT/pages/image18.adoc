@@ -1,5 +1,5 @@
 = Johann Heinrich Krückeberg
-:page-role: doc-width
+:page-role: wide
 
 == Biography
 

@@ -1,5 +1,5 @@
 = Pastors of Immanuel Lutheran
-:page-role: doc-width
+:page-role: wide
 
 image::37.jpg[align="left",title="Pastors of Congregation (Click to Enlarge)",link=self]
 

@@ -2,13 +2,8 @@
 
 == Complete the Sigla-Based Rename of Founder Bios
 
-Theres are in pages/bios
+And add the citations. In them use the correct image number. Use `[.narrow]` CSS style.
 
-For the founder's bios: DEC-BIO-Surame/DEC-BIO-Surname-01
-
-For the church ceremonies: DEC-X-YYYYa
-
-Be sure to change the m/r/nav.adoc file, too. Keep same order as Immnauel tif repo.
 
 == Are Pages/Images Out of Order on imm.krueckeberg.org
 

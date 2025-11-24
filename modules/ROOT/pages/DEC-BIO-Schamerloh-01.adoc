@@ -1,12 +1,19 @@
 = Carl Dietrich Wilhelm Schamerloh
 :page-role: wide
 
+== Image
+
 image::26.jpg[align="left",title="Carl Dietrich Wilhelm Schamerloh biography (Click to Enlarge)",link=self]
 
-== Biography
+[.narrow]
+== Citation
 
-[role="section-narrower"]
-== Transliteration from old German script
+The biography of Carl Dietrich Wilhelm Schamerloh is <<DEC-BIO-Schamerloh-01, image 26>> of 242 from digital
+images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
+
+
+[.narrow]
+== Transliteration
 
 [NOTE]
 ====
@@ -14,8 +21,6 @@ A penciled-in addendum occurs before the list of children, evidently a reference
 to the first son and child, Carl Wilhelm, who was omitted from the biography.
 ====
 
-[role="literal-narrower"]
-....
 No. 9
 
 ehelicher Sohn des Colon Heinrich Christian Schamerloh und dessen
@@ -49,8 +54,8 @@ März 1865. Taufpathen: Heinrich Krückeberg und Wilhelm Weiland
 Oktober 1863. Pathen: Wilhelmine Weiland und Louise Heckmann
 ....
 
-[role="section-narrower"]
-== English Translation
+[.narrow]
+== Translation
 
 Nr. 9
 
@@ -88,3 +93,10 @@ Godparents: Heinrich Krückeberg and Wilhelm Weiland
 
 4. Sophie Wilhelmine, born on 20 October, baptized 31 October
 \1863. Godparents: Wilhelmine Weiland and Louise Heckmann
+
+
+[bibliography]
+== Citations
+
+* [[[DEC-BIO-Schamerloh-01]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 26 of 242.

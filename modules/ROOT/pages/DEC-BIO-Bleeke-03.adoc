@@ -12,7 +12,7 @@ The biography of Carl Fridrich Wilhelm Bleeke is <<PET-BIO-Bleeke-02, image 23>>
 digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
 [.narrow]
-== Transliteration from old German script
+== Transliteration
 
 No. 7
 
@@ -53,7 +53,7 @@ November 1865. Pathen: Louise Maria Eleonore Reinking und Henriette
 Schnellenberger.
 
 [.narrow]
-== English Translation
+== Translation
 
 No. 7
 

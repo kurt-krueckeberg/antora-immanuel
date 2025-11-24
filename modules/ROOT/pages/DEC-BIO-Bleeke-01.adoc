@@ -15,9 +15,7 @@ images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1
 
 == Transliteration from old German script
 
-[role="literal-narrower"]
-....
-                                                                        page 31
+page 31
 
 No. 1
 
@@ -42,14 +40,14 @@ jetzige ev. luth. Imanuels Gemeinde sich bildete, unter Gottes Beistand.
 
 Seine Kinder sind:
 
-[+] 1. Carl Heinrich, geb. den 27 April u. get. den 30 April 1818.
+`[+]` 1. Carl Heinrich, geb. den 27 April u. get. den 30 April 1818.
       Taufpathe: Fridrich Schwier, confirmiert am Sonnt. n. Ostern 1832; gest.
       den 25 März 1839.
     
     2. Christian Fridrich, geb. den 7 Mai und get. den 13 Mai 1821.
       Taufpathe: Carl Fridrich Bleeke, confirmiert am Sonnt. Judica 1835.
     
-[+] 3. Carl Fridrich, geb. den 17 Juli u. get. den 20 Juli 1823.
+`[+]` 3. Carl Fridrich, geb. den 17 Juli u. get. den 20 Juli 1823.
     Taufpathe: Christian Fridrich Bleeke; gestorben den 11 Mai 1825.
     
     4. Carl Fridrich Wilhelm, geb. den 30 November u. getauft den 4
@@ -68,10 +66,9 @@ Seine Kinder sind:
     Pathen: Louise Schwier und Marie Bleeke; conf. 1848 von Past.
     Jäbker in Adams Co., Ind.
     
-[+] 8. Emilie, geb. den 11 März u. get. den [empty] 1837 in Cincinati
+`[+]` 8. Emilie, geb. den 11 März u. get. den [empty] 1837 in Cincinati
     (Cincinnati) O. Getauft von Past. Lauer. Pathen: Christine Bleeke,
     gestorben den 8 Sept. 1838, in ihrem Geburtsort Cincinati (Cincinnati).
-....
 
 [.narrow]
 == English Translation

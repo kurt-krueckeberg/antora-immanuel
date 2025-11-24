@@ -8,7 +8,7 @@ image::23.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)"
 [.narrow]
 == Citation
 
-The biography of Carl Fridrich Wilhelm Bleeke is <<PET-BIO-Bleeke-02, image 23>> of 242 from the
+The biography of Carl Fridrich Wilhelm Bleeke is <<DEC-BIO-Bleeke-02, image 23>> of 242 from the
 digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
 [.narrow]
@@ -101,5 +101,5 @@ Schnellenberger.
 [bibliography]
 == Citations
 
-* [[[PET-BIO-Bleeke-01]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+* [[[DEC-BIO-Bleeke-01]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
 privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 23 of 242.

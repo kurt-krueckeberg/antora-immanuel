@@ -28,7 +28,7 @@
 ** xref:DEC-BIO-Schamerloh-02.adoc[]
 ** xref:bios/jacob-fridrich-höriger.adoc[]
 ** xref:bios/christian-wilhelm-fells.adoc[]
-** xref:bios/abraham-stendler.adoc[]
+** xref:DEC-BIO-Stendler.adoc[]
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
 ** xref:bios/david-bibelheimer.adoc[]
 * xref:image37.adoc[]

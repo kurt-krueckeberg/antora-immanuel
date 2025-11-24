@@ -1,7 +1,12 @@
 = Carl Fridrich Wilhelm Bleeke
 :page-role: wide
 
+== Image and Citation
+
 image::23.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
+
+The biography of Carl Fridrich Wilhelm Bleeke is <<PET-BIO-Bleeke-02, image 23>> of 242 from the
+digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
 == Transliteration from old German script
 
@@ -86,3 +91,10 @@ Carl Heckmann.
 7. Henriette Helene, born on 29 October, and baptized on 12
 November 1865. Godparents: Louise Maria Eleonore Reinking and Henriette
 Schnellenberger.
+
+
+[bibliography]
+== Citations
+
+* [[[PET-BIO-Bleeke-01]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 23 of 242.

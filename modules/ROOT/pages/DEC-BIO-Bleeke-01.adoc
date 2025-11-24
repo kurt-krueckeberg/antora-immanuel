@@ -1,9 +1,14 @@
 = Johann Heinrich Philipp Bleeke
 :page-role: wide
 
-== Biography
+== Image and Citation
 
 image::17.jpg[align="left",title="Johann Heinrich Philipp Bleeke bio(Click to Enlarge",link=self]
+
+The biography of Johann Heinrich Philipp Bleeke is <<PET-BIO-Bleeke-01, image 17>> of 242 from digital
+images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
+
+== Biography
 
 == Transliteration from old German script
 
@@ -127,3 +132,9 @@ November 1833. Godparents: Louise Schwier and Marie Bleeke; confirmed
 Cincinati (Cincinnati), Ohion. Baptized by Pastor Lauer. Godmother:
 Christine Bleeke; died 8 Sept. 1838, in her birth town of Cincinati
 (Cincinnati).
+
+[bibliography]
+== Citations
+
+* [[[PET-BIO-Bleeke-01]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 17 of 242.

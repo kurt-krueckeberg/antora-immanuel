@@ -1,7 +1,12 @@
 = Christian Fridrich Bleeke
 :page-role: wide
 
+== Image and Citation
+
 image::25.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
+
+The biography of Christian Fridrich Bleeke is <<PET-BIO-Bleeke-03, image 25>> of 242 from the
+digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
 == Transliteration from old German script
 
@@ -94,3 +99,11 @@ Godparents: C. Friedrich Wilhelm Bleeke and Ferdinand Reinking.
 
 5. Johannes Martin, born 27 July, and baptized 13 September 1865.
 Godparents: Wilhelm Fells and Wilhelm Heckmann.
+
+
+[bibliography]
+== Citations
+
+* [[[PET-BIO-Bleeke-01]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 25 of 242.
+

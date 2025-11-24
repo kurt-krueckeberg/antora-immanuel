@@ -1,9 +1,12 @@
 = Christian Fridrich Bleeke
 :page-role: wide
 
-== Image and Citation
+== Image 
 
 image::25.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
+
+[.narrow]
+== Citation
 
 The biography of Christian Fridrich Bleeke is <<PET-BIO-Bleeke-03, image 25>> of 242 from the
 digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.

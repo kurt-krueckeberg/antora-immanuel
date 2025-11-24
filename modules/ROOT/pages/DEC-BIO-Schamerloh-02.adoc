@@ -4,9 +4,14 @@
 image::31.jpg[align="left",title="Christian Dietrich Schamerloh biography (Click to Enlarge)",link=self]
 
 [.narrow]
-== Biography
+== Citation
 
-=== Transliteration
+The biography of Christian Dietrich Schamerloh is <<DEC-BIO-Schamerloh-02, image 31>> of 242 from digital
+images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
+
+
+[.narrow]
+== Transliteration
 
 No. ?
 
@@ -43,7 +48,8 @@ Weiland.
 5. Caroline Sophie, geboren den 25. Februar, empfing die Nottaufe
 und starb zwei Tage darauf den 27. Februar 1865.
 
-=== Translation
+[.narrow]
+== Translation
 
 No. ? (3 or 13?)
 
@@ -82,3 +88,10 @@ October 1863. Godparents: Heinrich Krückeberg and Wilhelm Weiland.
 
 5. Caroline Sophie, born 25 February, received emergency baptism,
 and died 2 days later on the 27^th^ of February 1865.
+
+
+[bibliography]
+== Citations
+
+* [[[DEC-BIO-Schamerloh-02]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 31 of 242.

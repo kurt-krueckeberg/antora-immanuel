@@ -1,5 +1,13 @@
 = TODO
 
+== Introduce Sigla-Base Naming Conventions
+
+For the founder's bios:
+DEC-BIO-Surame/DEC-BIO-Surname-01
+
+For the church ceremonies:
+DEC-X-YYYYa
+
 == Are Pages/Images Out of Order on imm.krueckeberg.org
 
 I believe I reordered the sequence of images at imm.krueckeberg.org because some of the non-ceremony images

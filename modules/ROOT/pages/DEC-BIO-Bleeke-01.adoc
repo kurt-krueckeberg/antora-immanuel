@@ -44,13 +44,13 @@ Seine Kinder sind:
 Taufpathe: Fridrich Schwier, confirmiert am Sonnt. n. Ostern 1832; gest.
 den 25 März 1839. *[†]*
 
-. Christian Fridrich, geb. den 7 Mai und get. den 13 Mai 1821.
+. xref:DEC-BIO-Bleeke-02.adoc[Christian Fridrich], geb. den 7 Mai und get. den 13 Mai 1821.
 Taufpathe: Carl Fridrich Bleeke, confirmiert am Sonnt. Judica 1835.
     
 . Carl Fridrich, geb. den 17 Juli u. get. den 20 Juli 1823.
 Taufpathe: Christian Fridrich Bleeke; gestorben den 11 Mai 1825. *[†]*
     
-. Carl Fridrich Wilhelm, geb. den 30 November u. getauft den 4
+. xref:DEC-BIO-Bleeke-03.adoc[Carl Fridrich Wilhelm], geb. den 30 November u. getauft den 4
 December 1825. Taufpathen: Fridrich Meier und Christ. Bleeke;
 confirmiert um Ostern 1840 on Past. Möllmann in Cincinati.
 

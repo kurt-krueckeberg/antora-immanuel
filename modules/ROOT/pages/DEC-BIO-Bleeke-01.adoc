@@ -108,14 +108,14 @@ His children are:
 Godfather: Fridrich Schwier; confirmed on Sunday after Easter,
 1832; died on 25 March 1839.
 
-. xref:./image25.adoc[Christian Fridrich], born on the 7^th^ of May, and baptized on
+. xref:DEC-BIO-Bleeke-02.adoc[Christian Fridrich], born on the 7^th^ of May, and baptized on
 13 May 1821. Godfather: Carl Fridrich Bleeke, confirmed on Judica
 Sunday, 1835.
 
 . Carl Fridrich, born on 17 July, and baptized on 20 July 1823.
 Godfather: Christian Fridrich Bleeke; died on 11 May 1825.
 
-. xref:./image23.adoc[Carl Fridrich Wilhelm],
+. xref:DEC-BIO-Bleeke-03.adoc[Carl Fridrich Wilhelm],
 born on 30 November, and baptized on 4 December 1825. Godparents: Fridrich Meier
 and Christ. Bleeke; confirmed on Easter 1840 by Pastor Möllmann in Cincinnati.
 

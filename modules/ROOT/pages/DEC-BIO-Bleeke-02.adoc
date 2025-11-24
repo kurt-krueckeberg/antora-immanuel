@@ -11,16 +11,17 @@ image::23.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)"
 The biography of Carl Fridrich Wilhelm Bleeke is <<PET-BIO-Bleeke-02, image 23>> of 242 from the
 digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
+[.narrow]
 == Transliteration from old German script
 
 No. 7
 
-dritter Sohn von xref:./image17.adoc[Johann Heinrich Philipp Bleeke] und Christine Marie geb.
-Schwier, geb. den 30. November und getauft den 4. Dezember 1825 (siehe
-Seite 31, Kind No.4). Er verheiratete sich hierselbst mit Maria
-Bibelheimer, eine Tochter von David Daniel Bibelheimer und Maria geb.
-Zähner, geboren in Wespen Tow. (West Penn?) Shulkil (Schuylkill) Co. Pa.
-den 12. Dezember 1833, getauft den 1. January 1834. Taufpathen: David
+dritter Sohn von xref:./image17.adoc[Johann Heinrich Philipp Bleeke] und
+Christine Marie geb.  Schwier, geb. den 30. November und getauft den 4.
+Dezember 1825 (siehe Seite 31, Kind No.4). Er verheiratete sich hierselbst
+mit Maria Bibelheimer, eine Tochter von David Daniel Bibelheimer und Maria
+geb. Zähner, geboren in Wespen Tow. (West Penn?) Shulkil (Schuylkill) Co.
+Pa. den 12. Dezember 1833, getauft den 1. January 1834. Taufpathen: David
 Werdmann und dessen Frau Catharina. Confirmiert von Pastor Fritze den 28
 Juli 1852, copuliert von demselben den 26. Dezember 1853.
 
@@ -51,21 +52,22 @@ Heckmann.
 November 1865. Pathen: Louise Maria Eleonore Reinking und Henriette
 Schnellenberger.
 
+[.narrow]
 == English Translation
 
 No. 7
 
 Carl Fridrich Wilhelm Bleeke
 
-Third son of xref:./image17.adoc[Johann Heinrich Philipp Bleeke] and Christine Marie neé
-Schwier. He was born on the 30^th^ of November and baptized on December
-4^th^ 1825 (see page 31, child No.4). He married here Maria Bibelheimer,
-a daughter of David Daniel Bibelheimer and Maria neé Zähner. She was
-born in Wespen Township (West Penn?) Shulkil (Schuylkill) County, PA, on
-December 12^th^ 1833, and baptized on January 1^st^ 1834. Godparents:
-David Werdmann and his wife Catharina. She was confirmed by Pastor
-Fritze on July 28^th^ 1852, and married by the same on December 26^th^
-1853.
+Third son of xref:./image17.adoc[Johann Heinrich Philipp Bleeke] and
+Christine Marie neé Schwier. He was born on the 30^th^ of November and
+baptized on December 4^th^ 1825 (see page 31, child No.4). He married here
+Maria Bibelheimer, a daughter of David Daniel Bibelheimer and Maria neé
+Zähner. She was born in Wespen Township (West Penn?) Shulkil (Schuylkill)
+County, PA, on December 12^th^ 1833, and baptized on January 1^st^ 1834.
+Godparents: David Werdmann and his wife Catharina. She was confirmed by
+Pastor Fritze on July 28^th^ 1852, and married by the same on December
+26^th^ 1853.
 
 Children from this marriage are:
 

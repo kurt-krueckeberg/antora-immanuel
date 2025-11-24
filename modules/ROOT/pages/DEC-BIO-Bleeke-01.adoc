@@ -73,7 +73,7 @@ Seine Kinder sind:
     gestorben den 8 Sept. 1838, in ihrem Geburtsort Cincinati (Cincinnati).
 ....
 
-[role="section-narrower"]
+[.narrow]
 == English Translation
 
 page 32 (or 31)

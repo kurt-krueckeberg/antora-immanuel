@@ -1,105 +1,115 @@
-= Carl Fridrich Wilhelm Bleeke
+= Christian Fridrich Bleeke
 :page-role: wide
 
-== Image
+== Image 
 
-image::23.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
+image::25.jpg[align=left,title="Carl Fridrich Wilhelm Bleeke (Click to Enlarge)",link=self]
 
 [.narrow]
 == Citation
 
-The biography of Carl Fridrich Wilhelm Bleeke is <<PET-BIO-Bleeke-02, image 23>> of 242 from the
+The biography of Christian Fridrich Bleeke is <<PET-BIO-Bleeke-03, image 25>> of 242 from the
 digital images of the  Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
 [.narrow]
 == Transliteration from old German script
 
-No. 7
+No. 10
 
-dritter Sohn von xref:./image17.adoc[Johann Heinrich Philipp Bleeke] und
-Christine Marie geb.  Schwier, geb. den 30. November und getauft den 4.
-Dezember 1825 (siehe Seite 31, Kind No.4). Er verheiratete sich hierselbst
-mit Maria Bibelheimer, eine Tochter von David Daniel Bibelheimer und Maria
-geb. Zähner, geboren in Wespen Tow. (West Penn?) Shulkil (Schuylkill) Co.
-Pa. den 12. Dezember 1833, getauft den 1. January 1834. Taufpathen: David
-Werdmann und dessen Frau Catharina. Confirmiert von Pastor Fritze den 28
-Juli 1852, copuliert von demselben den 26. Dezember 1853.
+zweiter Sohn von xref:./image17.adoc[Johann Heinrich Philipp Bleeke] und
+Christine Marie neé Schwier, geb. den 7. Mai und get. den 13. Mai 1821
+(siehe Seite 31, Kind No.2). Er verheiratete sich den 9. August 1849 mit
+Jungfrau Louise Valsing, eine Tochter von Friderich Valsing und seiner
+Ehefrau Louise geb. (in pencil: Kleinschmidt Friedheim) den 28. Juni 1833,
+und get. den [empty] August 1833. Geb. in Loh (now: Am Loh) Kreis Minden,
+Königreich Preussen.
 
 Kinder dieser Ehe sind:
 
-1. Friedrich Wilhelm, geb. den 13. April u. get. den 29. April 1855.
-Pathen: Johann Heinrich Bleeke, Christian Fridrich Bleeke und
-Wilhelm Heckmann.
+1. Marie Louise, geb. den 14. November u. get. den 8.Dezember 1850.
+Pathen: Wilhelmine Zwick und Sophie Heckmann.
 
-2. Maria Christine Caroline, geb. den 4. Dezember u. get. den 7.
-Dezember 1856. Pathen: Maria Louise Eleoenore Reinking und Caroline
-Scheumann. gest. den 18. Oktober 1857.
+2. Sophie Louise, geb. den 27. März und get. den 28. März 1853.
+Pathen: Christine Bleeke, Christine E. Bleeke und Louise Valsing.
 
-3. Maria Louise, geb. den 4. März u. get. den 28. März 1858.
-Pathen: Maria Bibelheimer und Sophie Heckmann.
+3. Johann Heinrich, geb. den 17. Februar u. get. den 25. Februar 1855.
+Pathen: Johann Heinrich Bleeke und Friedrich Valsing.
 
-4. Caroline Elisabeth, geb. den 1. November u. get. den 20.
-November 1859. Pathen: Elisabeth Bibelheimer und Maria Bleeke
+Im Jahre darauf ging die Mutter dieser Kinder nach kurzem Leiden am
+Nervenfieber ein zu ihres Herrn Freude. Ihm Jahre 1858 den 8 April
+verheirathete genannter Chr. Fr. Bleeke sich zum andern Male mit
+Jungfrau: Anna Maria Rup, eine Tochter von Rup und [empty] geb. den 11.
+Sept. 1833 u. get. [empty], ( note in pencil: died 26 Nov. 1989), in
+[empty] Co, Ohio confirmiert.
 
-5. Christine Emilie, geb. den 8. September u. get. den 29
-September 1861. Pathen: Christine Maria Heckmann und Caroline Scheumann.
+1. Christine Elise, geb. den 1. Februar u. get. den 27 Februar 1859.
+Pathen: Elisabeth Rup u. Christine Heckmann, gest. den 6 April 1861
 
-6. Christian Eduard, geb. den 5. November und get. den 29. Nov. 1863.
-Pathen: Chr. Fridrich Bleeke, David Daniel Bibelheimer und Carl
-Heckmann.
+2. Maria Elise, geb. den 23 Juni u. get. den 8 Juli 1860. Pathen:
+Maria Reinking und Sahra Rup.
 
-7. Henriette Helene, geb. den 29. Oktober und getauft den 12.
-November 1865. Pathen: Louise Maria Eleonore Reinking und Henriette
-Schnellenberger.
+3. Carl Friedrich, geb. den 1 Oktober u. get. den 9 Oktober 1863.
+Pathen: Carl Zwick und Carl Heckmann.
+
+4. Friedrich Wilhelm, geb. den 2 Oktober u. get. den 9 Oktober
+1863\. Pathen: C. Friedrich Wilhelm Bleeke und Ferdinand Reinking.
+
+5. Johannes Martin, geb. den 27 Juli u. get. den 13 September
+1865\. Pathen: Wilhelm Fells und Wilhelm Heckmann.
 
 [.narrow]
 == English Translation
 
-No. 7
+No. 10
 
-Carl Fridrich Wilhelm Bleeke
+Christian Fridrich Bleeke
 
-Third son of xref:./image17.adoc[Johann Heinrich Philipp Bleeke] and
-Christine Marie neé Schwier. He was born on the 30^th^ of November and
-baptized on December 4^th^ 1825 (see page 31, child No.4). He married here
-Maria Bibelheimer, a daughter of David Daniel Bibelheimer and Maria neé
-Zähner. She was born in Wespen Township (West Penn?) Shulkil (Schuylkill)
-County, PA, on December 12^th^ 1833, and baptized on January 1^st^ 1834.
-Godparents: David Werdmann and his wife Catharina. She was confirmed by
-Pastor Fritze on July 28^th^ 1852, and married by the same on December
-26^th^ 1853.
+2^nd^ son of xref:./image17.adoc[Johann Heinrich Philipp Bleeke] and
+Christine Marie neé Schwier, born on 7 May and baptized on 13 May 1821
+(see page 31, child No.2). He married 9 August 1849 the maiden Louise
+Valsing, a daughter of Friderich Valsing and his wife Louise neé (in
+pencil: Kleinschmidt Friedheim), who was born 28 June 1833, and baptized
+[empty] August 1833. She was born in Loh (now: Am Loh) county of Minden,
+Kingdom of Prussia.
 
 Children from this marriage are:
 
-1. Friedrich Wilhelm, born on 13 April, and baptized on 29 April 1855.
-Godparents: Johann Heinrich Bleeke, Christian Fridrich Bleeke, and
-Wilhelm Heckmann.
+1. Marie Louise, born 14 November, and baptized 8 December 1850.
+Godparents: Wilhelmine Zwick and Sophie Heckmann.
 
-2. Maria Christine Caroline, born on 4 December, and baptized on
-7 December 1856. Godparents: Maria Louise Eleoenore Reinking and
-Caroline Scheumann. She died on 18 October 1857.
+2. Sophie Louise, born 27 March and baptized 28 March 1853.
+Godparents: Christine Bleeke, Christine E. Bleeke, and Louise Valsing.
 
-3. Maria Louise, born on 4 March, and baptized on 28 March 1858.
-Godparents: Maria Bibelheimer and Sophie Heckmann.
+3. Johann Heinrich, born 17 February, and baptized 25 February 1855.
+Godparents: Johann Heinrich Bleeke and Friedrich Valsing.
 
-4. Caroline Elisabeth, born on 1 November, and baptized on 20
-November 1859. Godparents: Elisabeth Bibelheimer and Maria Bleeke
+In the following year, after a short period of suffering from nervous
+fever (usually typhoid fever), the mother of these children went home to
+her Lord and was joyfully received by Him. On April 8, 1858, the above
+mentioned Chr. Fr. Bleeke married again. He married the maiden Anna Maria
+Rup, a daughter of [empty] Rup and [empty]. She was born 11 September
+1833, and baptized [empty], in [empty] County, Ohio, and confirmed
+[empty]. (note in pencil: died 26 Nov. 1889),
 
-5. Christine Emilie, born on 8 September, and baptized on 29
-September 1861. Godparents: Christine Maria Heckmann and Caroline
-Scheumann.
+1. Christine Elise, born 1 February, and baptized 27 February 1859.
+Godparents: Elisabeth Rup and Christine Heckmann; died 6 April 1861.
 
-6. Christian Eduard, born on 5 November, and baptized on 29 Nov. 1863.
-Godparents: Chr. Fridrich Bleeke, David Daniel Bibelheimer, and
-Carl Heckmann.
+2. Maria Elise, born 23 June, and baptized 8 July 1860.
+Godparents: Maria Reinking and Sahra Rup.
 
-7. Henriette Helene, born on 29 October, and baptized on 12
-November 1865. Godparents: Louise Maria Eleonore Reinking and Henriette
-Schnellenberger.
+3. Carl Friedrich, born 1 October, and baptized 9 October 1863.
+Godparents: Carl Zwick and Carl Heckmann.
+
+4. Friedrich Wilhelm, born 2 October, and baptized 9 October 1863.
+Godparents: C. Friedrich Wilhelm Bleeke and Ferdinand Reinking.
+
+5. Johannes Martin, born 27 July, and baptized 13 September 1865.
+Godparents: Wilhelm Fells and Wilhelm Heckmann.
 
 
 [bibliography]
 == Citations
 
 * [[[PET-BIO-Bleeke-01]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
-privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 23 of 242.
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 25 of 242.
+

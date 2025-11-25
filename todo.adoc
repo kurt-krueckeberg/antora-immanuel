@@ -1,9 +1,6 @@
 = TODO
 
-== Complete the Sigla-Based Rename of Founder Bios
-
-And add the citations. In them use the correct image number. Use `[.narrow]` CSS style.
-
+== Remove Compile Warning and Errors
 
 == Are Pages/Images Out of Order on imm.krueckeberg.org
 

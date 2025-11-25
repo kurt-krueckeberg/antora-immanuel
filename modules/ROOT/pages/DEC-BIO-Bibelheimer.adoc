@@ -1,8 +1,6 @@
 = David Bibelheimer
 
-== Transliteration from old German script
-
-//Download xref:attachment$20-david-bibelheimer.jpg[original scanned image of biogrphay]
+== Transliteration
 
 page 50
 
@@ -42,7 +40,7 @@ von Past. Fritze im Juli 1865.
 9. Isabella, geboren den 21 Februar und getauft den 1 März 1851.
 Pathen: Louise Bleeke und Maria Bleeke.
 
-== English Translation
+== Translation
 
 David Bibelheimer
 

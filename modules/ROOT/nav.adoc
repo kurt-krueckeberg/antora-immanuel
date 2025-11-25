@@ -30,7 +30,7 @@
 ** xref:bios/christian-wilhelm-fells.adoc[]
 ** xref:DEC-BIO-Stendler.adoc[]
 ** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
-** xref:bios/david-bibelheimer.adoc[]
+** xref:DEC-BIO-Bibelheimer.adoc[]
 * xref:image37.adoc[]
 * xref:image38.adoc[]
 * Taufregister +

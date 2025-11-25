@@ -29,7 +29,7 @@
 ** xref:bios/jacob-fridrich-höriger.adoc[]
 ** xref:DEC-BIO-Fells.adoc[]
 ** xref:DEC-BIO-Stendler.adoc[]
-** xref:bios/georg-conrad-wilhelm-reinking.adoc[Georg Conrad W. Reinking]
+** xref:DEC-BIO-Reinking-02.adoc[]
 ** xref:DEC-BIO-Bibelheimer.adoc[]
 * xref:image37.adoc[]
 * xref:image38.adoc[]

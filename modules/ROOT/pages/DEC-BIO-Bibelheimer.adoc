@@ -3,7 +3,7 @@
 
 == Image 
 
-image::36.jpg[align="left",title="Johann Heinrich Philipp Bleeke bio(Click to Enlarge",link=self]
+image::36.jpg[align="left",title="David Bibelheimer bio(Click to Enlarge",link=self]
 
 [.narrow]
 == Citation

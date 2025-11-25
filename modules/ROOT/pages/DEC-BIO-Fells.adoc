@@ -1,0 +1,22 @@
+= Christain Wilhelm Fells
+:page-role: wide
+
+== Image 
+
+image::33.jpg[align="left",title="Johann Heinrich Philipp Bleeke bio(Click to Enlarge",link=self]
+
+[.narrow]
+== Citation
+
+The biography of Johann Heinrich Philipp Bleeke is <<DEC-BIO-Fells, image 33>> of 242 from digital
+images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
+
+== Transliteration
+
+The page has no other text whatsoever.
+
+[bibliography]
+== Citations
+
+* [[[DEC-BIO-Fells]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 33 of 242.

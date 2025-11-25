@@ -1,8 +1,19 @@
-= Georg Conrad Wilhelm Reinking 
+= Georg Conrad Wilhelm Reinking
+:page-role: wide
 
-== Transliteration from old German script
+== Image
 
-//Download xref:attachment$georg-conrad-wilhelm-reinking.jpg[original image of biography]
+image::35.jpg[align="left",title="Georg Conrad Wilhelm Reinking Biography (Click to Enlarge)",link=self]
+
+[.narrow]
+== Citation
+
+The biography of Georg Conrad Wilhelm Reinking is <<DEC-BIO-Reinking-02, image 35>> of 242 from digital
+images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
+
+[.narrow]
+== Transliteration
+
 No.19
 
 Sohn von Johann Friedrich Conrad Reinking und Maria Elisabeth geb.
@@ -46,7 +57,8 @@ am Leben sind, hatten genannte Eheleute noch 1 Sohn und 4 Töchter, von
 welchen der erste und drei Töchter schon in Deutschland gestorben sind.
 Eine Tochter aber in St. Louis, Mo.
 
-== English Translation
+[.narrow]
+== Translation
 
 No.19
 
@@ -94,3 +106,9 @@ Besides the five children that are listed above and that are all still
 alive, the above mentioned married couple had 1 more son and 4 more
 daughters. Of these, the son and three of the daughters died in Germany
 while the 4^th^ daughter died in St. Louis, Mo.
+
+[bibliography]
+== Citations
+
+* [[[DEC-BIO-Reinking-02]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 35 of 242.

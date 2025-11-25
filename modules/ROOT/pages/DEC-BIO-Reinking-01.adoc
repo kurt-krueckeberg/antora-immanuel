@@ -1,18 +1,16 @@
 = Conrad Dietrich Ferdinand Reinking 
 :page-role: wide
 
+== Image
+
 image::20.jpg[align="left",title="Conrad Dietrich Ferdinand Reinking Biography (Click to Enlarge)",link=self]
 
+[.narrow]
 == Transliteration from old German script
 
-[role="literal-narrower"]
-....
-34
+No. 4
 
-
-                
-                                                                           No. 4
-                     Condrad Dietrich Ferdinand Reinking [+] 
+Condrad Dietrich Ferdinand Reinking [+] 
 
 Sohn von Georg Wilhelm Reinking und Maria Lousie Trachtmann (could be,
 but it was written over, letters in blue are confirmed), geboren in
@@ -55,10 +53,10 @@ den 25. Januar 1863. Pathen: Caroline Strote und Elisabeth Bibelheimer.
 7. Maria Sophia Helena, geb. den 12. September und getauft den
 25\. September 1864. Pathen: Bernhardine Koldeweÿ (will become Koldewei
 or Koldewey), und Maria Carolina Bleeke.
-....
 
-[role="section-narrower"]
-== English Translation
+
+[.narrow]
+== Translation
 
 No. 4
 
@@ -104,3 +102,9 @@ January 1863. Godparents: Caroline Grote and Elisabeth Bibelheimer.
 7. Maria Sophia Helena, born 12 September, and baptized 25
 September 1864. Godparents: Bernhardine Koldeweÿ (will become Koldewei
 or Koldewey), and Maria Carolina Bleeke.
+
+[bibliography]
+== Citations
+
+* [[[DEC-BIO-Reinking-02]]] Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905; digital images on DVD/CDs,
+privately held by Kurt Krückeberg, Fort Wayne, Indiana, 2025; image 20 of 242.

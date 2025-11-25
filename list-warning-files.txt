@@ -1,0 +1,16 @@
+/home/kurt/antora-immanuel/modules/ROOT/pages/DEC-BIO-Schamerloh-01.adoc
+/home/kurt/antora-immanuel/modules/ROOT/pages/exported/image116.adoc
+/home/kurt/antora-immanuel/modules/ROOT/pages/image84.adoc
+/home/kurt/antora-immanuel/modules/ROOT/pages/image95.adoc
+/home/kurt/antora-immanuel/modules/ROOT/pages/image96.adoc
+/home/kurt/antora-immanuel/modules/ROOT/pages/image97.adoc
+/home/kurt/antora-immanuel/modules/ROOT/pages/image98.adoc
+/home/kurt/antora-immanuel/modules/ROOT/pages/image99.adoc
+/home/kurt/antora-immanuel/modules/r/pages/DEC-BIO-Schamerloh-01.adoc
+/home/kurt/antora-immanuel/modules/r/pages/exported/image116.adoc
+/home/kurt/antora-immanuel/modules/r/pages/image84.adoc
+/home/kurt/antora-immanuel/modules/r/pages/image95.adoc
+/home/kurt/antora-immanuel/modules/r/pages/image96.adoc
+/home/kurt/antora-immanuel/modules/r/pages/image97.adoc
+/home/kurt/antora-immanuel/modules/r/pages/image98.adoc
+/home/kurt/antora-immanuel/modules/r/pages/image99.adoc

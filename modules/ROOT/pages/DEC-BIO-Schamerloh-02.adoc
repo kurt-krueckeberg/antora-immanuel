@@ -1,4 +1,4 @@
-= Christian Dietrich Schamerloh
+= Christian Dietrich Schamerloh Biography
 :page-role: wide
 
 image::31.jpg[align="left",title="Christian Dietrich Schamerloh biography (Click to Enlarge)",link=self]

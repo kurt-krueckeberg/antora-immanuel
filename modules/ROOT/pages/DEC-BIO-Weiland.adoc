@@ -1,4 +1,4 @@
-= Heinrich Wilhelm Weÿland
+= Heinrich Wilhelm Weÿland Biography
 :page-role: wide
 
 image::21.jpg[align="left",title="Heinrich Wilhelm Weÿland Biography (Click to Enlarge)",link=self]

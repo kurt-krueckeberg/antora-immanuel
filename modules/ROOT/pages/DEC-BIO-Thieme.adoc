@@ -1,4 +1,4 @@
-= Johann Andreas Thieme
+= Johann Andreas Thieme Biography
 :page-role: wide
 
 image::22.jpg[align="left",title="Johann Andreas Thieme Biography (Click to Enlarge)",link=self]

@@ -1,4 +1,4 @@
-= Johann Heinrich Wilhelm Carl Grote
+= Johann Heinrich Wilhelm Carl Grote Biography
 :page-role: wide
 
 image::19.jpg[align="left",title="Grote Biography (Click to Enlarge)",link=self]

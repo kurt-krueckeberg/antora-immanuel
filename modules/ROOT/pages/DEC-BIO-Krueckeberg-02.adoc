@@ -3,9 +3,9 @@
 
 image::24.jpg[align="left",title="Carl Heinrich Wilhelm Krückeberg biography (Click to Enlarge)",link=self]
 
-== Transliteration from old German script
+[.narrow]
+== Transliteration
 
-[role="literal-narrow"]
 ....
 No. ?
 
@@ -37,8 +37,8 @@ den 17 Juli d.J. Pathen: Caroline Schamerloh und Emma Belz
 * [blank space]
 ....
 
-[role="section-narrow"]
-== English Translation
+[.narrow]
+== Translation
 
 No. ?
 

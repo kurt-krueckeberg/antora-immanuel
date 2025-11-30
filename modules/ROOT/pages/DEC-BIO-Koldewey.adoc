@@ -9,9 +9,9 @@ image::27.jpg[align="left",title="Carl Heinrich Ludwig Koldeweÿ biography (Clic
 In modern German, the surname Koldeweÿ will become Koldewei or Koldewey
 ====
 
+[.narrow]
 == Transliteration from old German script
 
-[role="literal-narrower"]
 ....
 No. 11(?)
 
@@ -39,8 +39,8 @@ Januar 1862. Pathen: Johann Heinrich Bleeke und Fridrich Koldeweÿ.
 1866. Pathen: Louise Wittfeld und Maria Thile.
 ....
 
-[role="section-narrower"]
-== English Translation
+[.narrow]
+== Translation
 
 No. 11(?)
 

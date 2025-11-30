@@ -3,9 +3,9 @@
 
 image::28.jpg[title="Jakob Stöhr bio (Click to Enlarge)",link=self]
 
-== Transliteration from old German script
+[.narrow]
+== Transliteration
 
-[role="literal-narrow"]
 ....
 No. ?
 
@@ -25,8 +25,8 @@ Im Jahre 1845 wanderte sie mit ihren Eltern aus nach den Vereinigten
 Staaten von Nord-Amerika.
 ....
 
-[role="section-narrow"]
-== English Translation
+[.narrow]
+== Translation
 
 No. ?
 

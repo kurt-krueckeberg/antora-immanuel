@@ -11,7 +11,8 @@ image::29.jpg[align="left",title="Heinrich Jacob Rücklos bio(Click to Enlarge",
 The biography of Heinrich Jacob Rücklos Sr. is <<DEC-BIO-Rücklos-02, image 29>> of 242 from digital
 images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
-== Transliteration from old German script
+[.narrow]
+== Transliteration
 
 ehelicher Sohn von [empty] Rücklos und [empty].
 
@@ -33,7 +34,8 @@ Pathen: [empty]
 2. Friedrich Jakob, geboren den 2 Mai und getauft den 16 Mai 1864.
 Pathen [empty]
 
-== English Translation
+[.narrow]
+== Translation
 
 Heinrich Jacob Rücklos (senior)
 

@@ -11,7 +11,8 @@ image::30.jpg[align="left",title="Heinrich Jacob Rücklos Jr. bio(Click to Enlar
 The biography of Heinrich Jacob Rücklos Jr. is <<DEC-BIO-Rücklos-02, image 30>> of 242 from digital
 images of the Immanuel Lutheran Church (Decatur, Indiana), Kirchenbuch, 1850–1905.
 
-== Transliteration from old German script
+[.narrow]
+== Transliteration
 
 ehelicher Sohn von Heinrich Jacob Rücklos und Elisabeth, eine geborene
 Stöhr, geboren in Rumbach, Kanton Dahn, Rein-Pfalz, Königreich Baiern,
@@ -27,7 +28,8 @@ Kinder dieser Ehe sind
 1. Ludwig Wilhelm, geboren den 11 Januar und getauft den 7
 Februar 1864. Pathen: Johann H. Bleeke und Georg P. Germann.
 
-== English Translation
+[.narrow]
+== Translation
 
 Heinrich Jacob Rücklos (junior)
 

@@ -3,9 +3,9 @@
 
 image::19.jpg[align="left",title="Grote Biography (Click to Enlarge)",link=self]
 
+[.narrow]
 == Transliteration from old German script
 
-[role="literal-narrower"]
 ....
                                                                    33
 
@@ -47,8 +47,8 @@ den 2 Januar 1862.
 März. 1865. Taufpathen: Wilhelmine Weiland und Caroline Schamerloh.
 ....
 
-[role="section-narrower"]
-== English Translation
+[.narrow]
+== Translation
 
 [+] Johann Heinrich Wilhelm Carl Grote [+]
 

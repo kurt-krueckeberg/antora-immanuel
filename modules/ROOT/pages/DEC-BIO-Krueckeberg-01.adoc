@@ -5,10 +5,9 @@
 
 image::18.jpg[align="left",title="Johann Heinrich Krückeberg bio(Click to Enlarge",link=self]
 
-== Transliteration from old German script
+[.narrow]
+== Transliteration
 
-
-[role="literal-narrower"]
 ....
 33
 
@@ -46,8 +45,8 @@ sich in hießiger Gemeinde den 21 November desselben Jahres nieder, der er
 sich auch sogleich anschloß.
 ....
 
-[role="section-narrower"]
-== English Translation
+[.narrow]
+== Translation
 
 No. 2
 

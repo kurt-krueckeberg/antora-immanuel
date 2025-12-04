@@ -26,7 +26,7 @@
 ** xref:DEC-BIO-Rücklos-01.adoc[]
 ** xref:DEC-BIO-Rücklos-02.adoc[]
 ** xref:DEC-BIO-Schamerloh-02.adoc[]
-** xref:bios/jacob-fridrich-höriger.adoc[]
+** xref:DEC-BIO-Höriger.adoc[]
 ** xref:DEC-BIO-Fells.adoc[]
 ** xref:DEC-BIO-Stendler.adoc[]
 ** xref:DEC-BIO-Reinking-02.adoc[]
